@@ -695,7 +695,7 @@
 {
 "id": "extra-mai",
 "title": "MAI là gì? Website có những gì?",
-"text": "MAI – Medical Awareness Intelligence là nền tảng truyền thông giáo dục sức khỏe ứng dụng trí tuệ nhân tạo, giúp người dân tiếp cận, hiểu đúng và kiểm chứng thông tin y tế. Giai đoạn đầu tập trung vào viêm gan vi rút B cho người dân TP. Hồ Chí Minh. Website gồm: Chẩn tin – MAI Verify (kiểm chứng thông tin y tế: nhập thông tin, nhận kết luận chính xác/đúng một phần/sai lệch/chưa đủ bằng chứng kèm giải thích và nguồn), MAI AI (chatbot hỏi đáp), Đào tạo (các bài kiến thức), Học tập – MAI Learn (ngân hàng 200 câu trắc nghiệm có giải thích, khảo sát kiến thức ban đầu, ôn tập hằng ngày, chuỗi ngày học, huy hiệu), Cuộc thi (thử thách tuần), Tin tức. MAI chỉ cung cấp thông tin giáo dục sức khỏe, không thay thế bác sĩ, không chẩn đoán và không chỉ định điều trị. Nhóm phát triển là sinh viên liên ngành của Đại học Y Dược TP.HCM, Đại học Y khoa Phạm Ngọc Thạch và Đại học Bách khoa – ĐHQG TP.HCM.",
+"text": "MAI – Medical Awareness Intelligence là nền tảng truyền thông giáo dục sức khỏe ứng dụng trí tuệ nhân tạo, giúp người dân tiếp cận, hiểu đúng và kiểm chứng thông tin y tế. Giai đoạn đầu tập trung vào viêm gan vi rút B cho người dân TP. Hồ Chí Minh. Website gồm: Chẩn tin – MAI Verify (kiểm chứng thông tin y tế: nhập thông tin, nhận kết luận chính xác/đúng một phần/sai lệch/chưa đủ bằng chứng kèm giải thích và nguồn), MAI AI (chatbot hỏi đáp), Đào tạo (các bài kiến thức), Học tập (video giáo dục sức khỏe nhúng từ YouTube), Cuộc thi – MAI Learn (thử thách tuần, ngân hàng 200 câu trắc nghiệm có giải thích, khảo sát kiến thức ban đầu, ôn tập hằng ngày, chuỗi ngày học, huy hiệu), Diễn đàn (sắp ra mắt), Tin tức. Mục Đào tạo chia bài viết theo 6 nhóm chủ đề: Bệnh truyền nhiễm; Bệnh không lây nhiễm; Sức khỏe bà mẹ, trẻ em và dinh dưỡng; Sức khỏe tâm thần và các vấn đề xã hội; Tai nạn thương tích và bệnh nghề nghiệp; Vệ sinh môi trường và an toàn thực phẩm. MAI chỉ cung cấp thông tin giáo dục sức khỏe, không thay thế bác sĩ, không chẩn đoán và không chỉ định điều trị. Nhóm phát triển là sinh viên liên ngành của Đại học Y Dược TP.HCM, Đại học Y khoa Phạm Ngọc Thạch và Đại học Bách khoa – ĐHQG TP.HCM.",
 "source": "Giới thiệu website MAI",
 "link": "#/gioi-thieu"
 },
@@ -711,1399 +711,1399 @@
 "title": "Viêm gan B là bệnh gì? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Viêm gan B là bệnh gì?\nTrả lời đúng: Bệnh truyền nhiễm do virus viêm gan B (HBV) gây ra tại gan\nGiải thích: Viêm gan B do virus HBV xâm nhập và tấn công tế bào gan.\nNgười dân nên làm gì: Chủ động làm xét nghiệm HBsAg để biết tình trạng nhiễm virus.\nKhi nào cần đi khám: Đến ngay cơ sở y tế uy tín để kiểm tra sức khỏe định kỳ.",
 "source": "ngân hàng câu hỏi MAI, VGB-001 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-002",
 "title": "Tỷ lệ nhiễm virus viêm gan B ở người trưởng thành tại Việt Nam được ước tính khoảng bao nhiêu? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Tỷ lệ nhiễm virus viêm gan B ở người trưởng thành tại Việt Nam được ước tính khoảng bao nhiêu?\nTrả lời đúng: Khoảng 9,4%\nGiải thích: Việt Nam là vùng lưu hành dịch tễ cao, cứ khoảng 10 người lớn có gần 1 người nhiễm virus.\nNgười dân nên làm gì: Không chủ quan, kiểm tra sức khỏe định kỳ để được xét nghiệm sàng lọc.\nKhi nào cần đi khám: Khám tại Trạm y tế hoặc bệnh viện gần nhất.",
 "source": "ngân hàng câu hỏi MAI, VGB-002 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-003",
 "title": "Viêm gan B có thể gây ra những biến chứng nào nếu không được theo dõi và quản lý phù hợp? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Viêm gan B có thể gây ra những biến chứng nào nếu không được theo dõi và quản lý phù hợp?\nTrả lời đúng: Xơ gan tiến triển và Ung thư biểu mô tế bào gan\nGiải thích: Nhiễm virus kéo dài không theo dõi có thể biến đổi mô gan thành xơ và khối ung thư.\nNgười dân nên làm gì: Tuân thủ lịch tái khám định kỳ theo hẹn của bác sĩ.\nKhi nào cần đi khám: Đến bệnh viện ngay khi có dấu hiệu mệt mỏi, sụt cân, vàng da.",
 "source": "ngân hàng câu hỏi MAI, VGB-003 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-004",
 "title": "Vì sao viêm gan B mạn tính thường được ví là bệnh diễn tiến âm thầm? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Vì sao viêm gan B mạn tính thường được ví là bệnh diễn tiến âm thầm?\nTrả lời đúng: Đa số người nhiễm mạn tính KHÔNG CÓ triệu chứng rõ rệt ở giai đoạn đầu\nGiải thích: Virus âm thầm nảy nở trong tế bào gan mà không gây đau đớn cho đến khi gan bị tổn thương nặng.\nNgười dân nên làm gì: Không chờ có triệu chứng mới đi khám, hãy chủ động khám sức khỏe định kỳ mỗi 6-12 tháng.\nKhi nào cần đi khám: Đến cơ sở y tế làm xét nghiệm HBsAg tầm soát.",
 "source": "ngân hàng câu hỏi MAI, VGB-004 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-005",
 "title": "Người không có triệu chứng có nên xét nghiệm sàng lọc viêm gan B không? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Người không có triệu chứng có nên xét nghiệm sàng lọc viêm gan B không?\nTrả lời đúng: CÓ và NÊN đi, mọi người dân đều nên xét nghiệm HBsAg ít nhất một lần\nGiải thích: Xét nghiệm máu giúp phát hiện sớm virus để điều trị hoặc tiêm phòng kịp thời.\nNgười dân nên làm gì: Thực hiện xét nghiệm HBsAg và Anti-HBs.\nKhi nào cần đi khám: Đăng ký khám tại y tế cơ sở phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-005 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-006",
 "title": "Viêm gan B mạn tính hiện nay có thể được chữa khỏi hoàn toàn không? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Viêm gan B mạn tính hiện nay có thể được chữa khỏi hoàn toàn không?\nTrả lời đúng: Hiện chưa có thuốc tiêu diệt hoàn toàn virus, nhưng đã có thuốc kháng virus giúp kiểm soát bệnh hiệu quả\nGiải thích: Thuốc hiện tại giúp đè nén virus dưới ngưỡng phát hiện, bảo vệ gan lâu dài.\nNgười dân nên làm gì: Tuân thủ việc theo dõi và uống thuốc đúng chỉ định.\nKhi nào cần đi khám: Tái khám định kỳ theo hẹn của bác sĩ.",
 "source": "ngân hàng câu hỏi MAI, VGB-006 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-007",
 "title": "Mục tiêu chính của việc theo dõi và điều trị viêm gan B mạn tính là gì? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Mục tiêu chính của việc theo dõi và điều trị viêm gan B mạn tính là gì?\nTrả lời đúng: Ức chế lâu dài sự nhân lên của virus, ngăn ngừa xơ gan và ung thư gan\nGiải thích: Điều trị nhằm giữ cho virus nằm yên không phá hoại gan.\nNgười dân nên làm gì: Giữ thói quen sống lành mạnh và tuân thủ y tế.\nKhi nào cần đi khám: Đến cơ sở y tế tái khám đúng lịch.",
 "source": "ngân hàng câu hỏi MAI, VGB-007 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-008",
 "title": "Những nhóm đối tượng nào nên được ưu tiên xét nghiệm sàng lọc viêm gan B? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Những nhóm đối tượng nào nên được ưu tiên xét nghiệm sàng lọc viêm gan B?\nTrả lời đúng: Phụ nữ mang thai, người sinh trước năm 2003, người sống cùng người nhiễm HBV\nGiải thích: Đây là những nhóm có nguy cơ tiếp xúc cao hoặc cần bảo vệ dự phòng.\nNgười dân nên làm gì: Đưa người thân thuộc nhóm ưu tiên đi xét nghiệm sàng lọc.\nKhi nào cần đi khám: Đến trạm y tế phường/xã để được tư vấn.",
 "source": "ngân hàng câu hỏi MAI, VGB-008 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-009",
 "title": "Viêm gan B cấp tính thường diễn tiến trong khoảng thời gian nào? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Viêm gan B cấp tính thường diễn tiến trong khoảng thời gian nào?\nTrả lời đúng: Trong vòng 6 tháng kể từ khi nhiễm virus\nGiải thích: Viêm gan B cấp tính là giai đoạn nhiễm virus trong 6 tháng đầu sau khi nhiễm. Phần lớn người trưởng thành có hệ miễn dịch bình thường có thể tự loại bỏ virus và hồi phục, nhưng một số trường hợp có thể chuyển sang viêm gan B mạn tính nếu virus tồn tại trong cơ thể trên 6 tháng.\nNgười dân nên làm gì: Khi được chẩn đoán nhiễm viêm gan B cấp tính, cần đến cơ sở y tế để được đánh giá, xét nghiệm và theo dõi theo hướng dẫn của bác sĩ. Không tự ý sử dụng thuốc hoặc các sản phẩm được quảng cáo là giải độc gan.\nKhi nào cần đi khám: Cần đến cơ sở y tế ngay nếu xuất hiện vàng da tăng dần, nôn ói nhiều, đau bụng nhiều, lơ mơ hoặc rối loạn ý thức.",
 "source": "ngân hàng câu hỏi MAI, VGB-009 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-010",
 "title": "Nhiễm HBV được xác định là viêm gan B mạn tính khi HBsAg tồn tại trong bao lâu? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Nhiễm HBV được xác định là viêm gan B mạn tính khi HBsAg tồn tại trong bao lâu?\nTrả lời đúng: Kéo dài trên 6 tháng\nGiải thích: Nếu sau 6 tháng cơ thể không tự đào thải được HBsAg thì chuyển sang giai đoạn mạn tính.\nNgười dân nên làm gì: Khi được chẩn đoán nhiễm viêm gan B mạn tính, cần đến cơ sở y tế để được đánh giá, xét nghiệm và theo dõi theo hướng dẫn của bác sĩ. Không tự ý sử dụng thuốc hoặc các sản phẩm được quảng cáo là giải độc gan.\nKhi nào cần đi khám: Thăm khám bác sĩ chuyên khoa mỗi 3-6 tháng.",
 "source": "ngân hàng câu hỏi MAI, VGB-010 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-011",
 "title": "Những con đường lây truyền nào đóng vai trò quan trọng trong lây nhiễm HBV tại Việt Nam? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Những con đường lây truyền nào đóng vai trò quan trọng trong lây nhiễm HBV tại Việt Nam?\nTrả lời đúng: Lây từ mẹ sang con trong quá trình sinh nở\nGiải thích: Lây truyền từ mẹ sang con lúc chuyển dạ là con đường phổ biến nhất tại nước ta.\nNgười dân nên làm gì: Tầm soát cho thai phụ trong quá trình mang thai theo hướng dẫn của bác sĩ sản phụ khoa và tiêm phòng cho trẻ sơ sinh ngay.\nKhi nào cần đi khám: Khám thai định kỳ tại các cơ sở y tế phụ sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-011 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-012",
 "title": "Người nhiễm HBV mạn tính có thể sống lâu dài nếu được theo dõi và quản lý phù hợp không? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Người nhiễm HBV mạn tính có thể sống lâu dài nếu được theo dõi và quản lý phù hợp không?\nTrả lời đúng: CÓ, người bệnh hoàn toàn có thể sống khỏe mạnh và có tuổi thọ bình thường\nGiải thích: Nhờ thuốc kháng virus hiện đại, người bệnh hoàn toàn kiểm soát được bệnh khi tuân theo hướng dẫn của bác sĩ chuyên khoa.\nNgười dân nên làm gì: Giữ tinh thần lạc quan, uống thuốc đều đặn nếu được chỉ định.\nKhi nào cần đi khám: Tái khám đúng hẹn tại y tế cơ sở hoặc bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-012 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-013",
 "title": "Người nhiễm HBV nên trao đổi với người thân về tình trạng bệnh như thế nào? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Người nhiễm HBV nên trao đổi với người thân về tình trạng bệnh như thế nào?\nTrả lời đúng: NÊN chia sẻ, để người nhà đi xét nghiệm và tiêm phòng bảo vệ\nGiải thích: Chia sẻ giúp người thân chủ động tiêm vắc-xin và cùng chăm sóc sức khỏe.\nNgười dân nên làm gì: Cùng người nhà đi thử máu tầm soát.\nKhi nào cần đi khám: Đến trạm y tế phường để tiêm vắc-xin cho người thân chưa nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-013 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-014",
 "title": "Thuật ngữ “nhiễm HBV không hoạt động” thường được hiểu như thế nào? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Thuật ngữ “nhiễm HBV không hoạt động” thường được hiểu như thế nào?\nTrả lời đúng: Virus đang nằm yên trong gan, chưa gây tổn thương hay viêm gan tiến triển\nGiải thích: Virus tồn tại nhưng chưa nảy nở mạnh và chưa phá hủy tế bào gan. Tuy nhiên, tình trạng này có thể thay đổi theo thời gian, virus có thể hoạt động trở lại và gây viêm gan. Vì vậy, \"không hoạt động\" không đồng nghĩa với đã khỏi bệnh.\nNgười dân nên làm gì: Cần được khám và theo dõi định kỳ theo hướng dẫn của bác sĩ chuyên khoa.\nKhi nào cần đi khám: Cần tái khám theo lịch hẹn của bác sĩ. Nếu xuất hiện vàng da, vàng mắt, bụng trướng, phù hoặc mệt mỏi bất thường, cần đến cơ sở y tế để được đánh giá.",
 "source": "ngân hàng câu hỏi MAI, VGB-014 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-015",
 "title": "Điểm khác biệt chính giữa viêm gan A và viêm gan B là gì? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Điểm khác biệt chính giữa viêm gan A và viêm gan B là gì?\nTrả lời đúng: Viêm gan A lây qua ăn uống, Viêm gan B lây qua máu, tình dục và mẹ sang con\nGiải thích: Viêm gan A lây qua đường tiêu hóa, còn viêm gan B lây qua đường máu và dịch thể.\nNgười dân nên làm gì: Ăn chín uống sôi phòng viêm gan A; tiêm vắc-xin và dùng bao cao su phòng viêm gan B.\nKhi nào cần đi khám: Đến cơ sở y tế để tiêm vắc-xin phòng ngừa cả hai bệnh.",
 "source": "ngân hàng câu hỏi MAI, VGB-015 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-016",
 "title": "Viêm gan B thể tối cấp nguy hiểm ở điểm nào? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Viêm gan B thể tối cấp nguy hiểm ở điểm nào?\nTrả lời đúng: Diễn tiến rất nhanh, gây suy gan cấp nặng và tỷ lệ tử vong cao\nGiải thích: Thể tối cấp tuy hiếm nhưng tổn thương gan ồ ạt, cần cấp cứu ngay.\nNgười dân nên làm gì: Cần đưa người bệnh đến ngay bệnh viện lớn khi có dấu hiệu hôn mê, vàng da đậm.\nKhi nào cần đi khám: Cấp cứu tại bệnh viện chuyên khoa Truyền nhiễm cấp tốc.",
 "source": "ngân hàng câu hỏi MAI, VGB-016 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-017",
 "title": "Truyền thông giáo dục sức khỏe về viêm gan B hướng đến những mục tiêu nào? [Kiến thức chung & Dịch tễ học viêm gan B]",
 "text": "Câu hỏi: Truyền thông giáo dục sức khỏe về viêm gan B hướng đến những mục tiêu nào?\nTrả lời đúng: Nâng cao nhận thức, khuyến khích tiêm chủng, bãi bỏ kỳ thị và hướng dẫn chăm sóc đúng\nGiải thích: Truyền thông nhằm giúp cộng đồng chủ động phòng bệnh và hỗ trợ người nhiễm sống khỏe.\nNgười dân nên làm gì: Tham gia tìm hiểu kiến thức y tế chính thống.\nKhi nào cần đi khám: Đến trạm y tế địa phương để được tư vấn trực tiếp.",
 "source": "ngân hàng câu hỏi MAI, VGB-017 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/1"
+"link": "#/cuoc-thi/chu-de/1"
 },
 {
 "id": "VGB-018",
 "title": "Bệnh viêm gan B (HBV) do tác nhân nào gây ra? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Bệnh viêm gan B (HBV) do tác nhân nào gây ra?\nTrả lời đúng: Vi-rút\nGiải thích: Virus HBV có cấu trúc di truyền DNA thuộc họ Hepadnaviridae.\nNgười dân nên làm gì: Hiểu đúng bản chất virus để không nhầm với vi khuẩn.\nKhi nào cần đi khám: Đến cơ sở y tế khi cần thử máu.",
 "source": "ngân hàng câu hỏi MAI, VGB-018 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-019",
 "title": "HBV có khả năng tồn tại ngoài môi trường trong những điều kiện như thế nào? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: HBV có khả năng tồn tại ngoài môi trường trong những điều kiện như thế nào?\nTrả lời đúng: Có thể sống bền vững ngoài môi trường tự nhiên ít nhất 7 ngày\nGiải thích: HBV chịu nhiệt và khô ráo tốt, sống được nhiều ngày trên dụng cụ dính máu khô.\nNgười dân nên làm gì: Cẩn thận với các vết máu khô trên đồ vật sắc nhọn.\nKhi nào cần đi khám: Đến y tế tư vấn khi nghi ngờ tiếp xúc máu khô.",
 "source": "ngân hàng câu hỏi MAI, VGB-019 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-020",
 "title": "HBsAg là tên viết tắt của kháng nguyên nào trong xét nghiệm viêm gan B? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: HBsAg là tên viết tắt của kháng nguyên nào trong xét nghiệm viêm gan B?\nTrả lời đúng: Kháng nguyên bề mặt virus viêm gan B\nGiải thích: HBsAg là chỉ thị sự xuất hiện của virus viêm gan B trong máu.\nNgười dân nên làm gì: Xét nghiệm HBsAg để biết mình có nhiễm hay không.\nKhi nào cần đi khám: Khám tại phòng xét nghiệm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-020 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-021",
 "title": "Kết quả Anti-HBs dương tính thường cho biết điều gì về khả năng miễn dịch với HBV? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Kết quả Anti-HBs dương tính thường cho biết điều gì về khả năng miễn dịch với HBV?\nTrả lời đúng: Cơ thể đã có sức đề kháng bảo vệ khỏi virus viêm gan B\nGiải thích: Anti-HBs dương tính nghĩa là bạn đã được bảo vệ (do tiêm vắc-xin hoặc đã khỏi bệnh).\nNgười dân nên làm gì: Nếu Anti-HBs < 10 IU/L thì nên đi tiêm vắc-xin nhắc lại.\nKhi nào cần đi khám: Đăng ký tiêm phòng tại trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-021 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-022",
 "title": "Kết quả HBeAg dương tính thường gợi ý điều gì về hoạt động của HBV? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Kết quả HBeAg dương tính thường gợi ý điều gì về hoạt động của HBV?\nTrả lời đúng: Virus đang nhân lên mạnh và nguy cơ lây nhiễm cao\nGiải thích: HBeAg dương tính gắn liền với tình trạng sao chép virus tích cực.\nNgười dân nên làm gì: Tuân thủ hướng dẫn kiểm tra của bác sĩ.\nKhi nào cần đi khám: Thăm khám bác sĩ chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-022 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-023",
 "title": "Xét nghiệm HBV DNA dùng để đánh giá yếu tố nào? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Xét nghiệm HBV DNA dùng để đánh giá yếu tố nào?\nTrả lời đúng: Nồng độ virus (tải lượng virus) có trong máu\nGiải thích: Xét nghiệm HBV DNA cho biết chính xác có bao nhiêu bản sao virus trong 1 ml máu.\nNgười dân nên làm gì: Thực hiện xét nghiệm khi bác sĩ yêu cầu.\nKhi nào cần đi khám: Tái khám tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-023 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-024",
 "title": "Đun sôi ở 100°C có thể bất hoạt virus viêm gan B không? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Đun sôi ở 100°C có thể bất hoạt virus viêm gan B không?\nTrả lời đúng: Bị bất hoạt nếu đun sôi liên tục trong ít nhất 1-2 phút (hoặc hấp tiệt trùng)\nGiải thích: Nhiệt độ cao tiệt trùng đun sôi liên tục giúp làm biến tính hoàn toàn virus.\nNgười dân nên làm gì: Tiệt trùng dụng cụ y tế và tiêm xỏ đúng chuẩn.\nKhi nào cần đi khám: Tham khảo tư vấn tại cơ sở y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-024 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-025",
 "title": "Cồn 70 độ có hiệu quả trong việc bất hoạt HBV trên bề mặt hoặc dụng cụ không? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Cồn 70 độ có hiệu quả trong việc bất hoạt HBV trên bề mặt hoặc dụng cụ không?\nTrả lời đúng: Có thể bất hoạt virus nếu tiếp xúc đủ thời gian quy định\nGiải thích: Cồn y tế 70 độ và dung dịch chứa Clo giúp khử trùng vết máu bẩn hiệu quả.\nNgười dân nên làm gì: Khử trùng bề mặt dính máu bằng dung dịch sát khuẩn y tế.\nKhi nào cần đi khám: Đến trạm y tế khi bị phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-025 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-026",
 "title": "Hiện nay, có bao nhiêu kiểu gen chính của virus viêm gan B được ghi nhận? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Hiện nay, có bao nhiêu kiểu gen chính của virus viêm gan B được ghi nhận?\nTrả lời đúng: 10 kiểu gen (từ A đến J)\nGiải thích: HBV gồm các kiểu gen A-J phân bố ở các vùng địa lý khác nhau.\nNgười dân nên làm gì: Không cần quá lo lắng về kiểu gen, chỉ cần theo dõi chỉ định bác sĩ.\nKhi nào cần đi khám: Đến cơ sở y tế khi tái khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-026 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-027",
 "title": "Đột biến của HBV có thể ảnh hưởng như thế nào đến diễn tiến hoặc việc theo dõi bệnh? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Đột biến của HBV có thể ảnh hưởng như thế nào đến diễn tiến hoặc việc theo dõi bệnh?\nTrả lời đúng: Có thể ảnh hưởng đến kết quả xét nghiệm hoặc khả năng kháng thuốc\nGiải thích: Đột biến có thể làm virus lẩn tránh kháng thể hoặc giảm nhạy cảm với thuốc.\nNgười dân nên làm gì: Uống thuốc đúng giờ để tránh tạo ra virus đột biến kháng thuốc.\nKhi nào cần đi khám: Báo ngay bác sĩ nếu nghi ngờ thuốc giảm hiệu quả.",
 "source": "ngân hàng câu hỏi MAI, VGB-027 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-028",
 "title": "Người đã hồi phục sau viêm gan B cấp tính và có Anti-HBs có nguy cơ nhiễm HBV trở lại không? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Người đã hồi phục sau viêm gan B cấp tính và có Anti-HBs có nguy cơ nhiễm HBV trở lại không?\nTrả lời đúng: Rất hiếm khi bị tái nhiễm vì đã có kháng thể bảo vệ\nGiải thích: Kháng thể Anti-HBs tạo ra lá chắn miễn dịch bảo vệ cơ thể lâu dài.\nNgười dân nên làm gì: An tâm sinh hoạt bình thường.\nKhi nào cần đi khám: Kiểm tra lại nồng độ kháng thể sau nhiều năm nếu cần.",
 "source": "ngân hàng câu hỏi MAI, VGB-028 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-029",
 "title": "Kết quả Anti-HBc dương tính có thể mang ý nghĩa gì? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Kết quả Anti-HBc dương tính có thể mang ý nghĩa gì?\nTrả lời đúng: Cho biết cơ thể đã từng tiếp xúc với virus viêm gan B trong đời\nGiải thích: Anti-HBc là chỉ thị chứng minh bạn từng gặp virus HBV trong quá khứ.\nNgười dân nên làm gì: Khám tư vấn cùng bác sĩ để biết rõ giai đoạn.\nKhi nào cần đi khám: Đến phòng khám chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-029 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-030",
 "title": "HBV chủ yếu xâm nhập và nhân lên trong loại tế bào nào của cơ thể? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: HBV chủ yếu xâm nhập và nhân lên trong loại tế bào nào của cơ thể?\nTrả lời đúng: Tế bào gan (hepatocytes)\nGiải thích: Gan là cơ quan đích duy nhất mà virus HBV định cư và nhân lên.\nNgười dân nên làm gì: Bảo vệ lá gan bằng lối sống lành mạnh.\nKhi nào cần đi khám: Tái khám theo dõi chức năng gan định kỳ.",
 "source": "ngân hàng câu hỏi MAI, VGB-030 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-031",
 "title": "Yếu tố nào của cơ thể có vai trò giúp ngăn HBV xâm nhập vào tế bào gan? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Yếu tố nào của cơ thể có vai trò giúp ngăn HBV xâm nhập vào tế bào gan?\nTrả lời đúng: Kháng thể Anti-HBs nồng độ đầy đủ (≥ 10 IU/L)\nGiải thích: Kháng thể Anti-HBs trung hòa virus trước khi nó kịp chui vào tế bào gan.\nNgười dân nên làm gì: Tiêm vắc-xin đủ mũi để đạt nồng độ kháng thể an toàn.\nKhi nào cần đi khám: Tiêm chủng tại Trạm Y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-031 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-032",
 "title": "HBV có lây qua đường hô hấp khi nói chuyện thông thường không? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: HBV có lây qua đường hô hấp khi nói chuyện thông thường không?\nTrả lời đúng: KHÔNG LÂY qua không khí hay nói chuyện giao tiếp\nGiải thích: HBV không sống trong giọt bắn hô hấp thông thường khi ho hay nói chuyện.\nNgười dân nên làm gì: Tự tin giao tiếp không lo lây nhiễm.\nKhi nào cần đi khám: Tư vấn tại trạm y tế khi cần thông tin.",
 "source": "ngân hàng câu hỏi MAI, VGB-032 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-033",
 "title": "Biện pháp nào được sử dụng để khử khuẩn hoặc tiệt khuẩn dụng cụ y tế nhằm phòng lây truyền HBV? [Nguyên nhân & Đặc điểm của virus HBV]",
 "text": "Câu hỏi: Biện pháp nào được sử dụng để khử khuẩn hoặc tiệt khuẩn dụng cụ y tế nhằm phòng lây truyền HBV?\nTrả lời đúng: Hấp tiệt trùng áp suất cao (Autoclave) hoặc luộc sôi đúng quy trình y tế\nGiải thích: Tiệt trùng nhiệt độ áp suất cao đảm bảo hủy diệt hoàn toàn mầm bệnh.\nNgười dân nên làm gì: Sử dụng dịch vụ y tế và làm đẹp uy tín tiệt trùng đúng quy chuẩn.\nKhi nào cần đi khám: Khám tại các cơ sở y tế đạt chuẩn.",
 "source": "ngân hàng câu hỏi MAI, VGB-033 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/2"
+"link": "#/cuoc-thi/chu-de/2"
 },
 {
 "id": "VGB-034",
 "title": "HBV có thể lây truyền qua những con đường nào? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: HBV có thể lây truyền qua những con đường nào?\nTrả lời đúng: Đường máu, Quan hệ tình dục không an toàn, Truyền từ mẹ sang con\nGiải thích: Ba đường lây chính của HBV là máu, tình dục và mẹ truyền sang con.\nNgười dân nên làm gì: Phòng tránh tiếp xúc máu và dùng bao cao su an toàn.\nKhi nào cần đi khám: Đến cơ sở y tế xét nghiệm khi có nguy cơ phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-034 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-035",
 "title": "Ăn chung mâm, dùng chung bát đũa hoặc chấm chung nước mắm có làm lây HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Ăn chung mâm, dùng chung bát đũa hoặc chấm chung nước mắm có làm lây HBV không?\nTrả lời đúng: KHÔNG LÂY TRUYỀN qua đường ăn uống sinh hoạt chung\nGiải thích: Virus không lây qua nước bọt hay thức ăn sinh hoạt mâm cỗ gia đình.\nNgười dân nên làm gì: Yên tâm ăn uống cùng gia đình, không cách ly bát đũa.\nKhi nào cần đi khám: Đưa người nhà đi tiêm vắc-xin phòng bệnh.",
 "source": "ngân hàng câu hỏi MAI, VGB-035 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-036",
 "title": "Muỗi hút máu người nhiễm HBV rồi đốt người khác có truyền HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Muỗi hút máu người nhiễm HBV rồi đốt người khác có truyền HBV không?\nTrả lời đúng: KHÔNG LÂY TRUYỀN qua muỗi hay côn trùng đốt\nGiải thích: Virus HBV không nhân lên hay tồn tại dạng lây nhiễm trong tuyến nước bọt của muỗi.\nNgười dân nên làm gì: Không lo lây viêm gan B từ muỗi (dù vẫn cần phòng sốt xuất huyết).\nKhi nào cần đi khám: Tư vấn thêm tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-036 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-037",
 "title": "Những vật dụng cá nhân nào dùng chung trong gia đình có thể làm tăng nguy cơ lây HBV? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Những vật dụng cá nhân nào dùng chung trong gia đình có thể làm tăng nguy cơ lây HBV?\nTrả lời đúng: Bàn chải đánh răng, Dao cạo râu, Bấm móng tay\nGiải thích: Các vật dụng sắc nhọn cá nhân dễ dính vệt máu vi thể gây lây nhiễm.\nNgười dân nên làm gì: Không dùng chung đồ vật có nguy cơ dính máu.\nKhi nào cần đi khám: Thử máu cho thành viên gia đình.",
 "source": "ngân hàng câu hỏi MAI, VGB-037 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-038",
 "title": "Quan hệ tình dục không sử dụng bao cao su với người nhiễm HBV có làm tăng nguy cơ lây nhiễm không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Quan hệ tình dục không sử dụng bao cao su với người nhiễm HBV có làm tăng nguy cơ lây nhiễm không?\nTrả lời đúng: CÓ NGUY CƠ LÂY NHIỄM CAO nếu bạn tình chưa có kháng thể bảo vệ\nGiải thích: Virus HBV có nồng độ cao trong dịch sinh dục làm lây qua quan hệ không an toàn.\nNgười dân nên làm gì: Sử dụng bao cao su hoặc tiêm vắc-xin tạo kháng thể trước.\nKhi nào cần đi khám: Đến phòng khám chuyên khoa tư vấn.",
 "source": "ngân hàng câu hỏi MAI, VGB-038 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-039",
 "title": "Ôm, bắt tay hoặc hôn xã giao có phải là những cách lây truyền HBV thông thường không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Ôm, bắt tay hoặc hôn xã giao có phải là những cách lây truyền HBV thông thường không?\nTrả lời đúng: KHÔNG LÂY qua tiếp xúc xã giao thông thường\nGiải thích: Tiếp xúc da lành không làm lây truyền virus.\nNgười dân nên làm gì: Thoải mái ôm bắt tay giao tiếp xã hội.\nKhi nào cần đi khám: Tham khảo kiến thức tại trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-039 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-040",
 "title": "Dùng chung nhà vệ sinh hoặc bồn tắm với người nhiễm HBV có làm lây bệnh không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Dùng chung nhà vệ sinh hoặc bồn tắm với người nhiễm HBV có làm lây bệnh không?\nTrả lời đúng: KHÔNG LÂY qua nhà vệ sinh hay môi trường nước bồn tắm\nGiải thích: Virus không lây qua tiếp xúc da với thiết bị vệ sinh.\nNgười dân nên làm gì: Vệ sinh nhà cửa sạch sẽ bình thường.\nKhi nào cần đi khám: Tư vấn sức khỏe tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-040 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-041",
 "title": "Máu của người nhiễm HBV tiếp xúc trực tiếp với vết thương hở có thể gây lây nhiễm không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Máu của người nhiễm HBV tiếp xúc trực tiếp với vết thương hở có thể gây lây nhiễm không?\nTrả lời đúng: CÓ NGUY CƠ LÂY NHIỄM CAO\nGiải thích: Máu chứa nồng độ virus HBV rất cao, xâm nhập trực tiếp qua da trầy xước.\nNgười dân nên làm gì: Rửa ngay bằng nước sạch xà phòng và đi khám y tế.\nKhi nào cần đi khám: Đến ngay cơ sở y tế trong 24 giờ để xử trí phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-041 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-042",
 "title": "Làm móng, xăm hình hoặc xỏ khuyên bằng dụng cụ không được tiệt khuẩn đúng cách có thể làm lây HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Làm móng, xăm hình hoặc xỏ khuyên bằng dụng cụ không được tiệt khuẩn đúng cách có thể làm lây HBV không?\nTrả lời đúng: CÓ NGUY CƠ LÂY NHIỄM\nGiải thích: Dụng cụ xỏ xăm dính máu người nhiễm chưa tiệt trùng sẽ làm lây truyền virus.\nNgười dân nên làm gì: Chọn cơ sở làm đẹp uy tín, dùng kim và lưỡi dao mới tiệt trùng.\nKhi nào cần đi khám: Đến cơ sở y tế khi có nguy cơ phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-042 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-043",
 "title": "HBV thường lây truyền từ mẹ sang con vào thời điểm nào? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: HBV thường lây truyền từ mẹ sang con vào thời điểm nào?\nTrả lời đúng: Trong lúc chuyển dạ và sinh con\nGiải thích: Sự co bóp tử cung và tiếp xúc máu dịch lúc sinh là thời điểm lây truyền chính.\nNgười dân nên làm gì: Tiêm vắc-xin và huyết thanh cho bé ngay trong 24h sau sinh.\nKhi nào cần đi khám: Sinh con tại bệnh viện có chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-043 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-044",
 "title": "Ho, hắt hơi hoặc hỉ mũi có thể làm lây HBV cho người xung quanh không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Ho, hắt hơi hoặc hỉ mũi có thể làm lây HBV cho người xung quanh không?\nTrả lời đúng: KHÔNG LÂY truyền qua ho hay hắt hơi\nGiải thích: HBV không lây qua giọt bắn đường hô hấp.\nNgười dân nên làm gì: Không cần cách ly người bệnh khi ho sốt thông thường.\nKhi nào cần đi khám: Khám tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-044 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-045",
 "title": "Dùng chung ly uống nước hoặc chai nước có làm lây HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Dùng chung ly uống nước hoặc chai nước có làm lây HBV không?\nTrả lời đúng: KHÔNG LÂY qua đồ uống chung nếu miệng không bị lở lở chảy máu cấp\nGiải thích: Nước bọt không chứa đủ nồng độ virus để gây lây nhiễm qua đồ uống.\nNgười dân nên làm gì: Giữ vệ sinh ăn uống cá nhân bình thường.\nKhi nào cần đi khám: Tư vấn thêm tại trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-045 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-046",
 "title": "Bơi chung hồ bơi công cộng với người nhiễm HBV có làm lây bệnh không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Bơi chung hồ bơi công cộng với người nhiễm HBV có làm lây bệnh không?\nTrả lời đúng: KHÔNG LÂY qua nước hồ bơi\nGiải thích: Nước hồ bơi không phải là môi trường lây truyền HBV.\nNgười dân nên làm gì: Thoải mái tập luyện thể thao bơi lội.\nKhi nào cần đi khám: Khám sức khỏe định kỳ.",
 "source": "ngân hàng câu hỏi MAI, VGB-046 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-047",
 "title": "Người mẹ nhiễm HBV có thể cho con bú khi trẻ đã được dự phòng bằng vắc-xin và HBIG theo khuyến cáo không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Người mẹ nhiễm HBV có thể cho con bú khi trẻ đã được dự phòng bằng vắc-xin và HBIG theo khuyến cáo không?\nTrả lời đúng: CÓ, cho con bú hoàn toàn an toàn khi trẻ đã tiêm phòng đúng\nGiải thích: nếu đầu vú mẹ bị nứt và chảy máu, nên tạm ngưng cho bú cho đến khi lành, đồng thời vắt và bỏ sữa trong thời gian này. Đây là biện pháp thận trọng vì HBV có thể lây qua máu.\nNgười dân nên làm gì: Cho trẻ bú sữa mẹ hoàn toàn.\nKhi nào cần đi khám: Khám tư vấn thai sản tại bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-047 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-048",
 "title": "Vết cắn của người khác gây chảy máu có thể làm phát sinh nguy cơ lây HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Vết cắn của người khác gây chảy máu có thể làm phát sinh nguy cơ lây HBV không?\nTrả lời đúng: Có nguy cơ nếu vết cắn gây rách da và có tiếp xúc máu\nGiải thích: Tiếp xúc máu qua vết thương rách da có nguy cơ lây nhiễm.\nNgười dân nên làm gì: Rửa vết thương xà phòng và đi khám.\nKhi nào cần đi khám: Đến cơ sở y tế trong 24h để xử trí.",
 "source": "ngân hàng câu hỏi MAI, VGB-048 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-049",
 "title": "Nhổ răng hoặc làm thủ thuật nha khoa tại cơ sở không bảo đảm vô khuẩn có thể làm lây HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Nhổ răng hoặc làm thủ thuật nha khoa tại cơ sở không bảo đảm vô khuẩn có thể làm lây HBV không?\nTrả lời đúng: CÓ NGUY CƠ LÂY NHIỄM qua dụng cụ dính máu\nGiải thích: Dụng cụ nha khoa xâm lấn cần được hấp tiệt trùng chuẩn để tránh lây nhiễm.\nNgười dân nên làm gì: Khám răng tại cơ sở nha khoa uy tín đảm bảo vô trùng.\nKhi nào cần đi khám: Tư vấn y tế khi nghi ngờ phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-049 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-050",
 "title": "Hiến máu tại cơ sở được cấp phép, sử dụng dụng cụ vô khuẩn dùng một lần, có làm tăng nguy cơ người hiến bị nhiễm HBV không? [Đường lây truyền & Các trường hợp KHÔNG lây truyền]",
 "text": "Câu hỏi: Hiến máu tại cơ sở được cấp phép, sử dụng dụng cụ vô khuẩn dùng một lần, có làm tăng nguy cơ người hiến bị nhiễm HBV không?\nTrả lời đúng: KHÔNG, vì kim lấy máu là loại vô trùng dùng 1 lần rồi bỏ\nGiải thích: Quy trình hiến máu an toàn dùng dụng cụ tiệt trùng riêng biệt 1 lần.\nNgười dân nên làm gì: An tâm tham gia hiến máu nhân đạo nếu đủ sức khỏe.\nKhi nào cần đi khám: Khám sàng lọc trước hiến máu.",
 "source": "ngân hàng câu hỏi MAI, VGB-050 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/3"
+"link": "#/cuoc-thi/chu-de/3"
 },
 {
 "id": "VGB-051",
 "title": "Người nhiễm HBV mạn tính thường có biểu hiện triệu chứng như thế nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Người nhiễm HBV mạn tính thường có biểu hiện triệu chứng như thế nào?\nTrả lời đúng: Thường KHÔNG CÓ TRIỆU CHỨNG rõ rệt cho đến khi gan bị tổn thương nặng\nGiải thích: Viêm gan B mạn tiến triển im lặng không gây đau đớn ở giai đoạn sớm.\nNgười dân nên làm gì: Chủ động đi xét nghiệm thử máu.\nKhi nào cần đi khám: Đến cơ sở y tế làm xét nghiệm HBsAg.",
 "source": "ngân hàng câu hỏi MAI, VGB-051 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-052",
 "title": "Những triệu chứng nào có thể gặp ở người mắc viêm gan B cấp tính và cần được chú ý? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Những triệu chứng nào có thể gặp ở người mắc viêm gan B cấp tính và cần được chú ý?\nTrả lời đúng: Mệt mỏi, chán ăn, vàng da, vàng mắt, nước tiểu sậm màu như nước trà đậm\nGiải thích: Khi gan bị viêm cấp, sắc tố mật tràn vào máu gây vàng da và tiểu sậm.\nNgười dân nên làm gì: Nghỉ ngơi và đi khám y tế ngay.\nKhi nào cần đi khám: Đến khám tại khoa Truyền nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-052 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-053",
 "title": "Vàng da, vàng mắt ở người mắc viêm gan B thường liên quan đến nguyên nhân nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Vàng da, vàng mắt ở người mắc viêm gan B thường liên quan đến nguyên nhân nào?\nTrả lời đúng: Do bilirubin (sắc tố mật) tăng cao trong máu khi tế bào gan bị tổn thương\nGiải thích: Tế bào gan bị viêm không chuyển hóa được bilirubin dẫn đến tích tụ gây vàng da.\nNgười dân nên làm gì: Đi khám bác sĩ để kiểm tra chức năng gan.\nKhi nào cần đi khám: Thăm khám tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-053 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-054",
 "title": "Vì sao người nhiễm HBV vẫn có thể bị xơ gan dù cảm thấy khỏe mạnh và không có triệu chứng rõ rệt? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Vì sao người nhiễm HBV vẫn có thể bị xơ gan dù cảm thấy khỏe mạnh và không có triệu chứng rõ rệt?\nTrả lời đúng: Vì xơ gan diễn tiến âm thầm qua nhiều năm mà không gây đau đớn\nGiải thích: Mô xơ thay thế tế bào gan từ từ mà người bệnh không cảm nhận được.\nNgười dân nên làm gì: Khám và siêu âm gan định kỳ 3-6 tháng.\nKhi nào cần đi khám: Khám chuyên khoa Gan mật.",
 "source": "ngân hàng câu hỏi MAI, VGB-054 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-055",
 "title": "Những phương pháp nào thường được sử dụng để theo dõi và phát hiện sớm ung thư biểu mô tế bào gan ở người có nguy cơ? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Những phương pháp nào thường được sử dụng để theo dõi và phát hiện sớm ung thư biểu mô tế bào gan ở người có nguy cơ?\nTrả lời đúng: Tầm soát định kỳ bằng Siêu âm bụng và xét nghiệm chỉ số AFP\nGiải thích: Siêu âm và chỉ dấu AFP giúp phát hiện khối u nhỏ khi chưa có triệu chứng.\nNgười dân nên làm gì: Tuân thủ lịch tầm soát 6 tháng/lần.\nKhi nào cần đi khám: Khám định kỳ tại cơ sở y tế và tuân theo hướng dẫn, chỉ định của bác sĩ.",
 "source": "ngân hàng câu hỏi MAI, VGB-055 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-056",
 "title": "Nước tiểu sẫm màu như trà đặc có thể là dấu hiệu của tình trạng nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Nước tiểu sẫm màu như trà đặc có thể là dấu hiệu của tình trạng nào?\nTrả lời đúng: Dấu hiệu cảnh báo gan đang bị viêm/tổn thương thải sắc tố mật qua nước tiểu\nGiải thích: Sắc tố mật bị thải qua đường tiết niệu làm nước tiểu có màu sậm bất thường.\nNgười dân nên làm gì: Đi thử máu và nước tiểu kiểm tra.\nKhi nào cần đi khám: Đến cơ sở y tế khám ngay.",
 "source": "ngân hàng câu hỏi MAI, VGB-056 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-057",
 "title": "Những dấu hiệu nào có thể xuất hiện khi xơ gan đã tiến triển đến giai đoạn muộn? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Những dấu hiệu nào có thể xuất hiện khi xơ gan đã tiến triển đến giai đoạn muộn?\nTrả lời đúng: Phù chân, bụng trướng to (cổ trướng), xuất huyết tiêu hóa nôn ra máu\nGiải thích: Gan xơ chai làm suy giảm chức năng tổng hợp đạm và gây tăng áp lực tĩnh mạch cửa.\nNgười dân nên làm gì: Cần nhập viện điều trị theo phác đồ bác sĩ.\nKhi nào cần đi khám: Cấp cứu/Khám chuyên khoa Gan mật.",
 "source": "ngân hàng câu hỏi MAI, VGB-057 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-058",
 "title": "Mệt mỏi ở người mắc viêm gan B có thể liên quan đến những yếu tố nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Mệt mỏi ở người mắc viêm gan B có thể liên quan đến những yếu tố nào?\nTrả lời đúng: Do khả năng dự trữ và chuyển hóa năng lượng của gan bị suy giảm\nGiải thích: Gan bị viêm làm ảnh hưởng đến quá trình chuyển hóa glycogen cung cấp năng lượng.\nNgười dân nên làm gì: Tránh làm việc quá sức, nghỉ ngơi hợp lý.\nKhi nào cần đi khám: Tái khám theo dõi chức năng gan.",
 "source": "ngân hàng câu hỏi MAI, VGB-058 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-059",
 "title": "Xuất huyết tiêu hóa do biến chứng xơ gan nguy hiểm như thế nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Xuất huyết tiêu hóa do biến chứng xơ gan nguy hiểm như thế nào?\nTrả lời đúng: Nôn ra máu tươi hoặc đi cầu phân đen như bã cà phê (có mùi hôi tanh, sệt), cấp cứu tử vong cao\nGiải thích: Vỡ giãn tĩnh mạch thực quản do xơ gan gây chảy máu ồ ạt nguy hiểm tính mạng.\nNgười dân nên làm gì: Đưa bệnh nhân cấp cứu ngay lập tức.\nKhi nào cần đi khám: Đến ngay khoa Cấp cứu bệnh viện lớn.",
 "source": "ngân hàng câu hỏi MAI, VGB-059 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-060",
 "title": "Nhiễm HBV mạn tính có làm tăng nguy cơ ung thư gan so với người không nhiễm không? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Nhiễm HBV mạn tính có làm tăng nguy cơ ung thư gan so với người không nhiễm không?\nTrả lời đúng: CÓ, nguy cơ cao gấp hàng chục lần nếu không quản lý theo dõi\nGiải thích: Sự tổn thương và tái tạo tế bào gan liên tục do virus làm tăng nguy cơ đột biến ung thư.\nNgười dân nên làm gì: Tầm soát định kỳ siêu âm và AFP.\nKhi nào cần đi khám: Theo dõi tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-060 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-061",
 "title": "Phù hai chân ở người mắc xơ gan có thể liên quan đến nguyên nhân nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Phù hai chân ở người mắc xơ gan có thể liên quan đến nguyên nhân nào?\nTrả lời đúng: Do suy giảm nồng độ Albumin máu do gan sản xuất và giữ nước\nGiải thích: Gan suy không sản xuất đủ đạm albumin dẫn đến giảm áp lực keo gây thoát dịch phù chân.\nNgười dân nên làm gì: Nằm kê cao chân, ăn giảm muối và đi khám.\nKhi nào cần đi khám: Tái khám chuyên khoa Nội tiêu hóa.",
 "source": "ngân hàng câu hỏi MAI, VGB-061 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-062",
 "title": "Ngứa da kéo dài ở người mắc bệnh gan có thể liên quan đến yếu tố nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Ngứa da kéo dài ở người mắc bệnh gan có thể liên quan đến yếu tố nào?\nTrả lời đúng: Sự tích tụ muối mật dưới da do dòng chảy mật bị tắc nghẽn/trệ\nGiải thích: Ứ mật trong gan làm muối mật ngấm vào máu và đọng dưới da gây ngứa.\nNgười dân nên làm gì: Không gãi rách da, đi khám kiểm tra men gan.\nKhi nào cần đi khám: Đến cơ sở y tế tái khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-062 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-063",
 "title": "Chán ăn hoặc ăn không ngon miệng ở người mắc viêm gan B có thể do những nguyên nhân nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Chán ăn hoặc ăn không ngon miệng ở người mắc viêm gan B có thể do những nguyên nhân nào?\nTrả lời đúng: Gan giảm tiết mật làm ảnh hưởng đến sự tiêu hóa chất béo\nGiải thích: Mật giúp nhũ hóa chất béo; khi gan tổn thương dịch mật giảm gây đầy bụng sợ mỡ.\nNgười dân nên làm gì: Ăn thức ăn thanh nhẹ, chia nhỏ bữa ăn.\nKhi nào cần đi khám: Tư vấn bác sĩ tại kỳ tái khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-063 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-064",
 "title": "Suy gan cấp trên nền viêm gan B mạn tính có thể biểu hiện bằng những dấu hiệu nào? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Suy gan cấp trên nền viêm gan B mạn tính có thể biểu hiện bằng những dấu hiệu nào?\nTrả lời đúng: Vàng da tăng nhanh, rối loạn đông máu, lơ mơ hoặc hôn mê gan\nGiải thích: Tế bào gan bị hủy hoại diện rộng cấp tính dẫn đến nhiễm độc thần kinh.\nNgười dân nên làm gì: Đưa bệnh nhân nhập viện cấp cứu ngay.\nKhi nào cần đi khám: Cấp cứu tại bệnh viện lớn.",
 "source": "ngân hàng câu hỏi MAI, VGB-064 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-065",
 "title": "Tình trạng tích tụ dịch làm bụng trướng to ở người xơ gan được gọi là gì? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Tình trạng tích tụ dịch làm bụng trướng to ở người xơ gan được gọi là gì?\nTrả lời đúng: Bụng cổ trướng (tráng dịch màng bụng)\nGiải thích: Dịch thoát vào khoang màng bụng do tăng áp lực mạch máu và giảm đạm máu.\nNgười dân nên làm gì: Hạn chế uống nhiều nước và muối, đi khám ngay.\nKhi nào cần đi khám: Nhập viện điều trị chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-065 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-066",
 "title": "Những biện pháp nào giúp giảm nguy cơ biến chứng xơ gan và ung thư gan ở người nhiễm HBV? [Triệu chứng, diễn tiến & Biến chứng nguy hiểm]",
 "text": "Câu hỏi: Những biện pháp nào giúp giảm nguy cơ biến chứng xơ gan và ung thư gan ở người nhiễm HBV?\nTrả lời đúng: Uống thuốc kháng virus đúng chỉ định và tái khám kiểm tra định kỳ 3-6 tháng\nGiải thích: Kiểm soát tốt virus giúp dừng quá trình tổn thương gan tiến triển.\nNgười dân nên làm gì: Tuân thủ lịch tái khám và phác đồ điều trị.\nKhi nào cần đi khám: Khám định kỳ tại y tế cơ sở/bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-066 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/4"
+"link": "#/cuoc-thi/chu-de/4"
 },
 {
 "id": "VGB-067",
 "title": "Kết quả xét nghiệm HBsAg âm tính cho biết điều gì? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Kết quả xét nghiệm HBsAg âm tính cho biết điều gì?\nTrả lời đúng: Hiện tại cơ thể không nhiễm virus viêm gan B\nGiải thích: HBsAg âm tính cho thấy tại thời điểm thử máu bạn không mang mầm bệnh HBV.\nNgười dân nên làm gì: Khuyên đi làm thêm Anti-HBs để xem có cần tiêm vắc-xin không.\nKhi nào cần đi khám: Tư vấn tại trạm y tế địa phương.",
 "source": "ngân hàng câu hỏi MAI, VGB-067 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-068",
 "title": "Kết quả xét nghiệm HBsAg dương tính cho biết điều gì? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Kết quả xét nghiệm HBsAg dương tính cho biết điều gì?\nTrả lời đúng: Cơ thể hiện đang mang virus viêm gan B\nGiải thích: HBsAg dương tính thể hiện có sự hiện diện của HBV trong cơ thể.\nNgười dân nên làm gì: Bình tĩnh, đi gặp bác sĩ để được hướng dẫn đánh giá thêm.\nKhi nào cần đi khám: Khám tại phòng khám chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-068 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-069",
 "title": "Kết quả Anti-HBs lớn hơn 10 IU/L thường được diễn giải như thế nào? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Kết quả Anti-HBs lớn hơn 10 IU/L thường được diễn giải như thế nào?\nTrả lời đúng: Cơ thể đã có đủ lượng kháng thể bảo vệ an toàn khỏi virus HBV\nGiải thích: Nồng độ Anti-HBs ≥ 10 IU/L tạo lá chắn miễn dịch phòng ngừa hiệu quả.\nNgười dân nên làm gì: An tâm vì đã có kháng thể bảo vệ.\nKhi nào cần đi khám: Tư vấn tại trạm y tế phường.",
 "source": "ngân hàng câu hỏi MAI, VGB-069 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-070",
 "title": "Kết quả Anti-HBs dưới 10 IU/L hoặc âm tính thường gợi ý điều gì? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Kết quả Anti-HBs dưới 10 IU/L hoặc âm tính thường gợi ý điều gì?\nTrả lời đúng: Cơ thể chưa có hoặc không còn đủ lượng kháng thể bảo vệ\nGiải thích: Nồng độ kháng thể dưới 10 IU/L chưa đủ sức bảo vệ khỏi lây nhiễm.\nNgười dân nên làm gì: Đăng ký tiêm phòng vắc-xin viêm gan B.\nKhi nào cần đi khám: Tiêm chủng tại Trạm Y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-070 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-071",
 "title": "Có cần nhịn ăn trước khi xét nghiệm HBsAg và Anti-HBs không? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Có cần nhịn ăn trước khi xét nghiệm HBsAg và Anti-HBs không?\nTrả lời đúng: KHÔNG CẦN, xét nghiệm kháng nguyên/kháng thể HBV không bị ảnh hưởng bởi thức ăn\nGiải thích: Xét nghiệm HBsAg/Anti-HBs đo lường protein miễn dịch không phụ thuộc vào bữa ăn.\nNgười dân nên làm gì: Có thể đi xét nghiệm bất kỳ lúc nào trong ngày.\nKhi nào cần đi khám: Đến phòng xét nghiệm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-071 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-072",
 "title": "Nồng độ men gan ALT/AST tăng có thể phản ánh tình trạng nào? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Nồng độ men gan ALT/AST tăng có thể phản ánh tình trạng nào?\nTrả lời đúng: Tế bào gan đang bị tổn thương/viêm\nGiải thích: Men gan giải phóng vào máu khi tế bào gan bị vỡ hoại tử.\nNgười dân nên làm gì: Đi gặp bác sĩ để tìm nguyên nhân gây tăng men gan.\nKhi nào cần đi khám: Khám chuyên khoa Nội tiêu hóa/Gan mật.",
 "source": "ngân hàng câu hỏi MAI, VGB-072 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-073",
 "title": "Men gan ALT/AST bình thường có đủ để loại trừ nhiễm HBV không? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Men gan ALT/AST bình thường có đủ để loại trừ nhiễm HBV không?\nTrả lời đúng: KHÔNG CHẮC, vì nhiều người nhiễm HBV mạn tính men gan vẫn bình thường\nGiải thích: Virus có thể sống hòa hoãn mà chưa gây bùng phát men gan.\nNgười dân nên làm gì: Cần xét nghiệm HBsAg mới biết được có nhiễm virus hay không.\nKhi nào cần đi khám: Thực hiện xét nghiệm tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-073 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-074",
 "title": "Xét nghiệm HBV DNA thường được chỉ định nhằm đánh giá điều gì? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Xét nghiệm HBV DNA thường được chỉ định nhằm đánh giá điều gì?\nTrả lời đúng: Khi HBsAg dương tính và bác sĩ cần đánh giá sự nhân lên của virus để cân nhắc điều trị\nGiải thích: HBV DNA giúp đo lường mức độ hoạt động của virus để ra quyết định y khoa.\nNgười dân nên làm gì: Tuân thủ chỉ định xét nghiệm của bác sĩ.\nKhi nào cần đi khám: Tái khám tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-074 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-075",
 "title": "Kết quả HBeAg dương tính trong xét nghiệm máu thường gợi ý điều gì? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Kết quả HBeAg dương tính trong xét nghiệm máu thường gợi ý điều gì?\nTrả lời đúng: Virus đang sao chép nhân lên mạnh mẽ, tính lây nhiễm cao\nGiải thích: HBeAg là dấu ấn sinh học của sự nhân lên tích cực của HBV.\nNgười dân nên làm gì: Cần theo dõi sát y tế theo chỉ dẫn bác sĩ.\nKhi nào cần đi khám: Khám bác sĩ chuyên khoa Truyền nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-075 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-076",
 "title": "Siêu âm bụng được sử dụng với mục đích gì trong theo dõi người nhiễm HBV? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Siêu âm bụng được sử dụng với mục đích gì trong theo dõi người nhiễm HBV?\nTrả lời đúng: Đánh giá cấu trúc gan, phát hiện sớm dấu hiệu xơ gan hoặc khối u u gan nhỏ\nGiải thích: Siêu âm sóng âm giúp quan sát hình ảnh đại thể của nhu mô gan.\nNgười dân nên làm gì: Thực hiện siêu âm định kỳ mỗi 6 tháng.\nKhi nào cần đi khám: Khám tại cơ sở y tế uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-076 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-077",
 "title": "Xét nghiệm AFP trong máu có vai trò gì khi theo dõi nguy cơ ung thư gan? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Xét nghiệm AFP trong máu có vai trò gì khi theo dõi nguy cơ ung thư gan?\nTrả lời đúng: Hỗ trợ tầm soát và phát hiện sớm ung thư biểu mô tế bào gan (HCC)\nGiải thích: AFP là chỉ dấu sinh học nồng độ tăng cao trong đa số trường hợp u gan.\nNgười dân nên làm gì: Làm xét nghiệm AFP định kỳ kèm siêu âm bụng.\nKhi nào cần đi khám: Tái khám tại y tế cơ sở/bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-077 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-078",
 "title": "Khi có kết quả HBsAg dương tính, Anti-HBs âm tính, HBeAg âm tính và men gan bình thường, người bệnh nên hiểu kết quả này như thế nào? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Khi có kết quả HBsAg dương tính, Anti-HBs âm tính, HBeAg âm tính và men gan bình thường, người bệnh nên hiểu kết quả này như thế nào?\nTrả lời đúng: Đang nhiễm HBV mạn ở thể không hoạt động/theo dõi, cần tái khám định kỳ\nGiải thích: Bệnh nhân mang virus nhưng virus chưa gây bùng phát viêm gan.\nNgười dân nên làm gì: Bình tĩnh và đi tái khám đúng hẹn 3-6 tháng/lần.\nKhi nào cần đi khám: Tư vấn với bác sĩ chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-078 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-079",
 "title": "Kết quả HBsAg âm tính và Anti-HBs dương tính ở mức trên 100 IU/L thường gợi ý điều gì? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Kết quả HBsAg âm tính và Anti-HBs dương tính ở mức trên 100 IU/L thường gợi ý điều gì?\nTrả lời đúng: Bạn an toàn không nhiễm HBV và có lượng kháng thể bảo vệ rất cao\nGiải thích: Nồng độ Anti-HBs > 100 IU/L thể hiện mức độ đáp ứng miễn dịch tuyệt vời.\nNgười dân nên làm gì: Chúc mừng! Bạn hoàn toàn an tâm sinh hoạt.\nKhi nào cần đi khám: Tư vấn tại trạm y tế phường.",
 "source": "ngân hàng câu hỏi MAI, VGB-079 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-080",
 "title": "Người dân nên làm gì khi nhận được phiếu xét nghiệm có nhiều chỉ số bất thường? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Người dân nên làm gì khi nhận được phiếu xét nghiệm có nhiều chỉ số bất thường?\nTrả lời đúng: Mang kết quả đến bác sĩ chuyên khoa để được tư vấn và giải thích chính xác\nGiải thích: Bác sĩ cần tổng hợp lâm sàng và xét nghiệm để đưa ra chẩn đoán đúng.\nNgười dân nên làm gì: Không tự ý đoán bệnh hay mua thuốc.\nKhi nào cần đi khám: Khám tại phòng khám y tế uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-080 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-081",
 "title": "Việc kết hợp siêu âm gan và xét nghiệm AFP có vai trò gì trong theo dõi người có nguy cơ ung thư gan? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Việc kết hợp siêu âm gan và xét nghiệm AFP có vai trò gì trong theo dõi người có nguy cơ ung thư gan?\nTrả lời đúng: Bộ đôi tiêu chuẩn giúp tầm soát phát hiện sớm ung thư gan hiệu quả nhất\nGiải thích: Kết hợp hình ảnh và chỉ dấu sinh học giúp không bỏ sót u gan giai đoạn sớm.\nNgười dân nên làm gì: Duy trì kiểm tra bộ đôi này 6 tháng một lần.\nKhi nào cần đi khám: Tái khám tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-081 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-082",
 "title": "Đo độ đàn hồi gan (FibroScan) giúp đánh giá tình trạng nào của gan? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Đo độ đàn hồi gan (FibroScan) giúp đánh giá tình trạng nào của gan?\nTrả lời đúng: Đánh giá mức độ xơ hóa gan (từ F0 đến F4)\nGiải thích: FibroScan sử dụng sóng siêu âm đo độ cứng của mô gan để xếp loại xơ hóa.\nNgười dân nên làm gì: Thực hiện khi bác sĩ chuyên khoa chỉ định.\nKhi nào cần đi khám: Khám tại các bệnh viện có máy FibroScan.",
 "source": "ngân hàng câu hỏi MAI, VGB-082 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-083",
 "title": "Người nhiễm HBV mạn tính chưa điều trị cần tái khám và xét nghiệm theo dõi như thế nào? [Xét nghiệm, sàng lọc & Ý nghĩa các chỉ số]",
 "text": "Câu hỏi: Người nhiễm HBV mạn tính chưa điều trị cần tái khám và xét nghiệm theo dõi như thế nào?\nTrả lời đúng: Định kỳ mỗi 3 đến 6 tháng một lần\nGiải thích: Tái khám 3-6 tháng giúp kịp thời phát hiện khi virus bùng phát hoạt động.\nNgười dân nên làm gì: Đánh dấu lịch tái khám vào sổ tay.\nKhi nào cần đi khám: Tái khám đúng hẹn tại y tế cơ sở/bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-083 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/5"
+"link": "#/cuoc-thi/chu-de/5"
 },
 {
 "id": "VGB-084",
 "title": "Trẻ sơ sinh nên được tiêm vắc-xin viêm gan B vào thời điểm nào sau khi chào đời? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Trẻ sơ sinh nên được tiêm vắc-xin viêm gan B vào thời điểm nào sau khi chào đời?\nTrả lời đúng: Trong vòng 24 giờ đầu sau khi sinh\nGiải thích: Tiêm trong 24h đầu giúp phòng ngừa lây nhiễm từ mẹ lúc chuyển dạ tốt nhất.\nNgười dân nên làm gì: Đồng ý cho trẻ tiêm vắc-xin sơ sinh tại nhà sinh/bệnh viện.\nKhi nào cần đi khám: Thảo luận với y bác sĩ sinh nở.",
 "source": "ngân hàng câu hỏi MAI, VGB-084 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-085",
 "title": "Trẻ sinh từ mẹ có HBsAg dương tính cần được tiêm thêm chế phẩm nào bên cạnh vắc-xin viêm gan B trong 24 giờ đầu? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Trẻ sinh từ mẹ có HBsAg dương tính cần được tiêm thêm chế phẩm nào bên cạnh vắc-xin viêm gan B trong 24 giờ đầu?\nTrả lời đúng: Kháng huyết thanh viêm gan B (HBIG)\nGiải thích: HBIG cung cấp ngay kháng thể tức thì bảo vệ bé trong khi vắc-xin đang tạo miễn dịch.\nNgười dân nên làm gì: Chuẩn bị sẵn sàng tiêm phối hợp vắc-xin + HBIG cho bé.\nKhi nào cần đi khám: Khám quản lý thai tại bệnh viện sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-085 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-086",
 "title": "Lịch tiêm vắc-xin viêm gan B cho người lớn chưa có miễn dịch được xác định như thế nào? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Lịch tiêm vắc-xin viêm gan B cho người lớn chưa có miễn dịch được xác định như thế nào?\nTrả lời đúng: Phác đồ 3 mũi (thường theo lịch 0-1-6 tháng)\nGiải thích: Phác đồ 3 mũi giúp hệ miễn dịch tạo đủ nồng độ kháng thể Anti-HBs an toàn.\nNgười dân nên làm gì: Tiêm đúng và đủ lịch hẹn các mũi tiêm.\nKhi nào cần đi khám: Đăng ký tiêm tại Trạm Y tế/Trung tâm tiêm chủng.",
 "source": "ngân hàng câu hỏi MAI, VGB-086 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-087",
 "title": "Vì sao trẻ sơ sinh cần được tiêm vắc-xin viêm gan B càng sớm càng tốt, tốt nhất trong 24 giờ đầu sau sinh? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Vì sao trẻ sơ sinh cần được tiêm vắc-xin viêm gan B càng sớm càng tốt, tốt nhất trong 24 giờ đầu sau sinh?\nTrả lời đúng: Vì giúp tạo ngay lá chắn bảo vệ trước khi virus từ mẹ (nếu có) kịp xâm nhập\nGiải thích: Trẻ tiếp xúc máu dịch mẹ lúc sinh, tiêm sớm ngăn virus tấn công tế bào gan.\nNgười dân nên làm gì: Tiêm vắc-xin sơ sinh đúng thời gian vàng.\nKhi nào cần đi khám: Tư vấn bác sĩ sản khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-087 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-088",
 "title": "Vắc-xin viêm gan B có mức độ an toàn như thế nào đối với trẻ sơ sinh và người lớn? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Vắc-xin viêm gan B có mức độ an toàn như thế nào đối với trẻ sơ sinh và người lớn?\nTrả lời đúng: RẤT AN TOÀN, vắc-xin đã được kiểm định nghiêm ngặt toàn cầu\nGiải thích: Vắc-xin VGB là vắc-xin tái tổ hợp an toàn, hiệu quả phòng bệnh lên đến 95%.\nNgười dân nên làm gì: An tâm đăng ký tiêm chủng phòng bệnh.\nKhi nào cần đi khám: Tiêm chủng tại cơ sở y tế uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-088 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-089",
 "title": "Sau khi hoàn thành lịch tiêm vắc-xin viêm gan B, những nhóm đối tượng nào cần xét nghiệm kiểm tra đáp ứng miễn dịch và vào thời điểm nào? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Sau khi hoàn thành lịch tiêm vắc-xin viêm gan B, những nhóm đối tượng nào cần xét nghiệm kiểm tra đáp ứng miễn dịch và vào thời điểm nào?\nTrả lời đúng: Xét nghiệm chỉ số Anti-HBs sau 1-2 tháng để xác định nồng độ kháng thể\nGiải thích: Thử Anti-HBs giúp khẳng định cơ thể đã tạo đủ lá chắn miễn dịch (≥ 10 IU/L).\nNgười dân nên làm gì: Làm xét nghiệm Anti-HBs kiểm tra.\nKhi nào cần đi khám: Khám tại phòng xét nghiệm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-089 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-090",
 "title": "Người đã tiêm vắc-xin viêm gan B và có Anti-HBs trên 100 IU/L có cần tiêm nhắc lại ngay không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Người đã tiêm vắc-xin viêm gan B và có Anti-HBs trên 100 IU/L có cần tiêm nhắc lại ngay không?\nTrả lời đúng: KHÔNG CẦN, mức kháng thể này bảo vệ rất tốt\nGiải thích: Nồng độ > 100 IU/L cung cấp sự bảo vệ vững chắc kéo dài nhiều năm.\nNgười dân nên làm gì: An tâm sinh hoạt, kiểm tra lại sau 5-10 năm nếu cần.\nKhi nào cần đi khám: Tư vấn tại trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-090 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-091",
 "title": "Tiêm vắc-xin viêm gan B có điều trị khỏi tình trạng nhiễm HBV ở người có HBsAg dương tính không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Tiêm vắc-xin viêm gan B có điều trị khỏi tình trạng nhiễm HBV ở người có HBsAg dương tính không?\nTrả lời đúng: KHÔNG, vắc-xin dùng để phòng bệnh cho người chưa nhiễm chứ không có tác dụng chữa bệnh\nGiải thích: Vắc-xin dạy hệ miễn dịch chưa nhiễm tạo kháng thể, không diệt virus đã đọng trong gan.\nNgười dân nên làm gì: Không đi tiêm vắc-xin khi đã HBsAg (+), cần khám điều trị theo chỉ định bác sĩ.\nKhi nào cần đi khám: Khám chuyên khoa Gan mật.",
 "source": "ngân hàng câu hỏi MAI, VGB-091 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-092",
 "title": "Những phản ứng thường gặp nào có thể xuất hiện sau khi tiêm vắc-xin viêm gan B? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Những phản ứng thường gặp nào có thể xuất hiện sau khi tiêm vắc-xin viêm gan B?\nTrả lời đúng: Sốt nhẹ, sưng đau nhẹ tại chỗ tiêm và tự hết sau 1-2 ngày\nGiải thích: Đây là phản ứng miễn dịch bình thường của cơ thể khi đáp ứng với vắc-xin.\nNgười dân nên làm gì: Theo dõi nhiệt độ và chăm sóc trẻ nhẹ nhàng.\nKhi nào cần đi khám: Đưa trẻ đi khám nếu sốt cao > 39 độ hoặc lừ đừ.",
 "source": "ngân hàng câu hỏi MAI, VGB-092 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-093",
 "title": "Vắc-xin viêm gan B có giúp phòng ngừa viêm gan A hoặc viêm gan C không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Vắc-xin viêm gan B có giúp phòng ngừa viêm gan A hoặc viêm gan C không?\nTrả lời đúng: KHÔNG, vắc-xin viêm gan B chỉ phòng riêng virus viêm gan B\nGiải thích: Mỗi loại vắc-xin có tính đặc hiệu riêng đối với từng loại virus.\nNgười dân nên làm gì: Cần tiêm riêng vắc-xin viêm gan A nếu muốn phòng thêm.\nKhi nào cần đi khám: Tư vấn tiêm chủng tại cơ sở y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-093 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-094",
 "title": "Trẻ em được tiêm vắc-xin viêm gan B trong Chương trình Tiêm chủng mở rộng theo lịch nào? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Trẻ em được tiêm vắc-xin viêm gan B trong Chương trình Tiêm chủng mở rộng theo lịch nào?\nTrả lời đúng: Mũi sơ sinh trong 24h + Vắc-xin 5 trong 1 (hoặc 6 trong 1) lúc 2, 3, 4 tháng tuổi\nGiải thích: Lịch tiêm phối hợp giúp duy trì nồng độ kháng thể bảo vệ trẻ lâu dài đến lớn.\nNgười dân nên làm gì: Đưa trẻ đi tiêm chủng đầy đủ theo đúng lịch tiêm chủng mở rộng.\nKhi nào cần đi khám: Đăng ký tiêm tại Trạm Y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-094 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-095",
 "title": "Phụ nữ dự định mang thai có nên kiểm tra tình trạng miễn dịch và cân nhắc tiêm vắc-xin viêm gan B trước khi mang thai không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Phụ nữ dự định mang thai có nên kiểm tra tình trạng miễn dịch và cân nhắc tiêm vắc-xin viêm gan B trước khi mang thai không?\nTrả lời đúng: CÓ NÊN, nên tiêm trước khi mang thai để tạo kháng thể bảo vệ mẹ và con\nGiải thích: Tiêm trước mang thai giúp mẹ có sẵn lá chắn miễn dịch an toàn cho cả thai kỳ.\nNgười dân nên làm gì: Thử máu và tiêm vắc-xin trước khi thụ thai.\nKhi nào cần đi khám: Khám tư vấn trước sinh tại cơ sở y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-095 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-096",
 "title": "Nếu tiêm vắc-xin viêm gan B trễ lịch hoặc bỏ lỡ một mũi, người tiêm nên xử trí như thế nào? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Nếu tiêm vắc-xin viêm gan B trễ lịch hoặc bỏ lỡ một mũi, người tiêm nên xử trí như thế nào?\nTrả lời đúng: Tiêm bổ sung mũi tiếp theo càng sớm càng tốt, không cần tiêm lại từ đầu\nGiải thích: Hệ miễn dịch có trí nhớ miễn dịch, chỉ cần tiêm tiếp mũi còn thiếu.\nNgười dân nên làm gì: Đến cơ sở tiêm chủng để tiêm bổ sung.\nKhi nào cần đi khám: Tư vấn tại trung tâm tiêm chủng.",
 "source": "ngân hàng câu hỏi MAI, VGB-096 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-097",
 "title": "Trẻ sơ sinh có được tiêm vắc-xin viêm gan B miễn phí trong Chương trình Tiêm chủng mở rộng không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Trẻ sơ sinh có được tiêm vắc-xin viêm gan B miễn phí trong Chương trình Tiêm chủng mở rộng không?\nTrả lời đúng: CÓ, mũi tiêm sơ sinh 24h đầu và các mũi 5 trong 1 được miễn phí trong Tiêm chủng mở rộng\nGiải thích: Chính phủ bảo đảm vắc-xin VGB miễn phí cho mọi trẻ sơ sinh tại Việt Nam.\nNgười dân nên làm gì: Đưa trẻ tiêm miễn phí tại Trạm Y tế hoặc bệnh viện công.\nKhi nào cần đi khám: Liên hệ Trạm y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-097 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-098",
 "title": "Vắc-xin viêm gan B có ảnh hưởng đến khả năng sinh sản không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Vắc-xin viêm gan B có ảnh hưởng đến khả năng sinh sản không?\nTrả lời đúng: KHÔNG, vắc-xin hoàn toàn không ảnh hưởng đến khả năng sinh sản\nGiải thích: Vắc-xin đã qua hàng ngàn nghiên cứu khẳng định tính an toàn sinh sản tuyệt đối.\nNgười dân nên làm gì: Yên tâm tiêm phòng bảo vệ sức khỏe.\nKhi nào cần đi khám: Tư vấn tại trạm y tế địa phương.",
 "source": "ngân hàng câu hỏi MAI, VGB-098 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-099",
 "title": "Người suy giảm miễn dịch hoặc đang lọc máu chu kỳ có cần lịch hoặc liều vắc-xin viêm gan B riêng không? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Người suy giảm miễn dịch hoặc đang lọc máu chu kỳ có cần lịch hoặc liều vắc-xin viêm gan B riêng không?\nTrả lời đúng: CÓ, cần tuân theo chỉ định và hướng dẫn của bác sĩ\nGiải thích: Đáp ứng miễn dịch ở người suy thận/suy giảm miễn dịch yếu hơn nên cần phác đồ riêng.\nNgười dân nên làm gì: Tuân thủ phác đồ tiêm chủng của bác sĩ điều trị.\nKhi nào cần đi khám: Khám tư vấn tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-099 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-100",
 "title": "Vắc-xin viêm gan B cần được bảo quản ở khoảng nhiệt độ nào? [Tiêm chủng & Vắc-xin phòng bệnh viêm gan B]",
 "text": "Câu hỏi: Vắc-xin viêm gan B cần được bảo quản ở khoảng nhiệt độ nào?\nTrả lời đúng: Từ +2 độ C đến +8 độ C (không được làm đông đá)\nGiải thích: Dây chuyền lạnh +2 đến +8 độ C giữ nguyên hiệu lực sinh học của vắc-xin.\nNgười dân nên làm gì: Tiêm chủng tại các cơ sở đạt chuẩn GSP dây chuyền lạnh.\nKhi nào cần đi khám: Đến cơ sở tiêm chủng uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-100 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/6"
+"link": "#/cuoc-thi/chu-de/6"
 },
 {
 "id": "VGB-101",
 "title": "Nếu vô tình bị kim tiêm đã qua sử dụng đâm hoặc đạp phải, người bị phơi nhiễm cần làm gì ngay sau đó? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Nếu vô tình bị kim tiêm đã qua sử dụng đâm hoặc đạp phải, người bị phơi nhiễm cần làm gì ngay sau đó?\nTrả lời đúng: Rửa ngay vết thương dưới dòng nước sạch bằng xà phòng, tuyệt đối KHÔNG nặn bóp\nGiải thích: Nặn bóp làm dập mô khiến virus dễ chui sâu vào máu; rửa xà phòng giúp trôi mầm bệnh.\nNgười dân nên làm gì: Rửa vết thương bằng xà phòng dưới nước chảy và giữ nguyên hiện trạng.\nKhi nào cần đi khám: Đến ngay cơ sở y tế trong vòng 24 giờ để được xử trí phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-101 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-102",
 "title": "Khi trong gia đình có người nhiễm HBV mạn tính, các thành viên còn lại nên thực hiện những biện pháp nào? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Khi trong gia đình có người nhiễm HBV mạn tính, các thành viên còn lại nên thực hiện những biện pháp nào?\nTrả lời đúng: Đi xét nghiệm HBsAg/Anti-HBs; nếu chưa nhiễm và chưa có kháng thể thì tiêm vắc-xin ngay\nGiải thích: Thử máu và tiêm vắc-xin tạo lá chắn an toàn 100% cho các thành viên sống chung.\nNgười dân nên làm gì: Cùng gia đình đi xét nghiệm tầm soát và tiêm phòng.\nKhi nào cần đi khám: Khám đăng ký tiêm tại Trạm Y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-102 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-103",
 "title": "Khi làm móng tại tiệm, cần lưu ý những gì để phòng nguy cơ lây HBV? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Khi làm móng tại tiệm, cần lưu ý những gì để phòng nguy cơ lây HBV?\nTrả lời đúng: Chọn tiệm uy tín, yêu cầu dùng kềm riêng hoặc dụng cụ đã hấp tiệt trùng\nGiải thích: Dụng cụ làm móng dễ trầy xước niêm mạc dính máu vi thể lây truyền virus.\nNgười dân nên làm gì: Mang theo bộ kềm móng cá nhân khi đi làm đẹp.\nKhi nào cần đi khám: Đến y tế tư vấn khi có nguy cơ phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-103 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-104",
 "title": "Khi cạo râu hoặc cắt tóc tại tiệm, cần chú ý điều gì để phòng lây nhiễm HBV? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Khi cạo râu hoặc cắt tóc tại tiệm, cần chú ý điều gì để phòng lây nhiễm HBV?\nTrả lời đúng: Yêu cầu thợ thay lưỡi dao cạo mới 100% trước khi cạo\nGiải thích: Lưỡi dao cạo cũ dính vệt máu khô của người trước dễ gây lây nhiễm HBV.\nNgười dân nên làm gì: Nhắc thợ thay lưỡi dao cạo mới ngay trước mặt mình.\nKhi nào cần đi khám: Tư vấn tại trạm y tế khi có tổn thương dính máu.",
 "source": "ngân hàng câu hỏi MAI, VGB-104 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-105",
 "title": "Khi xỏ khuyên hoặc xăm hình, cần bảo đảm những yêu cầu vệ sinh và an toàn nào? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Khi xỏ khuyên hoặc xăm hình, cần bảo đảm những yêu cầu vệ sinh và an toàn nào?\nTrả lời đúng: Cơ sở có trang thiết bị tiệt trùng, dùng kim xăm mới 1 lần bóc từ túi niêm phong\nGiải thích: Dụng cụ xâm lấn da phải đạt chuẩn vô trùng y tế để tuyệt đối không lây bệnh máu.\nNgười dân nên làm gì: Lựa chọn cơ sở xăm/xỏ khuyên được cấp phép an toàn.\nKhi nào cần đi khám: Đến y tế kiểm tra nếu có dấu hiệu nhiễm trùng phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-105 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-106",
 "title": "Cần xử lý vết máu của người nhiễm HBV đổ trên sàn nhà như thế nào để hạn chế nguy cơ lây nhiễm? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Cần xử lý vết máu của người nhiễm HBV đổ trên sàn nhà như thế nào để hạn chế nguy cơ lây nhiễm?\nTrả lời đúng: Mang găng tay, đổ dung dịch sát khuẩn chứa Clo (Javel) hoặc cồn 70 độ lên vết máu 20 phút rồi lau\nGiải thích: Dung dịch sát khuẩn chứa Clo khử trùng tiêu diệt triệt để HBV trên bề mặt.\nNgười dân nên làm gì: Sử dụng găng tay và dung dịch sát khuẩn lau sạch vết máu.\nKhi nào cần đi khám: Tư vấn tại trạm y tế phường.",
 "source": "ngân hàng câu hỏi MAI, VGB-106 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-107",
 "title": "Khi một người trong cặp vợ chồng nhiễm HBV, hai người cần lưu ý gì trong quan hệ tình dục và sinh hoạt chung? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Khi một người trong cặp vợ chồng nhiễm HBV, hai người cần lưu ý gì trong quan hệ tình dục và sinh hoạt chung?\nTrả lời đúng: Dùng bao cao su cho đến khi người bạn đời đi tiêm đủ vắc-xin và có Anti-HBs > 10 IU/L\nGiải thích: Vắc-xin tạo sức đề kháng giúp hai vợ chồng sinh hoạt bình thường an toàn hoàn toàn.\nNgười dân nên làm gì: Đưa bạn đời đi thử máu và tiêm vắc-xin đủ mũi.\nKhi nào cần đi khám: Khám tư vấn tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-107 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-108",
 "title": "Dùng chung bấm móng tay với người nhiễm HBV có thể làm lây bệnh không? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Dùng chung bấm móng tay với người nhiễm HBV có thể làm lây bệnh không?\nTrả lời đúng: CÓ NGUY CƠ nếu bấm móng gây chảy máu rách da dính máu vi thể\nGiải thích: Bấm móng tay có thể làm trầy xước xước mang da dính vệt máu khó thấy.\nNgười dân nên làm gì: Mỗi người nên có bộ bấm móng tay riêng.\nKhi nào cần đi khám: Thử máu tầm soát cho gia đình.",
 "source": "ngân hàng câu hỏi MAI, VGB-108 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-109",
 "title": "Dùng chung dao cạo râu với người nhiễm HBV có thể gây ra nguy cơ gì? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Dùng chung dao cạo râu với người nhiễm HBV có thể gây ra nguy cơ gì?\nTrả lời đúng: CÓ NGUY CƠ LÂY NHIỄM CAO qua các vết trầy xước nhỏ trên da\nGiải thích: Dao cạo râu luôn tạo ra vết thương vi thể chứa máu lây truyền virus rất mạnh.\nNgười dân nên làm gì: Tách riêng dao cạo râu cá nhân.\nKhi nào cần đi khám: Tiêm vắc-xin cho người thân chưa nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-109 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-110",
 "title": "Dùng chung bàn chải đánh răng có thể làm lây HBV không? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Dùng chung bàn chải đánh răng có thể làm lây HBV không?\nTrả lời đúng: CÓ NGUY CƠ vì bàn chải dễ dính máu từ nướu/răng bị viêm chảy máu\nGiải thích: Chảy máu chân răng rất phổ biến, bàn chải dính máu là nguồn lây truyền nguy hiểm.\nNgười dân nên làm gì: Tuyệt đối dùng riêng bàn chải đánh răng.\nKhi nào cần đi khám: Đến trạm y tế xét nghiệm tiêm phòng.",
 "source": "ngân hàng câu hỏi MAI, VGB-110 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-111",
 "title": "Các vật sắc nhọn và rác thải có dính máu phát sinh tại nhà nên được thu gom, xử lý như thế nào? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Các vật sắc nhọn và rác thải có dính máu phát sinh tại nhà nên được thu gom, xử lý như thế nào?\nTrả lời đúng: Cho vào túi niêm phong riêng ghi rõ rác dính máu trước khi vứt\nGiải thích: Gói kín giúp bảo vệ nhân viên vệ sinh môi trường không bị đâm phải kim dính máu.\nNgười dân nên làm gì: Bọc kín rác thải dính máu sắc nhọn.\nKhi nào cần đi khám: Tư vấn quản lý rác y tế tại trạm.",
 "source": "ngân hàng câu hỏi MAI, VGB-111 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-112",
 "title": "Nếu máu của người khác bắn vào mắt hoặc niêm mạc miệng, cần sơ cứu và đi đánh giá phơi nhiễm như thế nào? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Nếu máu của người khác bắn vào mắt hoặc niêm mạc miệng, cần sơ cứu và đi đánh giá phơi nhiễm như thế nào?\nTrả lời đúng: Rửa ngay mắt/miệng liên tục bằng nước muối sinh lý hoặc nước sạch trong 10-15 phút\nGiải thích: Rửa trôi ngay bằng nước sạch làm giảm thiểu tối đa mật độ virus tiếp xúc niêm mạc.\nNgười dân nên làm gì: Rửa ngay bằng nước muối sinh lý liên tục.\nKhi nào cần đi khám: Đến ngay cơ sở y tế trong 24h để bác sĩ xử trí phơi nhiễm.",
 "source": "ngân hàng câu hỏi MAI, VGB-112 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-113",
 "title": "Máu khô của người nhiễm HBV dính trên quần áo có thể làm lây bệnh khi tiếp xúc với vùng da lành không? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Máu khô của người nhiễm HBV dính trên quần áo có thể làm lây bệnh khi tiếp xúc với vùng da lành không?\nTrả lời đúng: KHÔNG LÂY nếu da lành lặn không trầy xước rách da\nGiải thích: Da lành là hàng rào bảo vệ tự nhiên ngăn virus xâm nhập.\nNgười dân nên làm gì: Giặt sạch quần áo dính máu bằng xà phòng giặt.\nKhi nào cần đi khám: Tư vấn thêm tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-113 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-114",
 "title": "Khi sơ cứu hoặc chăm sóc vết thương chảy máu cho người nhiễm HBV, cần thực hiện những biện pháp bảo vệ nào? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Khi sơ cứu hoặc chăm sóc vết thương chảy máu cho người nhiễm HBV, cần thực hiện những biện pháp bảo vệ nào?\nTrả lời đúng: Mang găng tay y tế trước khi chạm vào vết thương chảy máu\nGiải thích: Găng tay bảo vệ ngăn máu nhiễm virus tiếp xúc với kẽ da tay người chăm sóc.\nNgười dân nên làm gì: Đeo găng tay khi xử lý vết thương dính máu.\nKhi nào cần đi khám: Tư vấn tại trạm y tế phường.",
 "source": "ngân hàng câu hỏi MAI, VGB-114 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-115",
 "title": "Dùng chung kim chích máu hoặc dụng cụ trích máu để đo đường huyết tại nhà có an toàn không? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Dùng chung kim chích máu hoặc dụng cụ trích máu để đo đường huyết tại nhà có an toàn không?\nTrả lời đúng: TUYỆT ĐỐI KHÔNG, mỗi kim thử chỉ dùng 1 lần cho 1 người duy nhất\nGiải thích: Kim thử tiểu đường đâm trực tiếp vào máu gây lây nhiễm HBV 100% nếu dùng chung.\nNgười dân nên làm gì: Mỗi người dùng bút/kim bấm thử đường huyết riêng biệt.\nKhi nào cần đi khám: Khám tư vấn tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-115 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-116",
 "title": "Nếu trẻ bị kim tiêm đã qua sử dụng đâm phải khi chơi ngoài công viên, cha mẹ cần xử trí như thế nào? [Dự phòng lây nhiễm trong gia đình & Đời sống sinh hoạt]",
 "text": "Câu hỏi: Nếu trẻ bị kim tiêm đã qua sử dụng đâm phải khi chơi ngoài công viên, cha mẹ cần xử trí như thế nào?\nTrả lời đúng: Rửa sạch vết thương nước xà phòng, KHÔNG nặn bóp và đưa trẻ đi y tế trong 24h\nGiải thích: Xử trí đúng cách và tiêm kháng huyết thanh/vắc-xin kịp thời giúp bảo vệ trẻ an toàn.\nNgười dân nên làm gì: Rửa xà phòng dưới nước chảy và đưa trẻ đi khám gấp.\nKhi nào cần đi khám: Đến ngay trung tâm y tế quận/huyện trong 24h.",
 "source": "ngân hàng câu hỏi MAI, VGB-116 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/7"
+"link": "#/cuoc-thi/chu-de/7"
 },
 {
 "id": "VGB-117",
 "title": "Phụ nữ mang thai nhiễm HBV có thể truyền virus cho con không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Phụ nữ mang thai nhiễm HBV có thể truyền virus cho con không?\nTrả lời đúng: CÓ NGUY CƠ LÂY NHIỄM, nhưng hoàn toàn có thể dự phòng hiệu quả nếu can thiệp đúng y tế\nGiải thích: Can thiệp y tế đúng quy trình giúp bảo vệ em bé an toàn không bị nhiễm bệnh.\nNgười dân nên làm gì: Thai phụ cần tầm soát HBsAg ngay trong 3 tháng đầu thai kỳ.\nKhi nào cần đi khám: Khám thai định kỳ tại các bệnh viện sản khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-117 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-118",
 "title": "Phụ nữ mang thai có nên được xét nghiệm sàng lọc HBsAg không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Phụ nữ mang thai có nên được xét nghiệm sàng lọc HBsAg không?\nTrả lời đúng: CÓ, nên xét nghiệm ngay trong lần khám thai đầu tiên\nGiải thích: Tầm soát sớm giúp phát hiện tình trạng nhiễm virus để bác sĩ lên kịch bản bảo vệ bé.\nNgười dân nên làm gì: Xét nghiệm HBsAg khi phát hiện có thai.\nKhi nào cần đi khám: Khám tại Trạm y tế hoặc bệnh viện sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-118 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-119",
 "title": "Trẻ sinh từ mẹ có HBsAg dương tính cần được tiêm vắc-xin viêm gan B và HBIG vào thời điểm nào? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Trẻ sinh từ mẹ có HBsAg dương tính cần được tiêm vắc-xin viêm gan B và HBIG vào thời điểm nào?\nTrả lời đúng: Trong vòng 24 giờ đầu sau sinh (tốt nhất trong 12 giờ đầu)\nGiải thích: Tiêm ngay sau sinh tạo miễn dịch thụ động và chủ động chặn đứng virus từ mẹ.\nNgười dân nên làm gì: Chuẩn bị tinh thần tiêm mũi sơ sinh cho bé ngay tại phòng sinh.\nKhi nào cần đi khám: Sinh con tại cơ sở y tế có vắc-xin và HBIG.",
 "source": "ngân hàng câu hỏi MAI, VGB-119 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-120",
 "title": "Trẻ sinh từ mẹ nhiễm HBV đã được dự phòng bằng vắc-xin và HBIG có thể bú mẹ không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Trẻ sinh từ mẹ nhiễm HBV đã được dự phòng bằng vắc-xin và HBIG có thể bú mẹ không?\nTrả lời đúng: CÓ, trẻ hoàn toàn được cho bú sữa mẹ bình thường và an toàn\nGiải thích: Kháng thể và vắc-xin tiêm ngay sau sinh đã bảo vệ bé an toàn khi bú sữa mẹ.\nNgười dân nên làm gì: Cho bé bú sữa mẹ hoàn toàn để tận dụng nguồn dinh dưỡng quý giá.\nKhi nào cần đi khám: Khám tư vấn thai sản tại bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-120 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-121",
 "title": "Trẻ sinh từ mẹ nhiễm HBV cần được xét nghiệm HBsAg và Anti-HBs sau sinh vào thời điểm nào? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Trẻ sinh từ mẹ nhiễm HBV cần được xét nghiệm HBsAg và Anti-HBs sau sinh vào thời điểm nào?\nTrả lời đúng: Khi trẻ 7 đến 12 tháng tuổi (nếu tiêm vắc xin muộn lịch thì 1–2 tháng sau mũi cuối)\nGiải thích: QĐ 678/QĐ-BYT hướng dẫn xét nghiệm HBsAg cho trẻ sinh ra từ mẹ nhiễm khi trẻ 7–12 tháng tuổi để khẳng định bé không nhiễm HBV.\nNgười dân nên làm gì: Đưa trẻ đi thử máu đúng mốc 7–12 tháng tuổi; nếu bé tiêm vắc xin trễ lịch thì xét nghiệm sau khi hoàn thành mũi cuối 1–2 tháng.\nKhi nào cần đi khám: Khám tại Trạm Y tế phường hoặc bệnh viện nhi.",
 "source": "ngân hàng câu hỏi MAI, VGB-121 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-122",
 "title": "Khi thai phụ có HBsAg dương tính, bác sĩ thường cần đánh giá thêm những xét nghiệm nào để quyết định có chỉ định dùng thuốc kháng virus? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Khi thai phụ có HBsAg dương tính, bác sĩ thường cần đánh giá thêm những xét nghiệm nào để quyết định có chỉ định dùng thuốc kháng virus?\nTrả lời đúng: Xét nghiệm tải lượng virus HBV DNA (hoặc HBeAg)\nGiải thích: Đo tải lượng virus (hoặc HBeAg) giúp bác sĩ quyết định có cần cho mẹ uống tenofovir dự phòng từ thai kỳ thứ 2 hay không (ngưỡng HBV DNA ≥ 200.000 IU/mL hoặc HBeAg dương tính).\nNgười dân nên làm gì: Tuân thủ chỉ định xét nghiệm của bác sĩ phụ sản.\nKhi nào cần đi khám: Khám tại bệnh viện có chuyên khoa Truyền nhiễm/Sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-122 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-123",
 "title": "Thời điểm bắt đầu dùng tenofovir (TDF) để dự phòng lây truyền HBV từ mẹ sang con được xác định dựa trên những yếu tố nào? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Thời điểm bắt đầu dùng tenofovir (TDF) để dự phòng lây truyền HBV từ mẹ sang con được xác định dựa trên những yếu tố nào?\nTrả lời đúng: Thường bắt đầu từ thai kỳ thứ 2 (từ tuần thai thứ 14) khi HBV DNA ≥ 200.000 IU/mL hoặc HBeAg dương tính\nGiải thích: Theo QĐ 678/QĐ-BYT và QĐ 1740/QĐ-BYT, tenofovir dự phòng bắt đầu từ thai kỳ thứ 2 càng sớm càng tốt (từ tuần thai thứ 14) và kéo dài đến ít nhất 3 tháng sau sinh; nếu không xét nghiệm được HBV DNA/HBeAg thì dùng cho mọi thai phụ HBsAg dương tính.\nNgười dân nên làm gì: Uống thuốc đúng liều đúng giờ theo đơn bác sĩ.\nKhi nào cần đi khám: Theo dõi thai kỳ tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-123 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-124",
 "title": "Khi có chỉ định, việc sử dụng tenofovir (TDF) trong thai kỳ cần được cân nhắc về tính an toàn như thế nào? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Khi có chỉ định, việc sử dụng tenofovir (TDF) trong thai kỳ cần được cân nhắc về tính an toàn như thế nào?\nTrả lời đúng: RẤT AN TOÀN, đã được WHO và Bộ Y tế chứng minh không gây dị tật thai nhi\nGiải thích: TDF là thuốc ưu tiên hàng đầu an toàn tuyệt đối cho mẹ bầu và em bé.\nNgười dân nên làm gì: Yên tâm uống thuốc theo chỉ định của bác sĩ.\nKhi nào cần đi khám: Khám thai định kỳ tại bệnh viện sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-124 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-125",
 "title": "Mẹ nhiễm HBV có cần sinh mổ để giảm nguy cơ lây truyền virus cho con không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Mẹ nhiễm HBV có cần sinh mổ để giảm nguy cơ lây truyền virus cho con không?\nTrả lời đúng: KHÔNG BẮT BUỘC, mẹ vẫn có thể sinh thường nếu không có chỉ định phụ khoa khác\nGiải thích: Phương pháp sinh thường hay mổ phụ thuộc vào chỉ định sản khoa, tiêm phòng sơ sinh mới là cốt lõi.\nNgười dân nên làm gì: Thảo luận phương pháp sinh cùng bác sĩ phụ sản.\nKhi nào cần đi khám: Khám tại bệnh viện phụ sản uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-125 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-126",
 "title": "Trẻ sơ sinh có cân nặng dưới 2.000 g sinh từ mẹ nhiễm HBV cần được dự phòng sau sinh như thế nào? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Trẻ sơ sinh có cân nặng dưới 2.000 g sinh từ mẹ nhiễm HBV cần được dự phòng sau sinh như thế nào?\nTrả lời đúng: Cần được thăm khám và tuân thủ theo hướng dẫn của Bác sĩ tại các cơ sở y tế uy tín\nGiải thích: Với trẻ sơ sinh nhẹ cân, bác sĩ nhi sơ sinh sẽ đánh giá để chọn lịch tiêm vắc xin và HBIG phù hợp; mọi trẻ đều cần được dự phòng đúng chỉ định.\nNgười dân nên làm gì: Tuân thủ chỉ định khám chuyên khoa nhi sơ sinh.\nKhi nào cần đi khám: Khám tại bệnh viện Nhi/Sản uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-126 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-127",
 "title": "Khi thai phụ nhiễm HBV có tải lượng virus gần ngưỡng chỉ định dự phòng, bác sĩ sẽ cân nhắc xử trí dựa trên những yếu tố nào? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Khi thai phụ nhiễm HBV có tải lượng virus gần ngưỡng chỉ định dự phòng, bác sĩ sẽ cân nhắc xử trí dựa trên những yếu tố nào?\nTrả lời đúng: Cần được thăm khám và tuân thủ theo hướng dẫn của Bác sĩ tại các cơ sở y tế uy tín\nGiải thích: Trường hợp ranh giới cần bác sĩ chuyên khoa Truyền nhiễm và Sản khoa phối hợp đánh giá.\nNgười dân nên làm gì: Đi khám chuyên khoa để bác sĩ tư vấn kịch bản an toàn.\nKhi nào cần đi khám: Khám tại BV Bệnh Nhiệt đới hoặc BV Phụ sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-127 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-128",
 "title": "Sau khi được tiêm HBIG và vắc-xin viêm gan B trong 24 giờ đầu, trẻ sinh từ mẹ nhiễm HBV có cần tiếp tục các mũi vắc-xin theo lịch không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Sau khi được tiêm HBIG và vắc-xin viêm gan B trong 24 giờ đầu, trẻ sinh từ mẹ nhiễm HBV có cần tiếp tục các mũi vắc-xin theo lịch không?\nTrả lời đúng: CÓ, cần tiêm đủ các mũi vắc-xin viêm gan B tiếp theo theo lịch tiêm chủng mở rộng\nGiải thích: Các mũi vắc-xin tiếp theo giúp kích thích hệ miễn dịch của trẻ tạo ra kháng thể bảo vệ lâu dài.\nNgười dân nên làm gì: Đưa trẻ tiêm chủng đúng lịch 2, 3, 4 tháng tuổi.\nKhi nào cần đi khám: Tiêm tại Trạm Y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-128 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-129",
 "title": "Nếu mẹ bị nứt đầu vú và chảy máu khi cho con bú, cần xử trí như thế nào để bảo đảm an toàn cho trẻ? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Nếu mẹ bị nứt đầu vú và chảy máu khi cho con bú, cần xử trí như thế nào để bảo đảm an toàn cho trẻ?\nTrả lời đúng: Tạm dừng cho bú bên vú nứt, vắt bỏ sữa cho đến khi vết nứt lành hẳn rồi cho bú lại\nGiải thích: Tránh để trẻ nuốt trực tiếp máu từ vết nứt đầu ti của mẹ.\nNgười dân nên làm gì: Vắt sữa giữ vệ sinh đầu vú lành lặn.\nKhi nào cần đi khám: Tham khảo tư vấn bác sĩ sản/nhi.",
 "source": "ngân hàng câu hỏi MAI, VGB-129 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-130",
 "title": "Sau sinh, người mẹ đã dùng Thuốc kháng vi-rút TDF trong thai kỳ để dự phòng lây truyền HBV có nên tự ngừng thuốc ngay không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Sau sinh, người mẹ đã dùng Thuốc kháng vi-rút TDF trong thai kỳ để dự phòng lây truyền HBV có nên tự ngừng thuốc ngay không?\nTrả lời đúng: Tuân thủ theo đúng chỉ định theo dõi của bác sĩ chuyên khoa (có thể tiếp tục hoặc ngừng tùy thể bệnh)\nGiải thích: Việc tiếp tục hay ngưng thuốc TDF sau sinh phụ thuộc mẹ là người mang virus mạn tính hay chỉ uống dự phòng ngắn hạn.\nNgười dân nên làm gì: Tái khám chuyên khoa Truyền nhiễm sau sinh.\nKhi nào cần đi khám: Tái khám với bác sĩ chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-130 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-131",
 "title": "Mẹ nhiễm HBV có thể ôm, hôn và chăm sóc trẻ hằng ngày không? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Mẹ nhiễm HBV có thể ôm, hôn và chăm sóc trẻ hằng ngày không?\nTrả lời đúng: HOÀN TOÀN ĐƯỢC, ôm hôn và chăm sóc không làm lây bệnh cho bé\nGiải thích: Tình cảm mẹ con chăm sóc hàng ngày an toàn tuyệt đối khi bé đã tiêm phòng.\nNgười dân nên làm gì: Yêu thương chăm sóc bé bình thường.\nKhi nào cần đi khám: Theo dõi sức khỏe định kỳ cho bé.",
 "source": "ngân hàng câu hỏi MAI, VGB-131 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-132",
 "title": "Lợi ích chính của các biện pháp dự phòng lây truyền HBV từ mẹ sang con là gì? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Lợi ích chính của các biện pháp dự phòng lây truyền HBV từ mẹ sang con là gì?\nTrả lời đúng: Giúp em bé lớn lên hoàn toàn khỏe mạnh, không bị nhiễm virus mạn tính từ nhỏ\nGiải thích: Dự phòng thành công bảo vệ thế hệ tương lai khỏi nguy cơ xơ gan ung thư gan từ bé.\nNgười dân nên làm gì: Thực hiện nghiêm túc phác đồ dự phòng PLTMC.\nKhi nào cần đi khám: Khám quản lý thai tại cơ sở y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-132 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-133",
 "title": "Thai phụ nhiễm HBV nên chuẩn bị những thông tin và kế hoạch gì trước khi nhập viện sinh con? [Dự phòng lây truyền viêm gan B từ mẹ sang con (PLTMC)]",
 "text": "Câu hỏi: Thai phụ nhiễm HBV nên chuẩn bị những thông tin và kế hoạch gì trước khi nhập viện sinh con?\nTrả lời đúng: Mang theo hồ sơ khám thai có kết quả xét nghiệm HBsAg/HBV DNA để báo ngay cho y bác sĩ\nGiải thích: Thông báo tình trạng nhiễm HBV giúp kíp sinh chuẩn bị sẵn vắc-xin và HBIG tiêm cho bé ngay.\nNgười dân nên làm gì: Đưa hồ sơ y tế cho nhân viên y tế tại phòng sinh.\nKhi nào cần đi khám: Sinh tại bệnh viện có chuyên khoa sản.",
 "source": "ngân hàng câu hỏi MAI, VGB-133 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/8"
+"link": "#/cuoc-thi/chu-de/8"
 },
 {
 "id": "VGB-134",
 "title": "Có phải tất cả người nhiễm HBV mạn tính đều cần bắt đầu điều trị kháng virus ngay không? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Có phải tất cả người nhiễm HBV mạn tính đều cần bắt đầu điều trị kháng virus ngay không?\nTrả lời đúng: KHÔNG, chỉ uống thuốc khi virus hoạt động mạnh và có dấu hiệu/nguy cơ gây tổn thương gan\nGiải thích: Thuốc kháng virus chỉ dùng khi có chỉ định y khoa, người mang virus không hoạt động chỉ cần theo dõi.\nNgười dân nên làm gì: Đi khám để bác sĩ đánh giá xem có cần uống thuốc chưa.\nKhi nào cần đi khám: Tái khám định kỳ tại bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-134 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-135",
 "title": "Người đang điều trị kháng virus HBV, dù cảm thấy khỏe và có men gan bình thường, có được tự ngừng thuốc không? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người đang điều trị kháng virus HBV, dù cảm thấy khỏe và có men gan bình thường, có được tự ngừng thuốc không?\nTrả lời đúng: TUYỆT ĐỐI KHÔNG, tự ý ngưng thuốc sẽ khiến virus bùng phát mạnh gây viêm gan cấp nguy hiểm\nGiải thích: Khỏe mạnh là nhờ thuốc đang đè nén virus. Tự bỏ thuốc giống như thả lò xo bị nén bật lại dữ dội.\nNgười dân nên làm gì: Duy trì uống thuốc đều đặn đúng giờ hàng ngày.\nKhi nào cần đi khám: Tái khám bác sĩ đúng hẹn.",
 "source": "ngân hàng câu hỏi MAI, VGB-135 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-136",
 "title": "Thời gian điều trị bằng thuốc kháng virus ở người mắc viêm gan B mạn tính thường được quyết định như thế nào? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Thời gian điều trị bằng thuốc kháng virus ở người mắc viêm gan B mạn tính thường được quyết định như thế nào?\nTrả lời đúng: Thường kéo dài nhiều năm hoặc suốt đời để duy trì đè nén virus\nGiải thích: Thuốc uống đè nén virus chứ chưa tiêu diệt triệt để ADN virus trong nhân tế bào gan.\nNgười dân nên làm gì: Xây dựng thói quen uống thuốc đúng giờ như đánh răng hàng ngày.\nKhi nào cần đi khám: Tái khám mỗi 3-6 tháng tại cơ sở y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-136 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-137",
 "title": "Tự ý ngừng thuốc kháng virus HBV có thể dẫn đến những hậu quả nào? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Tự ý ngừng thuốc kháng virus HBV có thể dẫn đến những hậu quả nào?\nTrả lời đúng: Viêm gan bùng phát cấp tính, suy gan tiến triển, tăng nguy cơ kháng thuốc và tử vong\nGiải thích: Bỏ thuốc khiến virus nhân lên ồ ạt hủy hoại tế bào gan cấp tính.\nNgười dân nên làm gì: Tuyệt đối tuân thủ uống thuốc đều đặn.\nKhi nào cần đi khám: Đến ngay bệnh viện nếu lỡ quên uống thuốc nhiều ngày.",
 "source": "ngân hàng câu hỏi MAI, VGB-137 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-138",
 "title": "Người bệnh nên uống thuốc kháng virus HBV vào thời điểm nào trong ngày? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người bệnh nên uống thuốc kháng virus HBV vào thời điểm nào trong ngày?\nTrả lời đúng: Uống đúng một khung giờ cố định hàng ngày (ví dụ đúng 8 giờ tối) theo hướng dẫn bác sĩ\nGiải thích: Uống đúng giờ giúp duy trì nồng độ thuốc ổn định liên tục trong máu đè nén virus.\nNgười dân nên làm gì: Đặt báo thức điện thoại nhắc giờ uống thuốc hàng ngày.\nKhi nào cần đi khám: Tư vấn dược sĩ/bác sĩ khi tái khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-138 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-139",
 "title": "Nếu quên uống một liều thuốc kháng virus HBV, người bệnh nên xử trí như thế nào? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Nếu quên uống một liều thuốc kháng virus HBV, người bệnh nên xử trí như thế nào?\nTrả lời đúng: Uống ngay viên đó khi nhớ ra trong ngày; nếu gần liều tiếp theo thì uống liều sau, KHÔNG uống gấp đôi\nGiải thích: Không được tự ý uống gấp đôi liều vì dễ gây quá liều độc tính.\nNgười dân nên làm gì: Uống ngay khi nhớ và duy trì lịch cũ. Hỏi ý kiến bác sĩ/dược sĩ tư vấn.\nKhi nào cần đi khám: Quên thuốc nhiều lần liên tiếp",
 "source": "ngân hàng câu hỏi MAI, VGB-139 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-140",
 "title": "Các loại nước lá hoặc thảo dược như cà gai leo, chó đẻ có thể thay thế thuốc kháng virus HBV không? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Các loại nước lá hoặc thảo dược như cà gai leo, chó đẻ có thể thay thế thuốc kháng virus HBV không?\nTrả lời đúng: KHÔNG NÊN, nước lá cây không diệt được virus và lạm dụng có thể gây độc cho gan\nGiải thích: Nước lá không rõ nguồn gốc làm tăng gánh nặng thải độc cho gan đang bị viêm.\nNgười dân nên làm gì: Uống thuốc kháng virus theo đúng đơn bác sĩ.\nKhi nào cần đi khám: Hỏi ý kiến bác sĩ trước khi dùng thực phẩm chức năng.",
 "source": "ngân hàng câu hỏi MAI, VGB-140 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-141",
 "title": "Tự mua thuốc kháng virus HBV trên mạng và sử dụng khi không có chỉ định của bác sĩ có thể gây ra rủi ro gì? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Tự mua thuốc kháng virus HBV trên mạng và sử dụng khi không có chỉ định của bác sĩ có thể gây ra rủi ro gì?\nTrả lời đúng: RẤT NGUY HIỂM, dễ mua phải thuốc giả, sai liều (liều thuốc được tính toán dựa trên cân nặng, thể trạng từng người) và không được theo dõi độc tính\nGiải thích: Điều trị viêm gan B cần được bác sĩ chuyên khoa kê đơn và theo dõi sát.\nNgười dân nên làm gì: Khám và lấy thuốc tại cơ sở y tế chuẩn BHYT.\nKhi nào cần đi khám: Đến bệnh viện khám kê đơn.",
 "source": "ngân hàng câu hỏi MAI, VGB-141 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-142",
 "title": "Những yếu tố nào có thể dẫn đến thất bại điều trị hoặc kháng thuốc trong điều trị HBV? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Những yếu tố nào có thể dẫn đến thất bại điều trị hoặc kháng thuốc trong điều trị HBV?\nTrả lời đúng: Do uống thuốc không đều đặn, tự ý bỏ thuốc hoặc uống sai liều kéo dài\nGiải thích: Uống thuốc chập chờn tạo điều kiện cho các chủng virus đột biến kháng thuốc phát triển.\nNgười dân nên làm gì: Tuân thủ uống thuốc chính xác 100%.\nKhi nào cần đi khám: Khám bác sĩ khi nghi ngờ thuốc giảm tác dụng.",
 "source": "ngân hàng câu hỏi MAI, VGB-142 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-143",
 "title": "Người đang điều trị kháng virus HBV cần được xét nghiệm và tái khám theo dõi như thế nào? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người đang điều trị kháng virus HBV cần được xét nghiệm và tái khám theo dõi như thế nào?\nTrả lời đúng: CÓ, cần tái khám thử máu và siêu âm mỗi 3-6 tháng để đánh giá hiệu quả và độ an toàn\nGiải thích: Tái khám giúp bác sĩ kiểm tra nồng độ virus, men gan và chức năng thận.\nNgười dân nên làm gì: Đi tái khám đúng theo lịch hẹn trên sổ khám.\nKhi nào cần đi khám: Tái khám tại y tế cơ sở/bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-143 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-144",
 "title": "Người nhiễm HBV phải hóa trị ung thư hoặc sử dụng thuốc ức chế miễn dịch có thể đối mặt với nguy cơ gì? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người nhiễm HBV phải hóa trị ung thư hoặc sử dụng thuốc ức chế miễn dịch có thể đối mặt với nguy cơ gì?\nTrả lời đúng: Cần được thăm khám và tuân thủ theo hướng dẫn của Bác sĩ tại các cơ sở y tế uy tín\nGiải thích: Thuốc ức chế miễn dịch làm giảm sức đề kháng, virus HBV dễ bùng phát đe dọa tính mạng.\nNgười dân nên làm gì: Tuân thủ chỉ định theo dõi của bác sĩ chuyên khoa Truyền nhiễm và Ung bướu.\nKhi nào cần đi khám: Khám chuyên khoa tại bệnh viện uy tín.",
 "source": "ngân hàng câu hỏi MAI, VGB-144 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-145",
 "title": "Thuốc kháng virus điều trị HBV có thường ảnh hưởng đến khả năng lái xe hoặc làm việc không? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Thuốc kháng virus điều trị HBV có thường ảnh hưởng đến khả năng lái xe hoặc làm việc không?\nTrả lời đúng: Đa số thuốc uống NAs thế hệ mới rất lành tính, không gây buồn ngủ hay ảnh hưởng công việc\nGiải thích: Các thuốc NAs dung nạp tốt giúp người bệnh sinh hoạt làm việc hoàn toàn bình thường.\nNgười dân nên làm gì: An tâm lao động và sinh hoạt.\nKhi nào cần đi khám: Báo bác sĩ nếu có tác dụng phụ bất thường.",
 "source": "ngân hàng câu hỏi MAI, VGB-145 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-146",
 "title": "Người đang dùng thuốc điều trị HBV cần lưu ý gì khi được kê thêm thuốc chữa các bệnh khác? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người đang dùng thuốc điều trị HBV cần lưu ý gì khi được kê thêm thuốc chữa các bệnh khác?\nTrả lời đúng: Thông báo cho bác sĩ khám biết mình đang uống thuốc viêm gan B để tránh tương tác thuốc\nGiải thích: Một số thuốc chuyển hóa qua gan có thể tương tác hoặc gây độc cho gan.\nNgười dân nên làm gì: Đưa đơn thuốc viêm gan B cho bác sĩ khám bệnh khác xem.\nKhi nào cần đi khám: Tư vấn bác sĩ/dược sĩ khi mua thuốc.",
 "source": "ngân hàng câu hỏi MAI, VGB-146 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-147",
 "title": "Người sử dụng một số thuốc kháng virus HBV cần theo dõi chức năng thận và sức khỏe xương như thế nào? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người sử dụng một số thuốc kháng virus HBV cần theo dõi chức năng thận và sức khỏe xương như thế nào?\nTrả lời đúng: Tái khám định kỳ thử chỉ số chức năng thận (Creatinine) và độ lọc cầu thận theo chỉ định\nGiải thích: Bác sĩ sẽ định kỳ kiểm tra thận để điều chỉnh liều hoặc đổi thuốc an toàn nếu cần.\nNgười dân nên làm gì: Đi thử máu định kỳ theo hẹn bác sĩ.\nKhi nào cần đi khám: Tái khám tại y tế cơ sở/bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-147 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-148",
 "title": "Người bệnh có nên tự đổi sang thuốc kháng virus HBV khác theo lời khuyên của người quen không? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người bệnh có nên tự đổi sang thuốc kháng virus HBV khác theo lời khuyên của người quen không?\nTrả lời đúng: TUYỆT ĐỐI KHÔNG, việc đổi thuốc phải do bác sĩ chuyên khoa quyết định dựa trên xét nghiệm\nGiải thích: Tự đổi thuốc dễ gây kháng thuốc chéo và đợt bùng phát viêm gan.\nNgười dân nên làm gì: Chỉ uống đúng loại thuốc bác sĩ kê đơn.\nKhi nào cần đi khám: Tái khám tư vấn bác sĩ chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-148 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-149",
 "title": "Người nhiễm HBV chưa có chỉ định điều trị có cần kiêng khem ăn uống quá mức không? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Người nhiễm HBV chưa có chỉ định điều trị có cần kiêng khem ăn uống quá mức không?\nTrả lời đúng: Không cần kiêng khem ăn uống quá mức, chỉ cần kiêng tuyệt đối rượu bia và tái khám định kỳ\nGiải thích: Kiêng khem quá mức gây suy dinh dưỡng làm giảm sức đề kháng của cơ thể.\nNgười dân nên làm gì: Ăn uống đủ 4 nhóm chất dinh dưỡng.\nKhi nào cần đi khám: Tái khám theo dõi 3-6 tháng/lần.",
 "source": "ngân hàng câu hỏi MAI, VGB-149 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-150",
 "title": "Chi phí thuốc kháng virus điều trị viêm gan B có thể được Bảo hiểm y tế chi trả trong những trường hợp nào? [Điều trị & Tuân thủ thuốc kháng virus (NAs)]",
 "text": "Câu hỏi: Chi phí thuốc kháng virus điều trị viêm gan B có thể được Bảo hiểm y tế chi trả trong những trường hợp nào?\nTrả lời đúng: CÓ, BHYT chi trả thuốc kháng virus theo danh mục quy định tại cả tuyến cơ sở và tuyến trên\nGiải thích: BHYT giúp giảm đáng kể gánh nặng tài chính cho người bệnh điều trị lâu dài.\nNgười dân nên làm gì: Tham gia BHYT liên tục và khám đúng tuyến BHYT.\nKhi nào cần đi khám: Đến Trạm Y tế/Trung tâm Y tế quận huyện.",
 "source": "ngân hàng câu hỏi MAI, VGB-150 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/9"
+"link": "#/cuoc-thi/chu-de/9"
 },
 {
 "id": "VGB-151",
 "title": "Người nhiễm HBV nên tránh loại đồ uống nào vì có thể làm tăng nguy cơ tổn thương gan? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV nên tránh loại đồ uống nào vì có thể làm tăng nguy cơ tổn thương gan?\nTrả lời đúng: Rượu, bia và tất cả các đồ uống có cồn\nGiải thích: Cồn tác động trực tiếp gây độc tế bào gan, đẩy nhanh quá trình xơ gan và ung thư gan.\nNgười dân nên làm gì: Kiêng tuyệt đối hoặc hạn chế tối đa rượu bia.\nKhi nào cần đi khám: Tư vấn lối sống tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-151 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-152",
 "title": "Người nhiễm HBV nên duy trì chế độ ăn uống như thế nào để bảo đảm dinh dưỡng và sức khỏe? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV nên duy trì chế độ ăn uống như thế nào để bảo đảm dinh dưỡng và sức khỏe?\nTrả lời đúng: Ăn uống cân đối, đủ 4 nhóm chất (đường bột, đạm, béo tốt, vitamin & khoáng chất)\nGiải thích: Dinh dưỡng đầy đủ giúp tế bào gan có nguyên liệu tái tạo và duy trì sức đề kháng.\nNgười dân nên làm gì: Ăn đa dạng thực phẩm tươi sạch.\nKhi nào cần đi khám: Khám tư vấn dinh dưỡng tại y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-152 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-153",
 "title": "Người nhiễm HBV có cần kiêng hoàn toàn thịt đỏ và trứng không? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV có cần kiêng hoàn toàn thịt đỏ và trứng không?\nTrả lời đúng: KHÔNG CẦN, vẫn cần ăn lượng đạm vừa đủ từ thịt, cá, trứng, đậu để tái tạo tế bào gan\nGiải thích: Đạm giúp gan tổng hợp đạm albumin và duy trì cơ bắp, không nên kiêng cực đoan.\nNgười dân nên làm gì: Ăn cân đối đạm động vật và thực vật.\nKhi nào cần đi khám: Tư vấn dinh dưỡng khi tái khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-153 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-154",
 "title": "Khi bị sốt hoặc đau đầu, người nhiễm HBV cần lưu ý gì trước khi dùng paracetamol? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Khi bị sốt hoặc đau đầu, người nhiễm HBV cần lưu ý gì trước khi dùng paracetamol?\nTrả lời đúng: Không dùng quá 2g/ngày (tối đa 4 viên 500mg), không uống kéo dài và không uống cùng rượu\nGiải thích: Paracetamol chuyển hóa qua gan, dùng liều cao hoặc uống cùng rượu dễ gây ngộ độc suy gan cấp.\nNgười dân nên làm gì: Dùng đúng liều chỉ dẫn và khoảng cách giữa các lần uống ít nhất 4-6 giờ.\nKhi nào cần đi khám: Hỏi ý kiến dược sĩ/bác sĩ khi mua thuốc.",
 "source": "ngân hàng câu hỏi MAI, VGB-154 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-155",
 "title": "Hút thuốc lá có thể ảnh hưởng như thế nào đến sức khỏe của người nhiễm HBV? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Hút thuốc lá có thể ảnh hưởng như thế nào đến sức khỏe của người nhiễm HBV?\nTrả lời đúng: CÓ, chất độc trong thuốc lá làm tăng độc tính trên gan và tăng nguy cơ ung thư gan\nGiải thích: Khói thuốc lá chứa hàng ngàn hóa chất độc hại gây stress oxy hóa tế bào gan.\nNgười dân nên làm gì: Nói không với thuốc lá và thuốc lá điện tử.\nKhi nào cần đi khám: Tư vấn tư vấn bỏ thuốc tại y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-155 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-156",
 "title": "Người nhiễm HBV có nên duy trì giờ ngủ và thời gian nghỉ ngơi phù hợp không? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV có nên duy trì giờ ngủ và thời gian nghỉ ngơi phù hợp không?\nTrả lời đúng: CÓ, thức khuya làm gián đoạn thời gian nghỉ ngơi và tự phục hồi chuyển hóa của gan\nGiải thích: Ban đêm là lúc lưu lượng máu về gan tăng lên để thực hiện chức năng giải độc tái tạo.\nNgười dân nên làm gì: Tập thói quen ngủ sớm trước 11 giờ đêm, ngủ đủ 7-8 tiếng.\nKhi nào cần đi khám: Duy trì lối sống lành mạnh.",
 "source": "ngân hàng câu hỏi MAI, VGB-156 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-157",
 "title": "Người mắc viêm gan B có nên duy trì hoạt động thể lực thường xuyên không? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người mắc viêm gan B có nên duy trì hoạt động thể lực thường xuyên không?\nTrả lời đúng: CÓ NÊN, tập luyện nhẹ nhàng vừa sức giúp tăng cường miễn dịch và giảm mỡ gan\nGiải thích: Vận động nhẹ nhàng (đi bộ, đạp xe, yoga) cải thiện tuần hoàn và sức khỏe tổng thể.\nNgười dân nên làm gì: Tập thể dục 30 phút mỗi ngày vừa sức.\nKhi nào cần đi khám: Tham khảo bác sĩ tập luyện phù hợp.",
 "source": "ngân hàng câu hỏi MAI, VGB-157 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-158",
 "title": "Thừa cân, béo phì và gan nhiễm mỡ có thể ảnh hưởng như thế nào đến người nhiễm HBV? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Thừa cân, béo phì và gan nhiễm mỡ có thể ảnh hưởng như thế nào đến người nhiễm HBV?\nTrả lời đúng: Làm tổn thương gan tiến triển nhanh hơn, tăng nguy cơ xơ gan so với người không béo phì\nGiải thích: Mỡ tích tụ trong tế bào gan gây viêm mỡ, cộng hưởng với virus làm chai gan nhanh hơn.\nNgười dân nên làm gì: Kểm soát cân nặng hợp lý, giảm đồ ngọt mỡ.\nKhi nào cần đi khám: Khám theo dõi mỡ máu mỡ gan.",
 "source": "ngân hàng câu hỏi MAI, VGB-158 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-159",
 "title": "Người nhiễm HBV nên uống nước hằng ngày như thế nào để phù hợp với tình trạng sức khỏe? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV nên uống nước hằng ngày như thế nào để phù hợp với tình trạng sức khỏe?\nTrả lời đúng: CÓ, uống đủ 1.5 - 2 lít nước/ngày giúp hỗ trợ quá trình đào thải chất độc của cơ thể\nGiải thích: Nước lọc giúp thận và gan làm việc hiệu quả, duy trì thể tích tuần hoàn tốt.\nNgười dân nên làm gì: Uống nước lọc đều đặn trong ngày.\nKhi nào cần đi khám: Tư vấn tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-159 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-160",
 "title": "Thực phẩm bị nấm mốc như lạc, đậu hoặc ngô mốc có thể chứa độc tố nào gây hại cho gan? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Thực phẩm bị nấm mốc như lạc, đậu hoặc ngô mốc có thể chứa độc tố nào gây hại cho gan?\nTrả lời đúng: Chứa độc tố Aflatoxin - chất gây ung thư gan cực kỳ mạnh\nGiải thích: Aflatoxin từ nấm mốc cộng hưởng với virus HBV làm nguy cơ ung thư gan tăng gấp bội.\nNgười dân nên làm gì: Tuyệt đối bỏ thực phẩm mốc chớm nấm.\nKhi nào cần đi khám: Chú ý bảo quản thực phẩm khô.",
 "source": "ngân hàng câu hỏi MAI, VGB-160 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-161",
 "title": "Ăn thực phẩm sống hoặc chưa nấu chín kỹ có thể gây ra những nguy cơ sức khỏe nào ở người mắc bệnh gan? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Ăn thực phẩm sống hoặc chưa nấu chín kỹ có thể gây ra những nguy cơ sức khỏe nào ở người mắc bệnh gan?\nTrả lời đúng: Dễ bị nhiễm ký sinh trùng (sán lá gan) và vi khuẩn gây đợt viêm gan nhiễm trùng nặng\nGiải thích: Sán lá gan và vi khuẩn gây tổn thương đường mật và nhu mô gan chồng chất.\nNgười dân nên làm gì: Ăn chín uống sôi, hạn chế đồ sống tái.\nKhi nào cần đi khám: Đi khám xét nghiệm ký sinh trùng nếu có triệu chứng.",
 "source": "ngân hàng câu hỏi MAI, VGB-161 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-162",
 "title": "Người nhiễm HBV có nên kiểm tra đường huyết và mỡ máu định kỳ không? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV có nên kiểm tra đường huyết và mỡ máu định kỳ không?\nTrả lời đúng: CÓ, để phát hiện và kiểm soát sớm Đái tháo đường và Rối loạn mỡ máu kèm theo nếu có\nGiải thích: Tiểu đường và mỡ máu cao là các yếu tố nguy cơ tim mạch và độc gan đồng thời.\nNgười dân nên làm gì: Thử đường huyết và mỡ máu định kỳ khi tái khám.\nKhi nào cần đi khám: Khám tại y tế cơ sở/bệnh viện.",
 "source": "ngân hàng câu hỏi MAI, VGB-162 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-163",
 "title": "Căng thẳng kéo dài có thể ảnh hưởng như thế nào đến sức khỏe và việc quản lý bệnh ở người nhiễm HBV? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Căng thẳng kéo dài có thể ảnh hưởng như thế nào đến sức khỏe và việc quản lý bệnh ở người nhiễm HBV?\nTrả lời đúng: CÓ, stress làm suy giảm hệ miễn dịch khiến cơ thể khó đè nén virus hơn\nGiải thích: Hệ thần kinh và miễn dịch liên quan chặt chẽ; thư giãn giúp nâng cao sức đề kháng.\nNgười dân nên làm gì: Giữ tinh thần thoải mái, thiền, nghe nhạc, tập thở.\nKhi nào cần đi khám: Tư vấn tâm lý y tế khi cần.",
 "source": "ngân hàng câu hỏi MAI, VGB-163 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-164",
 "title": "Hạn chế muối trong chế độ ăn có vai trò gì đối với người mắc xơ gan? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Hạn chế muối trong chế độ ăn có vai trò gì đối với người mắc xơ gan?\nTrả lời đúng: Giúp giảm bớt sự tích tụ nước, ngăn ngừa và giảm tình trạng phù chân, cổ trướng\nGiải thích: Muối giữ nước trong cơ thể, ăn giảm muối giúp kiểm soát phù và tráng dịch ổ bụng.\nNgười dân nên làm gì: Ăn nhạt, giảm nước mắm muối trong nêm nấu.\nKhi nào cần đi khám: Theo dõi hướng dẫn dinh dưỡng bác sĩ.",
 "source": "ngân hàng câu hỏi MAI, VGB-164 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-165",
 "title": "Người nhiễm HBV có nên tự ý sử dụng thuốc bổ hoặc vitamin liều cao khi chưa được tư vấn y tế không? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Người nhiễm HBV có nên tự ý sử dụng thuốc bổ hoặc vitamin liều cao khi chưa được tư vấn y tế không?\nTrả lời đúng: KHÔNG NÊN, một số vitamin tích lũy (như Vitamin A liều cao) có thể gây độc cho gan\nGiải thích: Dùng thừa vitamin tan trong dầu tích tụ tại gan gây tổn thương tế bào gan.\nNgười dân nên làm gì: Dùng vitamin theo đúng liều lượng khuyến cáo.\nKhi nào cần đi khám: Tư vấn bác sĩ/dược sĩ.",
 "source": "ngân hàng câu hỏi MAI, VGB-165 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-166",
 "title": "Lối sống lành mạnh có thể hỗ trợ sức khỏe người nhiễm HBV như thế nào? [Dinh dưỡng, lối sống & Bảo vệ sức khỏe gan]",
 "text": "Câu hỏi: Lối sống lành mạnh có thể hỗ trợ sức khỏe người nhiễm HBV như thế nào?\nTrả lời đúng: Giúp hệ miễn dịch giữ vững trạng thái đè nén virus, ngăn virus bùng phát hoạt động trở lại\nGiải thích: Sức đề kháng tốt là chìa khóa giữ cho virus nằm yên im lặng lâu dài.\nNgười dân nên làm gì: Duy trì lối sống lành mạnh bền vững.\nKhi nào cần đi khám: Tái khám định kỳ 3-6 tháng.",
 "source": "ngân hàng câu hỏi MAI, VGB-166 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/10"
+"link": "#/cuoc-thi/chu-de/10"
 },
 {
 "id": "VGB-167",
 "title": "Người nhiễm HBV có thể kết hôn và xây dựng gia đình như bình thường không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Người nhiễm HBV có thể kết hôn và xây dựng gia đình như bình thường không?\nTrả lời đúng: HOÀN TOÀN ĐƯỢC, có quyền kết hôn và sinh con an toàn khi được tư vấn y tế đúng\nGiải thích: Viêm gan B không phải là rào cản kết hôn khi bạn tình được tiêm vắc-xin bảo vệ.\nNgười dân nên làm gì: Đưa bạn đời đi thử máu và tiêm vắc-xin trước khi cưới.\nKhi nào cần đi khám: Tư vấn sức khỏe tiền hôn nhân tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-167 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-168",
 "title": "Việc tuyển dụng hoặc chấm dứt hợp đồng lao động với người nhiễm HBV cần tuân thủ những nguyên tắc nào? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Việc tuyển dụng hoặc chấm dứt hợp đồng lao động với người nhiễm HBV cần tuân thủ những nguyên tắc nào?\nTrả lời đúng: KHÔNG ĐƯỢC, việc từ chối hay sa thải chỉ vì nhiễm HBV là hành vi kỳ thị không đúng quy định\nGiải thích: HBV không lây qua giao tiếp công sở thông thường, người bệnh hoàn toàn có quyền lao động bình thường, các vị trí công việc, ngành nghề đặc thù được quy định rõ trong các văn bản hướng dẫn của pháp luật với các tiêu chuẩn sức khỏe riêng, quy trình riêng.\nNgười dân nên làm gì: Yên tâm làm việc và cống hiến.\nKhi nào cần đi khám: Tư vấn pháp lý/y tế khi bị phân biệt đối xử.",
 "source": "ngân hàng câu hỏi MAI, VGB-168 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-169",
 "title": "Gia đình có người nhiễm HBV có cần ăn riêng bát đũa hoặc luộc riêng dụng cụ ăn uống không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Gia đình có người nhiễm HBV có cần ăn riêng bát đũa hoặc luộc riêng dụng cụ ăn uống không?\nTrả lời đúng: KHÔNG NÊN, đây là hành vi kỳ thị không cần thiết vì bệnh không lây qua đường ăn uống\nGiải thích: Kỳ thị trong gia đình làm tổn thương tâm lý người bệnh mà không có tác dụng phòng bệnh.\nNgười dân nên làm gì: Đối xử bình đẳng, ăn uống chung mâm ấm áp.\nKhi nào cần đi khám: Đưa người nhà đi tiêm vắc-xin phòng bệnh.",
 "source": "ngân hàng câu hỏi MAI, VGB-169 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-170",
 "title": "Viêm gan B có phải là bệnh liên quan đến tệ nạn xã hội hoặc hành vi vi phạm đạo đức không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Viêm gan B có phải là bệnh liên quan đến tệ nạn xã hội hoặc hành vi vi phạm đạo đức không?\nTrả lời đúng: KHÔNG, viêm gan B là một bệnh truyền nhiễm y khoa thông thường do virus gây ra\nGiải thích: HBV là virus sinh học lây truyền y tế, không liên quan đến đạo đức hay nhân cách.\nNgười dân nên làm gì: Nhìn nhận bệnh đúng bản chất y khoa khoa học.\nKhi nào cần đi khám: Tuyên truyền thông tin đúng cho cộng đồng.",
 "source": "ngân hàng câu hỏi MAI, VGB-170 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-171",
 "title": "Kỳ thị và xa lánh người nhiễm HBV có thể gây ra những hậu quả nào đối với cá nhân và cộng đồng? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Kỳ thị và xa lánh người nhiễm HBV có thể gây ra những hậu quả nào đối với cá nhân và cộng đồng?\nTrả lời đúng: Làm người nhiễm giấu bệnh, không đi khám và không chủ động tiêm phòng cho gia đình\nGiải thích: Sự kỳ thị tạo ra tâm lý sợ hãi, giấu bệnh khiến dịch bệnh ngầm lây lan nhiều hơn.\nNgười dân nên làm gì: Cởi mở, thấu hiểu và hỗ trợ người nhiễm HBV.\nKhi nào cần đi khám: Tích cực lan tỏa thông điệp văn minh.",
 "source": "ngân hàng câu hỏi MAI, VGB-171 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-172",
 "title": "Người nhiễm HBV có thể tham gia các hoạt động thể thao và sinh hoạt cộng đồng không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Người nhiễm HBV có thể tham gia các hoạt động thể thao và sinh hoạt cộng đồng không?\nTrả lời đúng: HOÀN TOÀN ĐƯỢC tham gia bình thường tất cả các hoạt động thể thao văn hóa\nGiải thích: Thể thao và văn nghệ cộng đồng giúp nâng cao sức khỏe và tinh thần, an toàn 100%.\nNgười dân nên làm gì: Hăng hái tham gia phong trào cộng đồng.\nKhi nào cần đi khám: Duy trì tập luyện nâng cao thể chất.",
 "source": "ngân hàng câu hỏi MAI, VGB-172 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-173",
 "title": "Trẻ em nhiễm HBV có thể đi học mẫu giáo và học tập cùng các bạn không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Trẻ em nhiễm HBV có thể đi học mẫu giáo và học tập cùng các bạn không?\nTrả lời đúng: HOÀN TOÀN ĐƯỢC đi học bình thường, không được phân biệt đối xử\nGiải thích: Trẻ em có quyền được đến trường học tập vui chơi bình thường cùng bạn bè.\nNgười dân nên làm gì: Cho trẻ đến trường đi học hòa nhập.\nKhi nào cần đi khám: Tư vấn giáo viên hiểu đúng về đường lây.",
 "source": "ngân hàng câu hỏi MAI, VGB-173 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-174",
 "title": "Quan niệm “nhiễm viêm gan B là đồng nghĩa với án tử hình” có chính xác không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Quan niệm “nhiễm viêm gan B là đồng nghĩa với án tử hình” có chính xác không?\nTrả lời đúng: SAI HOÀN TOÀN, đa số người nhiễm nếu được quản lý y tế tốt đều sống thọ khỏe mạnh\nGiải thích: Với sự phát triển y học hiện nay, viêm gan B hoàn toàn quản lý kiểm soát được dễ dàng.\nNgười dân nên làm gì: Xóa bỏ tâm lý bi quan tiêu cực.\nKhi nào cần đi khám: Đến cơ sở y tế khám quản lý định kỳ.",
 "source": "ngân hàng câu hỏi MAI, VGB-174 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-175",
 "title": "Người nhiễm HBV nên trao đổi với bạn đời về tình trạng nhiễm bệnh và biện pháp dự phòng như thế nào? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Người nhiễm HBV nên trao đổi với bạn đời về tình trạng nhiễm bệnh và biện pháp dự phòng như thế nào?\nTrả lời đúng: NÊN CHIA SẺ cởi mở để bạn đời đi thử máu và tiêm vắc-xin tạo kháng thể bảo vệ\nGiải thích: Chia sẻ thể hiện sự trách nhiệm và tình yêu thương để cùng bảo vệ nhau an toàn.\nNgười dân nên làm gì: Cùng bạn đời đi khám sức khỏe tiền hôn nhân.\nKhi nào cần đi khám: Tư vấn tiêm phòng tại trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-175 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-176",
 "title": "Sinh viên nhiễm HBV có thể sinh hoạt trong ký túc xá cùng các bạn không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Sinh viên nhiễm HBV có thể sinh hoạt trong ký túc xá cùng các bạn không?\nTrả lời đúng: KHÔNG BỊ CẤM, sinh hoạt ký túc xá giao tiếp thông thường an toàn tuyệt đối\nGiải thích: Sinh hoạt ký túc xá không lây bệnh vì virus không lây qua không khí hay ăn uống chung.\nNgười dân nên làm gì: Yên tâm ở ký túc xá sinh hoạt học tập.\nKhi nào cần đi khám: Không dùng chung dao cạo, bàn chải.",
 "source": "ngân hàng câu hỏi MAI, VGB-176 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-177",
 "title": "Làm việc cùng phòng với đồng nghiệp nhiễm HBV có làm phát sinh nguy cơ lây nhiễm thông thường không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Làm việc cùng phòng với đồng nghiệp nhiễm HBV có làm phát sinh nguy cơ lây nhiễm thông thường không?\nTrả lời đúng: KHÔNG CẦN, ngồi cùng phòng, làm việc chung máy tính, bắt tay an toàn tuyệt đối\nGiải thích: Giao tiếp văn phòng công sở không có nguy cơ lây nhiễm virus HBV.\nNgười dân nên làm gì: Thoải mái hợp tác làm việc cùng đồng nghiệp.\nKhi nào cần đi khám: Tuyên truyền thông tin chuẩn cho công ty.",
 "source": "ngân hàng câu hỏi MAI, VGB-177 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-178",
 "title": "Việc dán nhãn cảnh báo hoặc phong tỏa nhà ở của người nhiễm HBV có căn cứ và phù hợp với quy định hiện hành không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Việc dán nhãn cảnh báo hoặc phong tỏa nhà ở của người nhiễm HBV có căn cứ và phù hợp với quy định hiện hành không?\nTrả lời đúng: SAI QUY ĐỊNH, đây là hành vi vi phạm pháp luật và gây kỳ thị trầm trọng\nGiải thích: Viêm gan B không phải bệnh dịch truyền nhiễm đường hô hấp cần cách ly phong tỏa.\nNgười dân nên làm gì: Tẩy chay các hành vi kỳ thị sai trái.\nKhi nào cần đi khám: Báo cáo cơ quan y tế địa phương.",
 "source": "ngân hàng câu hỏi MAI, VGB-178 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-179",
 "title": "Người nhiễm HBV có nên vì mặc cảm mà trì hoãn hoặc tránh đi khám, theo dõi sức khỏe không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Người nhiễm HBV có nên vì mặc cảm mà trì hoãn hoặc tránh đi khám, theo dõi sức khỏe không?\nTrả lời đúng: KHÔNG NÊN, cần tự tin đến cơ sở y tế để được theo dõi và bảo vệ sức khỏe bản thân\nGiải thích: Khám y tế giúp chủ động kiểm soát virus, ngưng tiến triển bệnh hiệu quả.\nNgười dân nên làm gì: Tự tin chủ động đi khám định kỳ.\nKhi nào cần đi khám: Khám tại Trạm Y tế/Bệnh viện gần nhất.",
 "source": "ngân hàng câu hỏi MAI, VGB-179 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-180",
 "title": "Môi trường xã hội thân thiện, không kỳ thị có thể hỗ trợ công tác phòng, chống HBV như thế nào? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Môi trường xã hội thân thiện, không kỳ thị có thể hỗ trợ công tác phòng, chống HBV như thế nào?\nTrả lời đúng: Khuyến khích mọi người tự giác đi xét nghiệm, tiêm phòng và tuân thủ điều trị tốt hơn\nGiải thích: Xã hội văn minh cởi mở là nền tảng để đẩy lùi bệnh dịch truyền nhiễm.\nNgười dân nên làm gì: Chung tay xây dựng cộng đồng không kỳ thị.\nKhi nào cần đi khám: Lan tỏa thông điệp y tế tích cực.",
 "source": "ngân hàng câu hỏi MAI, VGB-180 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-181",
 "title": "Cộng đồng nên có thái độ như thế nào đối với người nhiễm HBV? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Cộng đồng nên có thái độ như thế nào đối với người nhiễm HBV?\nTrả lời đúng: Tôn trọng, thấu hiểu, đồng hành và khuyến khích tiêm phòng bảo vệ bản thân\nGiải thích: Sự đồng cảm và kiến thức khoa học đúng đắn giúp bảo vệ cả cộng đồng an toàn.\nNgười dân nên làm gì: Thực hiện đúng các nguyên tắc giao tiếp ứng xử văn minh.\nKhi nào cần đi khám: Tư vấn sức khỏe tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-181 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-182",
 "title": "Hoạt động truyền thông nhằm giảm kỳ thị liên quan đến HBV cần hướng đến những nhóm đối tượng nào? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Hoạt động truyền thông nhằm giảm kỳ thị liên quan đến HBV cần hướng đến những nhóm đối tượng nào?\nTrả lời đúng: Toàn thể người dân, cán bộ công chức, học sinh sinh viên và cả người bệnh\nGiải thích: Mọi người dân đều cần nắm vững kiến thức đúng để thay đổi hành vi thái độ văn minh.\nNgười dân nên làm gì: Cùng tìm hiểu và chia sẻ thông tin y tế chuẩn.\nKhi nào cần đi khám: Đến trạm y tế phường nhận tài liệu.",
 "source": "ngân hàng câu hỏi MAI, VGB-182 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-183",
 "title": "Người nhiễm HBV được theo dõi và chăm sóc phù hợp có thể tiếp tục học tập, làm việc và đóng góp cho xã hội không? [Bãi bỏ kỳ thị, định kiến & Xóa tan quan niệm sai lầm]",
 "text": "Câu hỏi: Người nhiễm HBV được theo dõi và chăm sóc phù hợp có thể tiếp tục học tập, làm việc và đóng góp cho xã hội không?\nTrả lời đúng: HOÀN TOÀN ĐÓNG GÓP TỐT, làm việc, học tập và cống hiến bình thường như mọi người\nGiải thích: Sức khỏe tốt nhờ quản lý y tế giúp người bệnh phát huy tối đa năng lực bản thân.\nNgười dân nên làm gì: Tự tin cống hiến cho công việc và gia đình.\nKhi nào cần đi khám: Khám quản lý định kỳ tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-183 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/11"
+"link": "#/cuoc-thi/chu-de/11"
 },
 {
 "id": "VGB-184",
 "title": "Người dân tại TP. Hồ Chí Minh có thể tìm đến những cơ sở nào để xét nghiệm sàng lọc HBV? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Người dân tại TP. Hồ Chí Minh có thể tìm đến những cơ sở nào để xét nghiệm sàng lọc HBV?\nTrả lời đúng: Tại các Trạm Y tế phường/xã, Trung tâm Y tế quận/huyện và các bệnh viện trên địa bàn\nGiải thích: Mạng lưới y tế TP.HCM từ cơ sở đến tuyến trên đều trang bị xét nghiệm HBsAg.\nNgười dân nên làm gì: Đến cơ sở y tế gần nhất để đăng ký xét nghiệm.\nKhi nào cần đi khám: Khám tại Trạm Y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-184 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-185",
 "title": "Những dịch vụ khám, xét nghiệm và điều trị viêm gan B nào có thể được Bảo hiểm y tế chi trả? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Những dịch vụ khám, xét nghiệm và điều trị viêm gan B nào có thể được Bảo hiểm y tế chi trả?\nTrả lời đúng: CÓ, BHYT chi trả tiền khám, xét nghiệm và thuốc kháng virus theo danh mục BHYT\nGiải thích: Chính sách BHYT hỗ trợ gánh nặng tài chính rất lớn cho người bệnh điều trị dài hạn.\nNgười dân nên làm gì: Mang thẻ BHYT đi khám đúng tuyến.\nKhi nào cần đi khám: Đến Trạm y tế/Trung tâm y tế địa phương.",
 "source": "ngân hàng câu hỏi MAI, VGB-185 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-186",
 "title": "Trạm Y tế phường, xã có thể hỗ trợ người dân những gì trong phòng ngừa và quản lý viêm gan B? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Trạm Y tế phường, xã có thể hỗ trợ người dân những gì trong phòng ngừa và quản lý viêm gan B?\nTrả lời đúng: Khám tư vấn, xét nghiệm sàng lọc, tiêm vắc-xin và phát thuốc điều trị BHYT theo phân cấp\nGiải thích: Y tế cơ sở là 'lớp lá chắn' đầu tiên quản lý theo dõi sức khỏe ban đầu cho người dân.\nNgười dân nên làm gì: Đến Trạm y tế phường để đăng ký quản lý sức khỏe.\nKhi nào cần đi khám: Liên hệ Trạm y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-186 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-187",
 "title": "Khi bệnh viêm gan B ổn định, người bệnh có nhất thiết phải khám tại bệnh viện tuyến trên trong mọi lần tái khám không? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Khi bệnh viêm gan B ổn định, người bệnh có nhất thiết phải khám tại bệnh viện tuyến trên trong mọi lần tái khám không?\nTrả lời đúng: KHÔNG NHẤT THIẾT, hoàn toàn có thể tái khám và nhận thuốc BHYT định kỳ tại Y tế cơ sở\nGiải thích: Phân cấp điều trị giúp người bệnh tái khám gần nhà nhanh chóng, giảm quá tải tuyến trên.\nNgười dân nên làm gì: Tái khám nhận thuốc tại Trạm Y tế/Trung tâm Y tế quận.\nKhi nào cần đi khám: Tái khám theo hẹn tại y tế cơ sở.",
 "source": "ngân hàng câu hỏi MAI, VGB-187 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-188",
 "title": "Trong những trường hợp nào người bệnh viêm gan B có thể được Trạm Y tế hướng dẫn hoặc làm thủ tục chuyển đến cơ sở chuyên khoa? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Trong những trường hợp nào người bệnh viêm gan B có thể được Trạm Y tế hướng dẫn hoặc làm thủ tục chuyển đến cơ sở chuyên khoa?\nTrả lời đúng: Khi bệnh tiến triển phức tạp, xơ gan mất bù, nghi ngờ biến chứng hoặc kháng thuốc\nGiải thích: Quy trình chuyển tuyến hai chiều minh bạch đảm bảo an toàn chuyên môn cao nhất.\nNgười dân nên làm gì: Yên tâm theo dõi tại cơ sở và chuyển tuyến khi có chỉ định bác sĩ.\nKhi nào cần đi khám: Tái khám đúng hẹn tại trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-188 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-189",
 "title": "Người dân chưa tham gia Bảo hiểm y tế nên tìm hiểu và thực hiện những gì để chuẩn bị cho việc khám chữa bệnh? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Người dân chưa tham gia Bảo hiểm y tế nên tìm hiểu và thực hiện những gì để chuẩn bị cho việc khám chữa bệnh?\nTrả lời đúng: Nhanh chóng tham gia BHYT hộ gia đình tại địa phương để được hỗ trợ chi phí y tế\nGiải thích: BHYT hộ gia đình là phao cứu sinh tài chính quan trọng cho mọi nhà.\nNgười dân nên làm gì: Đăng ký mua BHYT hộ gia đình tại UBND/Bưu điện phường.\nKhi nào cần đi khám: Liên hệ Đại lý thu BHYT phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-189 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-190",
 "title": "Người dân có thể tìm thông tin về các cơ sở chuyên khoa điều trị viêm gan B tại TP. Hồ Chí Minh từ đâu? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Người dân có thể tìm thông tin về các cơ sở chuyên khoa điều trị viêm gan B tại TP. Hồ Chí Minh từ đâu?\nTrả lời đúng: Bệnh viện Bệnh Nhiệt đới TP.HCM, BV Đại học Y Dược, BV Chợ Rẫy, BV Từ Dũ, BV Hùng Vương, các bệnh viện chuyên khoa/đa khoa khác có chức năng khám chữa bệnh chuyên khoa Tiêu hóa – Gan mật/ Truyền nhiễm.\nGiải thích: Các bệnh viện tuyến đầu TP.HCM trang bị máy móc hiện đại và chuyên gia gan mật giỏi.\nNgười dân nên làm gì: Khám chuyên sâu khi có giấy chuyển tuyến hoặc nhu cầu khám kỹ.\nKhi nào cần đi khám: Đến khám tại các Bệnh viện chuyên khoa.",
 "source": "ngân hàng câu hỏi MAI, VGB-190 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-191",
 "title": "Tổng đài tư vấn sức khỏe hoặc các ứng dụng y tế của TP. Hồ Chí Minh có thể hỗ trợ người dân những việc gì? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Tổng đài tư vấn sức khỏe hoặc các ứng dụng y tế của TP. Hồ Chí Minh có thể hỗ trợ người dân những việc gì?\nTrả lời đúng: Hướng dẫn đặt lịch khám, tư vấn kiến thức y tế chuẩn và kết nối mạng lưới y tế\nGiải thích: Ứng dụng y tế số giúp người dân tiếp cận thông tin chính thống minh bạch nhanh chóng.\nNgười dân nên làm gì: Sử dụng các kênh tư vấn y tế chính thống của TP.HCM.\nKhi nào cần đi khám: Tư vấn qua ứng dụng/Trạm y tế.",
 "source": "ngân hàng câu hỏi MAI, VGB-191 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-192",
 "title": "Hồ sơ sức khỏe điện tử tại Trạm Y tế có thể hỗ trợ việc theo dõi và quản lý người bệnh viêm gan B như thế nào? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Hồ sơ sức khỏe điện tử tại Trạm Y tế có thể hỗ trợ việc theo dõi và quản lý người bệnh viêm gan B như thế nào?\nTrả lời đúng: Lưu trữ liên tục lịch sử xét nghiệm, quá trình uống thuốc và nhắc lịch tái khám\nGiải thích: Hồ sơ điện tử giúp bác sĩ theo dõi sát sao diễn tiến bệnh qua nhiều năm.\nNgười dân nên làm gì: Đăng ký lập sổ quản lý sức khỏe tại Trạm Y tế.\nKhi nào cần đi khám: Đến Trạm y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-192 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-193",
 "title": "Khi cần tư vấn về tiêm vắc-xin viêm gan B cho trẻ sơ sinh, người dân nên liên hệ với nhân viên hoặc cơ sở y tế nào? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Khi cần tư vấn về tiêm vắc-xin viêm gan B cho trẻ sơ sinh, người dân nên liên hệ với nhân viên hoặc cơ sở y tế nào?\nTrả lời đúng: Hỏi nhân viên y tế tại Trạm y tế phường/xã hoặc Trung tâm Kiểm soát Bệnh tật TP.HCM (HCDC), Bác sĩ chuyên khoa\nGiải thích: Nhân viên y tế dự phòng cung cấp thông tin tiêm chủng chính xác và tin cậy nhất.\nNgười dân nên làm gì: Hỏi trực tiếp nhân viên y tế tại trạm.\nKhi nào cần đi khám: Đến Trạm Y tế hoặc HCDC TP.HCM.",
 "source": "ngân hàng câu hỏi MAI, VGB-193 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-194",
 "title": "Người nhiễm HBV có hoàn cảnh khó khăn tại TP. Hồ Chí Minh có thể tìm hiểu những hình thức hỗ trợ y tế nào? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Người nhiễm HBV có hoàn cảnh khó khăn tại TP. Hồ Chí Minh có thể tìm hiểu những hình thức hỗ trợ y tế nào?\nTrả lời đúng: CÓ, được chính quyền địa phương hỗ trợ thẻ BHYT và các chương trình y tế cộng đồng\nGiải thích: Chính sách an sinh xã hội TP.HCM luôn chăm lo y tế cho người yếu thế.\nNgười dân nên làm gì: Liên hệ UBND/Trạm Y tế phường để nhận hướng dẫn hỗ trợ BHYT.\nKhi nào cần đi khám: Đến Trạm y tế phường/xã.",
 "source": "ngân hàng câu hỏi MAI, VGB-194 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-195",
 "title": "Khi khám sức khỏe định kỳ tại cơ quan, người trưởng thành có nên trao đổi với nhân viên y tế về nhu cầu xét nghiệm HBsAg không? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Khi khám sức khỏe định kỳ tại cơ quan, người trưởng thành có nên trao đổi với nhân viên y tế về nhu cầu xét nghiệm HBsAg không?\nTrả lời đúng: NÊN ĐĂNG KÝ THÊM nếu chưa từng thử máu xét nghiệm viêm gan B\nGiải thích: Tận dụng đợt khám sức khỏe cơ quan để tầm soát sớm virus viêm gan B.\nNgười dân nên làm gì: Đăng ký làm thêm HBsAg trong gói khám công ty.\nKhi nào cần đi khám: Tư vấn bác sĩ đoàn khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-195 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-196",
 "title": "Người bệnh viêm gan B nên chuẩn bị những giấy tờ và kết quả xét nghiệm nào khi đi khám? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Người bệnh viêm gan B nên chuẩn bị những giấy tờ và kết quả xét nghiệm nào khi đi khám?\nTrả lời đúng: Thẻ BHYT, CCCD, Sổ khám bệnh và tất cả các kết quả xét nghiệm/đơn thuốc cũ\nGiải thích: Hồ sơ xét nghiệm cũ giúp bác sĩ so sánh diễn tiến virus và men gan qua các thời kỳ.\nNgười dân nên làm gì: Mang đầy đủ hồ sơ khám bệnh cũ khi đi tái khám.\nKhi nào cần đi khám: Xuất trình cho y bác sĩ tại phòng khám.",
 "source": "ngân hàng câu hỏi MAI, VGB-196 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-197",
 "title": "Trung tâm Kiểm soát Bệnh tật TP. Hồ Chí Minh (HCDC) có vai trò gì trong công tác phòng, chống HBV? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Trung tâm Kiểm soát Bệnh tật TP. Hồ Chí Minh (HCDC) có vai trò gì trong công tác phòng, chống HBV?\nTrả lời đúng: Chỉ đạo truyền thông giáo dục sức khỏe, giám sát dịch tễ và tiêm chủng phòng bệnh toàn thành phố\nGiải thích: HCDC là cơ quan hàng đầu về y tế dự phòng và truyền thông nâng cao sức khỏe cộng đồng.\nNgười dân nên làm gì: Theo dõi các kênh thông tin chính thức của HCDC TP.HCM.\nKhi nào cần đi khám: Tham khảo website/fanpage HCDC.",
 "source": "ngân hàng câu hỏi MAI, VGB-197 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-198",
 "title": "Đường dây nóng y tế hoặc kênh tư vấn của Trạm Y tế có thể hỗ trợ người dân giải đáp những vấn đề nào? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Đường dây nóng y tế hoặc kênh tư vấn của Trạm Y tế có thể hỗ trợ người dân giải đáp những vấn đề nào?\nTrả lời đúng: Giải đáp thắc mắc về lịch tiêm chủng, thủ tục BHYT và hướng dẫn khám chữa bệnh ban đầu\nGiải thích: Kênh tư vấn trực tiếp giúp người dân xử lý nhanh các băn khoăn y tế thường gặp.\nNgười dân nên làm gì: Lưu số điện thoại Trạm Y tế phường để gọi khi cần.\nKhi nào cần đi khám: Liên hệ Trạm Y tế địa phương.",
 "source": "ngân hàng câu hỏi MAI, VGB-198 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-199",
 "title": "Mỗi người dân có thể thực hiện những việc gì để góp phần phòng, chống viêm gan B tại TP. Hồ Chí Minh? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Mỗi người dân có thể thực hiện những việc gì để góp phần phòng, chống viêm gan B tại TP. Hồ Chí Minh?\nTrả lời đúng: Chủ động đi xét nghiệm, tiêm vắc-xin phòng bệnh, tuân thủ điều trị và lan tỏa kiến thức đúng\nGiải thích: Mỗi cá nhân chủ động bảo vệ bản thân và gia đình sẽ tạo nên một cộng đồng an toàn vững mạnh.\nNgười dân nên làm gì: Thực hiện ngay việc thử máu và tiêm vắc-xin cho gia đình.\nKhi nào cần đi khám: Đến Trạm Y tế phường/xã hôm nay.",
 "source": "ngân hàng câu hỏi MAI, VGB-199 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 },
 {
 "id": "VGB-200",
 "title": "Người dân nên tìm hiểu thông tin về viêm gan B từ những nguồn nào để bảo đảm độ tin cậy? [Tiếp cận dịch vụ y tế BHYT & Chăm sóc ban đầu tại TP.HCM]",
 "text": "Câu hỏi: Người dân nên tìm hiểu thông tin về viêm gan B từ những nguồn nào để bảo đảm độ tin cậy?\nTrả lời đúng: Từ các trang thông tin chính thức của Bộ Y tế, Sở Y tế TP.HCM, HCDC và các bệnh viện uy tín\nGiải thích: Thông tin y tế từ các cơ sở uy tín được thẩm định khoa học và an toàn cho người dân.\nNgười dân nên làm gì: Lựa chọn nguồn tin chính thống để học tập.\nKhi nào cần đi khám: Đến y tế địa phương tư vấn.",
 "source": "ngân hàng câu hỏi MAI, VGB-200 (Quyết định 1740/QĐ-BYT (16/6/2026))",
-"link": "#/hoc-tap/chu-de/12"
+"link": "#/cuoc-thi/chu-de/12"
 }
 ]

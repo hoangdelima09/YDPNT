@@ -4,7 +4,7 @@
 window.SITE_EN = {};
 
 SITE_EN.sources = {
-  "#/hoc-tap": "MAI – 200-question hepatitis B health-education question bank (based on Decisions 1740/QD-BYT (2026) and 678/QD-BYT (2025))",
+  "#/cuoc-thi": "MAI – 200-question hepatitis B health-education question bank (based on Decisions 1740/QD-BYT (2026) and 678/QD-BYT (2025))",
   "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b": "WHO – Hepatitis B (fact sheet)",
   "https://kcb.vn/upload/2005611/20260617/BYT__QD_ban_hanh_HDCDT_viem_gan_vi_rut_B_-_final_2_signed_8c1b5.pdf": "Ministry of Health (Vietnam) – Decision 1740/QD-BYT (16 Jun 2026): Guidelines for the diagnosis and treatment of hepatitis B (in Vietnamese)",
   "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyet-dinh-678-QD-BYT-2025-huong-dan-ky-thuat-can-thiep-du-phong-lay-truyen-HIV-tu-me-sang-con-694318.aspx": "Ministry of Health (Vietnam) – Decision 678/QD-BYT (26 Feb 2025): Technical guidelines on interventions to prevent mother-to-child transmission of HIV, hepatitis B and syphilis (in Vietnamese)",
@@ -12,10 +12,12 @@ SITE_EN.sources = {
 };
 
 SITE_EN.groups = {
-  btn:  { code: "CD",  name: "Communicable diseases", desc: "Diseases that spread from person to person through viruses or bacteria, such as hepatitis B and HIV, with their diagnosis, treatment and prevention." },
-  bkln: { code: "NCD", name: "Non-communicable diseases", desc: "Chronic, non-infectious diseases and complications such as cirrhosis and liver cancer, and how to monitor and detect them early." },
-  sk:   { code: "HC",  name: "Healthy living and community", desc: "Preventing spread at home, nutrition and lifestyle, understanding the facts and ending stigma, and how to access health services and health insurance." },
-  bnho: { code: "MCH", name: "Child and maternal health", desc: "Preventing mother-to-child transmission, newborn vaccination and treatment for children." }
+  btn:     { code: "Communicable diseases", name: "Communicable diseases", desc: "Diseases that spread from person to person through viruses or bacteria, such as hepatitis B and HIV, with their diagnosis, treatment and prevention." },
+  bkln:    { code: "Non-communicable diseases", name: "Non-communicable diseases", desc: "Chronic, non-infectious diseases and complications such as cirrhosis and liver cancer, and how to monitor and detect them early." },
+  mecon:   { code: "Maternal, child health and nutrition", name: "Maternal, child health and nutrition", desc: "Preventing mother-to-child transmission, vaccination and treatment for children, nutrition and a healthy lifestyle." },
+  tamthan: { code: "Mental health and social issues", name: "Mental health and social issues", desc: "Understanding the facts and ending stigma, and how to access health services and health insurance." },
+  tntt:    { code: "Injuries and occupational diseases", name: "Injuries and occupational diseases", desc: "What to do after a needlestick or sharps injury, wound care, and preventing spread through procedures that break the skin." },
+  vsmt:    { code: "Environmental hygiene and food safety", name: "Environmental hygiene and food safety", desc: "Environmental hygiene, safe water and food safety to protect community health." }
 };
 
 SITE_EN.news = {

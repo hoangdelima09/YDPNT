@@ -12,7 +12,7 @@ window.createLearn = function (ctx) {
   /* ---------------- Chuỗi giao diện ---------------- */
   const LT = {
     vi: {
-      learn: "Học tập", sub: "MAI Learn – học viêm gan B qua câu hỏi ngắn, có giải thích sau mỗi câu",
+      learn: "Cuộc thi", practice_h: "Luyện tập và thi thử", sub: "MAI Learn – học viêm gan B qua câu hỏi ngắn, có giải thích sau mỗi câu",
       streak: "Chuỗi ngày học", days: "ngày", points: "Điểm", done: "Đã nắm vững", of: "trên", questions: "câu",
       progress: "Hoàn thành lộ trình", correctLast: "câu đang đúng", continueBtn: "Tiếp tục học",
       surveyBtn: "Khảo sát kiến thức ban đầu", surveyHint: "12 câu, mỗi chủ đề 1 câu – giúp MAI biết bạn cần học gì trước.",
@@ -29,7 +29,7 @@ window.createLearn = function (ctx) {
       next: "Câu tiếp theo", finish: "Xem kết quả", leave: "Thoát bài",
       resultTitle: "Kết quả", score: "Điểm số", levelGood: "Tốt", levelMid: "Trung bình", levelLow: "Cần cải thiện",
       levelNote: "Thang đánh giá: Tốt ≥ 80%, Trung bình 60% đến dưới 80%, Cần cải thiện < 60%.",
-      byTopic: "Theo chủ đề", reviewWrong: "Ôn lại các câu sai", again: "Làm lại", home: "Về trang Học tập", wrongList: "Các câu cần xem lại",
+      byTopic: "Theo chủ đề", reviewWrong: "Ôn lại các câu sai", again: "Làm lại", home: "Về trang Cuộc thi", wrongList: "Các câu cần xem lại",
       newBadge: "Huy hiệu mới", pointsGained: "điểm",
       modeSurvey: "Khảo sát kiến thức", modeReview: "Ôn tập hôm nay", modeExam: "Thi thử", modeTopic: "Chủ đề", modeWeek: "Thử thách tuần",
       empty: "Không có câu hỏi phù hợp.", disclaimer: "Câu hỏi nhằm giáo dục sức khỏe, không thay thế tư vấn của bác sĩ.",
@@ -41,7 +41,7 @@ window.createLearn = function (ctx) {
       level: "Mức", resetBtn: "Xóa tiến độ", resetAsk: "Xóa toàn bộ tiến độ học trên trình duyệt này?"
     },
     en: {
-      learn: "Learn", sub: "MAI Learn – learn about hepatitis B through short questions with explanations",
+      learn: "Contest", practice_h: "Practice and mock exams", sub: "MAI Learn – learn about hepatitis B through short questions with explanations",
       streak: "Day streak", days: "days", points: "Points", done: "Mastered", of: "of", questions: "questions",
       progress: "Roadmap completed", correctLast: "currently correct", continueBtn: "Continue learning",
       surveyBtn: "Baseline knowledge survey", surveyHint: "12 questions, one per topic – tells MAI what to teach you first.",
@@ -58,7 +58,7 @@ window.createLearn = function (ctx) {
       next: "Next question", finish: "See results", leave: "Leave quiz",
       resultTitle: "Results", score: "Score", levelGood: "Good", levelMid: "Fair", levelLow: "Needs improvement",
       levelNote: "Scale: Good ≥ 80%, Fair 60% to under 80%, Needs improvement < 60%.",
-      byTopic: "By topic", reviewWrong: "Review missed questions", again: "Try again", home: "Back to Learn", wrongList: "Questions to review",
+      byTopic: "By topic", reviewWrong: "Review missed questions", again: "Try again", home: "Back to Contest", wrongList: "Questions to review",
       newBadge: "New badge", pointsGained: "points",
       modeSurvey: "Knowledge survey", modeReview: "Today's review", modeExam: "Practice exam", modeTopic: "Topic", modeWeek: "Weekly challenge",
       empty: "No suitable questions.", disclaimer: "Questions are for health education and do not replace a doctor's advice.",
@@ -179,7 +179,7 @@ window.createLearn = function (ctx) {
 
   function quizPage(mode, topic, key) {
     if (!session || session.key !== key) startSession(mode, topic, key);
-    if (!session.items.length) return `<div class="empty"><h2>${L("empty")}</h2><p><a href="#/hoc-tap">${L("home")}</a></p></div>`;
+    if (!session.items.length) return `<div class="empty"><h2>${L("empty")}</h2><p><a href="#/cuoc-thi">${L("home")}</a></p></div>`;
     return session.finished ? resultHtml() : questionHtml();
   }
 
@@ -203,9 +203,9 @@ window.createLearn = function (ctx) {
         ${q.ref ? `<p class="muted">${L("ref")}: ${esc(q.ref)}</p>` : ""}</div>
         <div class="quiz-actions"><button type="button" class="btn" data-act="next">${s.i + 1 === total ? L("finish") : L("next")} →</button></div>`;
     }
-    return `<div class="crumbs"><a href="#/hoc-tap">${L("learn")}</a> / ${esc(modeLabel(s.mode, s.topic))}</div>
+    return `<div class="crumbs"><a href="#/cuoc-thi">${L("learn")}</a> / ${esc(modeLabel(s.mode, s.topic))}</div>
       <div class="quiz">
-        <div class="quiz-head"><span>${L("question")} ${s.i + 1}/${total}</span><span class="tag">${esc(topicName)}</span><a class="leave" href="#/hoc-tap">${L("leave")}</a></div>
+        <div class="quiz-head"><span>${L("question")} ${s.i + 1}/${total}</span><span class="tag">${esc(topicName)}</span><a class="leave" href="#/cuoc-thi">${L("leave")}</a></div>
         <div class="bar"><i style="width:${Math.round((s.i + (answered ? 1 : 0)) / total * 100)}%"></i></div>
         <h2 class="qtext">${esc(q.q)}</h2>
         <div class="opts">${opts}</div>${fb}
@@ -262,10 +262,10 @@ window.createLearn = function (ctx) {
     s.items.forEach((it) => { const q = byId[it.id]; const p = (perTopic[q.topic] = perTopic[q.topic] || { r: 0, n: 0 }); p.n++; if (it.picked === q.answer) p.r++; });
     const rows = Object.keys(perTopic).map((id) => {
       const p = perTopic[id], t = TOPICS.find((x) => x.id === +id);
-      return `<li><a href="#/hoc-tap/chu-de/${id}">${esc(t.name)}</a><span>${p.r}/${p.n}</span></li>`;
+      return `<li><a href="#/cuoc-thi/chu-de/${id}">${esc(t.name)}</a><span>${p.r}/${p.n}</span></li>`;
     }).join("");
     const nb = s.newBadges.map((b) => `<span class="badge-chip">★ ${L("b_" + b)}</span>`).join("");
-    return `<div class="crumbs"><a href="#/hoc-tap">${L("learn")}</a> / ${esc(modeLabel(s.mode, s.topic))}</div>
+    return `<div class="crumbs"><a href="#/cuoc-thi">${L("learn")}</a> / ${esc(modeLabel(s.mode, s.topic))}</div>
       <div class="quiz result">
         <h2>${L("resultTitle")}</h2>
         <div class="score ${lc}"><b>${s.score}/${total}</b><span>${pct}% · ${L(lk)}</span></div>
@@ -276,7 +276,7 @@ window.createLearn = function (ctx) {
         <div class="quiz-actions">
           ${wrongItems.length ? `<button type="button" class="btn" data-act="review-wrong">${L("reviewWrong")}</button>` : ""}
           <button type="button" class="btn ghost" data-act="again">${L("again")}</button>
-          <a class="btn ghost" href="#/hoc-tap">${L("home")}</a>
+          <a class="btn ghost" href="#/cuoc-thi">${L("home")}</a>
         </div>
       </div>`;
   }
@@ -286,16 +286,16 @@ window.createLearn = function (ctx) {
     const o = overall(), st = allStats(), rec = recommendation(), sk = streak();
     const today = S.days.includes(dayKey());
     const stLabel = (s) => L("st" + s.status);
-    const cards = st.map((s) => `<a class="topic-card st${s.status}" href="#/hoc-tap/chu-de/${s.topic.id}">
+    const cards = st.map((s) => `<a class="topic-card st${s.status}" href="#/cuoc-thi/chu-de/${s.topic.id}">
         <span class="num">${s.topic.id}</span>
         <span class="tt"><b>${esc(s.topic.name)}</b><small>${s.answered}/${s.total} ${L("questions")} · ${stLabel(s)}</small></span>
         <span class="mini"><i style="width:${Math.round(s.right / s.total * 100)}%"></i></span></a>`).join("");
     const badges = BADGES.filter((b) => S.badges[b]).map((b) => `<span class="badge-chip" title="${esc(L("b_" + b + "_d"))}">★ ${L("b_" + b)}</span>`).join("");
     const hist = S.history.slice(-5).reverse().map((h) => `<li>${new Date(h.ts).toLocaleDateString(lang() === "en" ? "en-GB" : "vi-VN")} · ${esc(modeLabel(h.mode, h.topic))}<b>${h.score}/${h.total}</b></li>`).join("");
     const recHtml = rec
-      ? `<a class="rec" href="#/hoc-tap/chu-de/${rec.topic.id}"><small>${L(rec.why)}</small><b>${rec.topic.id}. ${esc(rec.topic.name)}</b><span class="btn small">${L("continueBtn")} →</span></a>`
+      ? `<a class="rec" href="#/cuoc-thi/chu-de/${rec.topic.id}"><small>${L(rec.why)}</small><b>${rec.topic.id}. ${esc(rec.topic.name)}</b><span class="btn small">${L("continueBtn")} →</span></a>`
       : `<p class="muted">${L("recommendNone")}</p>`;
-    return `<h2 class="page-title">${L("learn")}</h2><p class="lead">${L("sub")}</p>
+    return `<h3 class="sec">${L("practice_h")}</h3><p class="muted sec-sub">${L("sub")}</p>
       <div class="learn-top">
         <div class="stat"><b>🔥 ${sk}</b><span>${L("streak")} (${L("days")})</span></div>
         <div class="stat"><b>${o.pct}%</b><span>${L("progress")} · ${o.right}/${Q.length}</span></div>
@@ -305,9 +305,9 @@ window.createLearn = function (ctx) {
       <div class="learn-cols">
         <section class="panel"><h3>${L("recommend")}</h3>${recHtml}</section>
         <section class="panel"><h3>${L("today")}</h3>
-          <a class="task" href="#/hoc-tap/quiz/khao-sat"><b>${L("surveyBtn")}</b><small>${L("surveyHint")}</small></a>
-          <a class="task" href="#/hoc-tap/quiz/on-tap"><b>${L("reviewBtn")}</b><small>${L("reviewHint")}</small>${today ? "<i class=\"ok\">✓</i>" : ""}</a>
-          <a class="task" href="#/hoc-tap/quiz/thi-thu"><b>${L("examBtn")}</b><small>${L("examHint")}</small></a>
+          <a class="task" href="#/cuoc-thi/quiz/khao-sat"><b>${L("surveyBtn")}</b><small>${L("surveyHint")}</small></a>
+          <a class="task" href="#/cuoc-thi/quiz/on-tap"><b>${L("reviewBtn")}</b><small>${L("reviewHint")}</small>${today ? "<i class=\"ok\">✓</i>" : ""}</a>
+          <a class="task" href="#/cuoc-thi/quiz/thi-thu"><b>${L("examBtn")}</b><small>${L("examHint")}</small></a>
         </section>
       </div>
       <h3 class="sec">${L("roadmap")}</h3><p class="muted sec-sub">${L("roadmapSub")}</p>
@@ -324,13 +324,13 @@ window.createLearn = function (ctx) {
     if (!t) return null;
     const s = topicStats(t.id);
     const arts = (TOPIC_ARTICLES[t.id] || []).map((a) => articles(a)).filter(Boolean).map((a) => `<li><a href="#/bai/${a.id}">${esc(a.title)}</a></li>`).join("");
-    return `<div class="crumbs"><a href="#/hoc-tap">${L("learn")}</a> / ${L("topic")} ${t.id}</div>
+    return `<div class="crumbs"><a href="#/cuoc-thi">${L("learn")}</a> / ${L("topic")} ${t.id}</div>
       <h2 class="page-title">${t.id}. ${esc(t.name)}</h2>
       <p class="lead">${s.answered}/${s.total} ${L("questions")} · ${L("st" + s.status)}</p>
       <div class="learn-cols">
         <section class="panel"><h3>${L("remember")}</h3><ul class="remember">${(REMEMBER[t.id] || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></section>
         <section class="panel"><h3>${L("learnPart")}</h3>${arts ? `<ul>${arts}</ul>` : ""}
-          <h3 class="sec">${L("practice")}</h3><a class="btn" href="#/hoc-tap/quiz/chu-de/${t.id}">${L("startTopic")} (${s.total}) →</a></section>
+          <h3 class="sec">${L("practice")}</h3><a class="btn" href="#/cuoc-thi/quiz/chu-de/${t.id}">${L("startTopic")} (${s.total}) →</a></section>
       </div>`;
   }
 
@@ -342,8 +342,9 @@ window.createLearn = function (ctx) {
     return `<h2 class="page-title">${ctx.t("navContest")}</h2>
       <h3 class="sec">${L("lib")}</h3>
       <div class="panel contest"><span class="tag">${L("libNow")}</span><h3>${L("weekTitle")} · ${wk}</h3>
-        ${hasBest ? `<p class="muted">${L("weekBest")}: <b>${best}/10</b></p>` : ""}<a class="btn" href="#/hoc-tap/quiz/tuan">${L("weekBtn")} →</a></div>
+        ${hasBest ? `<p class="muted">${L("weekBest")}: <b>${best}/10</b></p>` : ""}<a class="btn" href="#/cuoc-thi/quiz/tuan">${L("weekBtn")} →</a></div>
       <div class="panel"><span class="tag">${L("libSoon")}</span><p class="muted">${L("libNone")}</p></div>
+      ${learnPage()}
       <div class="panel"><h3>${L("board")}</h3><p class="muted">${L("boardNote")}</p><p><b>${L("points")}:</b> ${S.points} · <b>${L("streak")}:</b> ${streak()} ${L("days")}</p></div>`;
   }
 

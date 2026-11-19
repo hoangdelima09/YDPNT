@@ -18,8 +18,8 @@
   ------------------------------------------------------------------ */
   const I18N = {
     vi: {
-      htmlTitle: "MAI – Nền tảng giáo dục sức khỏe viêm gan B",
-      siteTitle: "MAI – GIÁO DỤC SỨC KHỎE", navAbout: "GIỚI THIỆU", navTraining: "ĐÀO TẠO", navLearn: "HỌC TẬP", navVerify: "CHẨN TIN", navContest: "CUỘC THI", navNews: "TIN TỨC",
+      htmlTitle: "MAI – TRUYỀN THÔNG, GIÁO DỤC SỨC KHỎE",
+      siteTitle: "MAI – TRUYỀN THÔNG, GIÁO DỤC SỨC KHỎE", navAbout: "GIỚI THIỆU", navTraining: "ĐÀO TẠO", navLearn: "HỌC TẬP", navVerify: "CHẨN TIN", navContest: "CUỘC THI", navForum: "DIỄN ĐÀN", navNews: "TIN TỨC",
       ddTitle: "Nhóm chủ đề", chatTitle: "MAI AI", chatTopics: "Chủ đề", chatPlaceholder: "Nhập câu hỏi về sức khỏe…", chatFab: "Hỏi MAI AI",
       menuProfile: "Hồ sơ", menuSaved: "Bài đã lưu", menuLogout: "Đăng xuất",
       footerNote: "Thông tin trên website chỉ mang tính tham khảo, không thay thế chẩn đoán, tư vấn hoặc chỉ định điều trị của bác sĩ.",
@@ -27,6 +27,8 @@
       related: "Bài viết liên quan", datePrefix: "ngày ",
       byline: "Tổng hợp và dịch từ các nguồn bên dưới",
       trainingLead: "Chọn một nhóm chủ đề để xem các bài viết.",
+      groupEmpty: "Nội dung của nhóm chủ đề này đang được cập nhật.",
+      learnTitle: "Học tập", learnLead: "Video giáo dục sức khỏe: xem trực tiếp trên trang hoặc mở sang YouTube.", watchYT: "Xem trên YouTube", playVideo: "Phát video",
       aboutTitle: "Giới thiệu", aboutSub: "MAI – Medical Awareness Intelligence",
       aboutHtml: `
         <h2>MAI là gì?</h2>
@@ -55,8 +57,9 @@
           <li><strong>Chẩn tin (MAI Verify):</strong> dán một thông tin y tế đang lan truyền để nhận kết luận, giải thích và nguồn đối chiếu.</li>
           <li><strong>MAI AI:</strong> trò chuyện hỏi đáp về viêm gan B, trả lời dựa trên toàn bộ kiến thức đã đăng trên website.</li>
           <li><strong>Đào tạo:</strong> các bài kiến thức theo nhóm chủ đề, biên soạn từ QĐ 1740/QĐ-BYT (2026), QĐ 678/QĐ-BYT (2025) của Bộ Y tế và tài liệu WHO.</li>
-          <li><strong>Học tập (MAI Learn):</strong> ngân hàng 200 câu trắc nghiệm có giải thích, khảo sát kiến thức ban đầu, ôn tập hằng ngày, chuỗi ngày học và huy hiệu.</li>
-          <li><strong>Cuộc thi:</strong> thử thách kiến thức mỗi tuần.</li>
+          <li><strong>Học tập:</strong> các video giáo dục sức khỏe, xem trực tiếp trên website hoặc chuyển sang YouTube.</li>
+          <li><strong>Cuộc thi (MAI Learn):</strong> thử thách kiến thức mỗi tuần, ngân hàng 200 câu trắc nghiệm có giải thích, khảo sát kiến thức ban đầu, ôn tập hằng ngày, chuỗi ngày học và huy hiệu.</li>
+          <li><strong>Diễn đàn:</strong> nơi trao đổi của cộng đồng (sắp ra mắt).</li>
           <li><strong>Tin tức:</strong> cập nhật hướng dẫn chuyên môn và số liệu mới.</li>
         </ul>
         <h2>Đội ngũ phát triển</h2>
@@ -69,7 +72,7 @@
         </div>
         <h2>An toàn y tế</h2>
         <div class="callout warn"><p>MAI chỉ cung cấp kiến thức giáo dục sức khỏe dựa trên tài liệu chính thống (WHO, Bộ Y tế Việt Nam và tài liệu đã được thẩm định). MAI <strong>không thay thế bác sĩ</strong>, không chẩn đoán bệnh và không chỉ định điều trị. Khi có triệu chứng hoặc nghi ngờ mắc bệnh, hãy đến cơ sở y tế.</p></div>
-        <p><a href="#/dao-tao">Bắt đầu với phần Đào tạo →</a> · <a href="#/hoc-tap">Thử sức với phần Học tập →</a></p>`,
+        <p><a href="#/dao-tao">Bắt đầu với phần Đào tạo →</a> · <a href="#/hoc-tap">Xem video Học tập →</a></p>`,
       soon: "Sắp ra mắt", soonText: "Các cuộc thi kiến thức y khoa sẽ được cập nhật tại đây.",
       notFound: "Không tìm thấy trang", backHome: "← Về trang chủ",
       topicPrefix: "Chủ đề: ",
@@ -85,8 +88,8 @@
       aInput: "Nhập câu hỏi", aNav: "Điều hướng chính", aMenu: "Mở menu", aHome: "Trang chủ", aLang: "Ngôn ngữ", aChat: "Chatbot hỏi đáp"
     },
     en: {
-      htmlTitle: "MAI – Hepatitis B health education",
-      siteTitle: "MAI – HEALTH EDUCATION", navAbout: "ABOUT", navTraining: "TRAINING", navLearn: "LEARN", navVerify: "FACT-CHECK", navContest: "CONTEST", navNews: "NEWS",
+      htmlTitle: "MAI – HEALTH COMMUNICATION AND EDUCATION",
+      siteTitle: "MAI – HEALTH COMMUNICATION AND EDUCATION", navAbout: "ABOUT", navTraining: "TRAINING", navLearn: "LEARN", navVerify: "FACT-CHECK", navContest: "CONTEST", navForum: "FORUM", navNews: "NEWS",
       ddTitle: "Topic groups", chatTitle: "MAI AI", chatTopics: "Topics", chatPlaceholder: "Ask a health question…", chatFab: "Ask MAI AI",
       menuProfile: "Profile", menuSaved: "Saved articles", menuLogout: "Sign out",
       footerNote: "Information on this website is for reference only and does not replace a doctor's diagnosis, advice or treatment.",
@@ -94,6 +97,8 @@
       related: "Related articles", datePrefix: "",
       byline: "Compiled and translated from the sources below",
       trainingLead: "Choose a topic group to see its articles.",
+      groupEmpty: "Content for this topic group is being prepared.",
+      learnTitle: "Learn", learnLead: "Health education videos: watch here on the page or open them on YouTube. Videos are in Vietnamese.", watchYT: "Watch on YouTube", playVideo: "Play video",
       aboutTitle: "About", aboutSub: "MAI – Medical Awareness Intelligence",
       aboutHtml: `
         <h2>What is MAI?</h2>
@@ -110,13 +115,14 @@
           <li><strong>Fact-check (MAI Verify):</strong> paste a health claim in circulation to get a verdict, explanation and sources.</li>
           <li><strong>MAI AI:</strong> a chatbot that answers from the knowledge published on this website.</li>
           <li><strong>Training:</strong> knowledge articles based on Vietnam's Ministry of Health Decisions 1740/QD-BYT (2026) and 678/QD-BYT (2025) and WHO material.</li>
-          <li><strong>Learn (MAI Learn):</strong> a 200-question bank with explanations, a baseline survey, daily review, streaks and badges. Question text is in Vietnamese.</li>
-          <li><strong>Contest:</strong> a weekly knowledge challenge. <strong>News:</strong> guideline updates and new figures.</li>
+          <li><strong>Learn:</strong> health education videos you can watch on the site or on YouTube (in Vietnamese).</li>
+          <li><strong>Contest (MAI Learn):</strong> a weekly knowledge challenge, a 200-question bank with explanations, a baseline survey, daily review, streaks and badges. Question text is in Vietnamese.</li>
+          <li><strong>Forum:</strong> a place for the community to talk (coming soon). <strong>News:</strong> guideline updates and new figures.</li>
         </ul>
         <h2>Team</h2>
         <p>Built by an interdisciplinary student team from the University of Medicine and Pharmacy at HCMC, Pham Ngoc Thach University of Medicine and HCMC University of Technology (VNU-HCM): Le Huy Dac (team lead), Nguyen Minh Thu (health education content), Nguyen Thi Minh Thu (medical content and learning materials) and Nguyen Tran Duc Hoang (AI and platform engineering).</p>
         <div class="callout warn"><p>MAI provides health education only, based on authoritative sources. It does not replace a doctor and does not diagnose or prescribe. If you have symptoms or suspect an illness, see a health facility.</p></div>
-        <p><a href="#/dao-tao">Start with the Training section →</a> · <a href="#/hoc-tap">Try the Learn section →</a></p>`,
+        <p><a href="#/dao-tao">Start with the Training section →</a> · <a href="#/hoc-tap">Watch the Learn videos →</a></p>`,
       soon: "Coming soon", soonText: "Medical knowledge contests will be announced here.",
       notFound: "Page not found", backHome: "← Back to home",
       topicPrefix: "Topic: ",
@@ -234,6 +240,14 @@
       <p>${aSummary(a)}</p></a>`;
   }
 
+  /* Video trang Học tập (YouTube: Bệnh viện Đại học Y Dược TP.HCM) */
+  const VIDEOS = [
+    { id: "lI2JzS7md2w", title: "Vắc xin phòng viêm gan B – Người lớn có cần tiêm không?" },
+    { id: "7_xhnQwdhBo", title: "Viêm gan virus nguy hiểm thế nào? | UMC | Bệnh viện Đại học Y Dược TP. Hồ Chí Minh" },
+    { id: "RwV7iEh8Bvg", title: "Viêm gan B ở trẻ em | UMC | Bệnh viện Đại học Y Dược TP. Hồ Chí Minh" },
+    { id: "43db8qvetDo", title: "Viêm gan B | UMC | Bệnh viện Đại học Y Dược TPHCM" }
+  ];
+
   /* ------------------------------------------------------------------
      Các trang
   ------------------------------------------------------------------ */
@@ -260,7 +274,7 @@
     training() {
       const cards = groups.map((g) => {
         const n = articles.filter((a) => a.group === g.id).length;
-        return `<a class="group-card" href="#/dao-tao/${g.id}"><span class="badge">${gCode(g)}</span>
+        return `<a class="group-card" href="#/dao-tao/${g.id}"><span class="badge">${groups.indexOf(g) + 1}</span>
           <h3>${gName(g)}</h3><p>${gDesc(g)}</p><span class="count">${n} ${t("articlesN")} →</span></a>`;
       }).join("");
       return {
@@ -275,8 +289,8 @@
       return {
         route: "dao-tao", chat: "floating",
         html: `<div class="crumbs"><a href="#/dao-tao">${t("training")}</a> / ${gCode(g)}</div>
-               <h2 class="page-title">${gCode(g)} – ${gName(g)}</h2><p class="lead">${gDesc(g)}</p>
-               <div class="grid">${list.map(articleCard).join("")}</div>`
+               <h2 class="page-title">${gName(g)}</h2><p class="lead">${gDesc(g)}</p>
+               ${list.length ? `<div class="grid">${list.map(articleCard).join("")}</div>` : `<div class="panel"><p class="muted">${t("groupEmpty")}</p></div>`}`
       };
     },
     article(id) {
@@ -303,16 +317,27 @@
     verify() {
       return { route: "chan-tin", chat: "floating", html: verify.page() };
     },
-    learn() {
-      return { route: "hoc-tap", chat: "floating", html: learn.learnPage() };
+    videos() {
+      const cards = VIDEOS.map((v) => `<article class="video-card">
+          <div class="video-frame" data-yt="${v.id}" role="button" tabindex="0" aria-label="${t("playVideo")}: ${v.title}">
+            <img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" loading="lazy">
+            <span class="play" aria-hidden="true"><svg viewBox="0 0 24 24" width="30" height="30"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></span>
+          </div>
+          <h3>${v.title}</h3>
+          <a class="yt-link" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener noreferrer">${t("watchYT")} ↗</a>
+        </article>`).join("");
+      return { route: "hoc-tap", chat: "floating", html: `<h2 class="page-title">${t("learnTitle")}</h2><p class="lead">${t("learnLead")}</p><div class="video-grid">${cards}</div>` };
+    },
+    forum() {
+      return { route: "dien-dan", chat: "floating", html: `<h2 class="page-title">${t("navForum")}</h2>` };
     },
     topic(id) {
       const html = learn.topicPage(id, articleById);
-      return html ? { route: "hoc-tap", chat: "floating", html } : pages.notFound();
+      return html ? { route: "cuoc-thi", chat: "floating", html } : pages.notFound();
     },
     quiz(mode, topic) {
       if (!["khao-sat", "on-tap", "chu-de", "thi-thu", "tuan"].includes(mode)) return pages.notFound();
-      return { route: mode === "tuan" ? "cuoc-thi" : "hoc-tap", chat: "floating", html: learn.quizPage(mode, mode === "chu-de" ? +topic : null, `${mode}/${topic || ""}`) };
+      return { route: "cuoc-thi", chat: "floating", html: learn.quizPage(mode, mode === "chu-de" ? +topic : null, `${mode}/${topic || ""}`) };
     },
     notFound() {
       return {
@@ -332,14 +357,15 @@
     const [a, b, c, d] = parts;
     if (!a) return pages.home();
     if (a === "chan-tin") return pages.verify();
-    if (a === "hoc-tap") {
-      if (b === "chu-de" && c) return pages.topic(c);
-      if (b === "quiz" && c) return pages.quiz(c, d);
-      return pages.learn();
-    }
+    if (a === "hoc-tap" && !(b === "chu-de" || b === "quiz")) return pages.videos();
+    if (a === "dien-dan") return pages.forum();
     if (a === "tin-tuc") return pages.news();
     if (a === "gioi-thieu") return pages.about();
-    if (a === "cuoc-thi") return pages.contest();
+    if (a === "cuoc-thi" || a === "hoc-tap") {   // "hoc-tap/chu-de|quiz": đường dẫn cũ của phần luyện tập, nay thuộc Cuộc thi
+      if (b === "chu-de" && c) return pages.topic(c);
+      if (b === "quiz" && c) return pages.quiz(c, d);
+      return pages.contest();
+    }
     if (a === "dao-tao") return b ? pages.group(b) : pages.training();
     if (a === "bai" && b) return pages.article(b);
     return pages.notFound();
@@ -361,7 +387,7 @@
   }
 
   function render(keepScroll) {
-    if (!location.hash.startsWith("#/hoc-tap/quiz")) learn.reset();   // rời trang làm bài thì bỏ phiên cũ
+    if (!/^#\/(cuoc-thi|hoc-tap)\/quiz/.test(location.hash)) learn.reset();   // rời trang làm bài thì bỏ phiên cũ
     const page = resolve(location.hash);
     view.innerHTML = page.html;
     document.title = (page.title ? page.title + " – " : "") + "MAI";
@@ -531,7 +557,20 @@
   /* ------------------------------------------------------------------ */
   window.addEventListener("hashchange", () => render());
   window.addEventListener("resize", () => { if (!chat.classList.contains("open")) setChatMode(/^#?\/?$/.test(location.hash) ? "docked" : "floating"); });
-  view.addEventListener("click", (e) => { if (!verify.onClick(e)) learn.onClick(e, () => render(true)); });
+  function playVideo(box) {
+    const id = box.dataset.yt;
+    box.removeAttribute("data-yt"); box.removeAttribute("role"); box.removeAttribute("tabindex");
+    box.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0" title="YouTube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+  }
+  view.addEventListener("click", (e) => {
+    const box = e.target.closest("[data-yt]");
+    if (box) { playVideo(box); return; }
+    if (!verify.onClick(e)) learn.onClick(e, () => render(true));
+  });
+  view.addEventListener("keydown", (e) => {
+    const box = e.target.closest && e.target.closest("[data-yt]");
+    if (box && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); playVideo(box); }
+  });
   view.addEventListener("submit", (e) => { verify.onSubmit(e); });
   applyLang();
   showTopic();
