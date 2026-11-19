@@ -1,16 +1,16 @@
-# Hướng dẫn deploy lên Cloudflare Pages (miễn phí)
+# Hướng dẫn deploy lên Cloudflare Workers (miễn phí)
 
-Website gồm hai phần cùng nằm trên Cloudflare Pages:
+Website chạy trên **một Worker** của Cloudflare, gồm hai phần:
 
 - **Giao diện** (`index.html`, `assets/`): file tĩnh, được gom vào `dist/` bằng `python3 tools/build_dist.py`.
-- **API chatbot và Chẩn tin** (`functions/`): Cloudflare Pages Functions, gọi Google Gemini. Khóa API chỉ nằm trong biến môi trường của Cloudflare.
+- **API chatbot và Chẩn tin** (`worker.js`): gọi Google Gemini. Khóa API chỉ nằm trong secret của Cloudflare.
 
 ```
-functions/
-  api/chat.js        -> POST /api/chat    (MAI AI)
-  api/verify.js      -> POST /api/verify  (Chẩn tin)
-  _lib/core.js       -> logic dùng chung (truy xuất kiến thức + gọi Gemini)
-  _lib/knowledge.json, prompts.json   -> kiến thức và lời nhắc của bot
+worker.js            -> định tuyến /api/chat và /api/verify
+functions/_lib/
+  core.js            -> logic dùng chung (truy xuất kiến thức + gọi Gemini)
+  knowledge.json, prompts.json   -> kiến thức và lời nhắc của bot
+wrangler.toml        -> cấu hình Worker (tên: ydpnt, thư mục tĩnh: dist)
 ```
 
 > Chạy thử trên máy bạn vẫn dùng `python3 serve.py` như cũ (xem cuối file).
@@ -26,34 +26,22 @@ functions/
 
 ## Cách A – Kết nối GitHub (khuyên dùng: push code là tự deploy)
 
-1. Đưa dự án lên GitHub (thư mục chưa có git):
-   ```bash
-   cd ~/Projects/YduocPNT
-   git init
-   git add .
-   git commit -m "MAI website"
-   # tạo repo trống trên github.com (để Private cũng được), rồi:
-   git branch -M main
-   git remote add origin https://github.com/<tên-bạn>/<tên-repo>.git
-   git push -u origin main
-   ```
-   File `.gitignore` đã loại `.env`, `.dev.vars` và `dist/`. Hãy kiểm tra `git status` để chắc chắn **không có file chứa key** được commit.
-2. Vào Cloudflare Dashboard → **Workers & Pages** → **Create** → tab **Pages** → **Connect to Git** → chọn repo.
-3. Cấu hình build:
+1. Đưa dự án lên GitHub (đã làm: `hoangdelima09/YDPNT`). File `.gitignore` loại `.env`, `.dev.vars` và `dist/`; kiểm tra `git status` để chắc chắn **không có file chứa key** được commit.
+2. Cloudflare Dashboard → **Workers & Pages** → **Create application** → **Import a repository** → chọn repo.
+3. Màn hình **Set up your application**:
    | Mục | Giá trị |
    |---|---|
-   | Production branch | `main` |
-   | Framework preset | None |
+   | Project name | `ydpnt` (**phải trùng** `name` trong `wrangler.toml`) |
    | Build command | `python3 tools/build_dist.py` |
-   | Build output directory | `dist` |
-4. **Save and Deploy.** Lần đầu bot chưa chạy vì chưa có key, làm tiếp bước 5.
-5. Vào project → **Settings** → **Variables and Secrets** → **Add**:
+   | Deploy command | `npx wrangler deploy` (giữ nguyên) |
+   | Preview command | `npx wrangler preview` (giữ nguyên) |
+4. Bấm **Deploy**. Lần đầu bot chưa chạy vì chưa có key, làm tiếp bước 5.
+5. Vào Worker `ydpnt` → **Settings** → **Variables and Secrets** → **Add**:
    - Type: **Secret**
    - Variable name: `GEMINI_API_KEY`
    - Value: key mới
-   - Thêm cho cả **Production** (và Preview nếu muốn thử nhánh khác).
-6. **Deployments** → bấm **Retry deployment** (hoặc push một commit mới) để biến mới có hiệu lực.
-7. Mở địa chỉ `https://<tên-project>.pages.dev`, thử chatbot ở trang chủ và tab **Chẩn tin**.
+   - Bấm **Deploy** để lưu và áp dụng.
+6. Mở địa chỉ `https://ydpnt.<subdomain-của-bạn>.workers.dev` (hiện ở đầu trang Worker), thử chatbot ở trang chủ và tab **Chẩn tin**.
 
 ## Cách B – Deploy trực tiếp từ máy (không cần GitHub)
 
@@ -61,19 +49,16 @@ functions/
 cd ~/Projects/YduocPNT
 python3 tools/build_dist.py
 npx wrangler login                    # mở trình duyệt để đăng nhập Cloudflare
-npx wrangler pages deploy             # đọc wrangler.toml (output: dist, tên project: mai-viem-gan-b)
-npx wrangler pages secret put GEMINI_API_KEY --project-name mai-viem-gan-b   # dán key mới khi được hỏi
-npx wrangler pages deploy             # deploy lại để áp dụng secret
+npx wrangler deploy                   # đọc wrangler.toml
+npx wrangler secret put GEMINI_API_KEY   # dán key mới khi được hỏi
 ```
-
-Lần đầu `wrangler` sẽ hỏi tạo project: chọn nhánh production là `main`.
 
 ## Bước cuối – Chống bị lạm dụng hạn mức (nên làm)
 
 Giới hạn trong code chỉ có tác dụng trong từng tiến trình, **không thay thế** quy tắc của Cloudflare. Hãy tạo thêm:
 
 1. Dashboard → chọn **domain** của bạn → **Security** → **WAF** → **Rate limiting rules** → **Create rule**.
-   - *Lưu ý:* quy tắc này áp dụng cho domain bạn đã thêm vào Cloudflare. Nếu chỉ dùng địa chỉ `*.pages.dev` thì chưa dùng được, bạn nên gắn một tên miền riêng cho project (Custom domains).
+   - *Lưu ý:* quy tắc này áp dụng cho domain bạn đã thêm vào Cloudflare. Nếu chỉ dùng địa chỉ `*.workers.dev` thì chưa dùng được, bạn nên gắn một tên miền riêng cho project (Settings → Domains & Routes).
 2. Cấu hình gợi ý:
    - Khi: **URI Path** *starts with* `/api/`
    - Đếm theo: **IP**
@@ -83,7 +68,7 @@ Giới hạn trong code chỉ có tác dụng trong từng tiến trình, **khô
 
 ## Gắn tên miền riêng (tùy chọn)
 
-Project → **Custom domains** → **Set up a custom domain** → làm theo hướng dẫn.
+Worker → **Settings** → **Domains & Routes** → **Add** → **Custom domain** → làm theo hướng dẫn.
 
 ## Cập nhật nội dung sau này
 
@@ -100,8 +85,9 @@ Project → **Custom domains** → **Set up a custom domain** → làm theo hư�
 
 - **Chat báo "chưa được cấu hình khóa API"**: chưa thêm secret `GEMINI_API_KEY`, hoặc chưa deploy lại sau khi thêm.
 - **Bot báo "quá tải/gửi quá nhanh"**: hết hạn mức Gemini hoặc bị rate limit; bật thanh toán hoặc thử lại sau.
-- **Xem log lỗi**: project → **Deployments** → chọn bản deploy → **Functions** → *Real-time logs* (hoặc `npx wrangler pages deployment tail`).
-- **Build lỗi "python3 not found"**: trong **Settings → Environment variables** thêm biến build `PYTHON_VERSION` = `3.11`; hoặc dùng Cách B.
+- **Xem log lỗi**: Worker → **Observability** → *Logs* (hoặc `npx wrangler tail`).
+- **Build lỗi "python3 not found"**: Worker → **Settings → Build → Variables and secrets** thêm biến build `PYTHON_VERSION` = `3.11`; hoặc dùng Cách B.
+- **Deploy lỗi về tên Worker**: tên Worker trên Cloudflare phải trùng `name` trong `wrangler.toml`.
 - **Sửa xong mà web vẫn cũ**: tải lại cứng (Ctrl+Shift+R); file tĩnh được cache tối đa 5 phút.
 
 ## Chạy thử trên máy
@@ -111,5 +97,5 @@ Project → **Custom domains** → **Set up a custom domain** → làm theo hư�
   ```bash
   python3 tools/build_dist.py
   cp .env .dev.vars                       # wrangler đọc key từ .dev.vars
-  npx wrangler pages dev dist             # mở http://127.0.0.1:8788
+  npx wrangler dev                        # mở http://127.0.0.1:8787
   ```

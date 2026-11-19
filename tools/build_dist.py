@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gom các file công khai của website vào dist/ để đưa lên Cloudflare Pages.
+"""Gom các file công khai của website vào dist/ để đưa lên Cloudflare Workers.
 
 Chỉ chép index.html và assets/ – KHÔNG chép .env, serve.py, tools/, functions/ (Functions được Cloudflare
 đọc trực tiếp từ thư mục functions/ ở gốc dự án, không nằm trong dist/).
