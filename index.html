@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MAI – Nền tảng giáo dục sức khỏe viêm gan B</title>
+  <meta name="description" content="MAI – Medical Awareness Intelligence: kiến thức viêm gan B từ Bộ Y tế và WHO, chatbot MAI AI, học tập qua 200 câu trắc nghiệm có giải thích.">
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Trang chủ" data-i18n-aria="aHome">
+      <img src="assets/img/logo.svg" alt="" width="40" height="40">
+      <span>MAI</span>
+    </a>
+    <h1 class="site-title" data-i18n="siteTitle">MAI – GIÁO DỤC SỨC KHỎE</h1>
+    <div class="user" id="user">
+      <button class="user-btn" id="userBtn" aria-haspopup="true" aria-expanded="false">
+        <span class="avatar">AN</span>
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="user-menu" id="userMenu" hidden>
+        <a href="#/hoc-tap" data-i18n="menuProfile">Hồ sơ</a>
+        <a href="#/" data-i18n="menuSaved">Bài đã lưu</a>
+        <a href="#/" data-i18n="menuLogout">Đăng xuất</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== NAV ===== -->
+  <nav class="mainnav" id="mainnav" aria-label="Điều hướng chính" data-i18n-aria="aNav">
+    <button class="nav-toggle" id="navToggle" aria-label="Mở menu" data-i18n-aria="aMenu" aria-expanded="false">
+      <svg viewBox="0 0 24 24" width="22" height="22"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+    </button>
+    <a class="nav-home" href="#/" data-route="home" aria-label="Trang chủ" data-i18n-aria="aHome">
+      <svg viewBox="0 0 24 24" width="22" height="22"><path d="M3 11.5 12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z" fill="currentColor"/></svg>
+    </a>
+    <ul class="nav-list" id="navList">
+      <li><a href="#/gioi-thieu" data-route="gioi-thieu" data-i18n="navAbout">GIỚI THIỆU</a></li>
+      <li class="has-dd" id="ddTraining">
+        <a href="#/dao-tao" data-route="dao-tao" aria-haspopup="true" aria-expanded="false" data-i18n="navTraining">ĐÀO TẠO</a>
+        <div class="dropdown" role="menu">
+          <strong data-i18n="ddTitle">Nhóm chủ đề</strong>
+          <a href="#/dao-tao/btn" role="menuitem" data-group="btn">BTN</a>
+          <a href="#/dao-tao/bkln" role="menuitem" data-group="bkln">BKLN</a>
+          <a href="#/dao-tao/bnho" role="menuitem" data-group="bnho">B Nhỏ</a>
+          <a href="#/dao-tao/sk" role="menuitem" data-group="sk">SK</a>
+        </div>
+      </li>
+      <li><a href="#/chan-tin" data-route="chan-tin" data-i18n="navVerify">CHẨN TIN</a></li>
+      <li><a href="#/hoc-tap" data-route="hoc-tap" data-i18n="navLearn">HỌC TẬP</a></li>
+      <li><a href="#/cuoc-thi" data-route="cuoc-thi" data-i18n="navContest">CUỘC THI</a></li>
+      <li><a href="#/tin-tuc" data-route="tin-tuc" data-i18n="navNews">TIN TỨC</a></li>
+    </ul>
+    <div class="lang" role="group" aria-label="Ngôn ngữ" data-i18n-aria="aLang">
+      <button type="button" data-lang="en">EN</button><span>/</span><button type="button" data-lang="vi">VN</button>
+    </div>
+  </nav>
+
+  <!-- ===== MAIN ===== -->
+  <main class="layout" id="layout">
+    <div class="view" id="view" tabindex="-1"></div>
+
+    <!-- CHAT BOT – MAI AI (gọi /api/chat của serve.py) -->
+    <aside class="chat" id="chat" aria-label="Chatbot hỏi đáp" data-i18n-aria="aChat">
+      <div class="chat-head">
+        <h2 data-i18n="chatTitle">MAI AI</h2>
+        <button class="chat-close" id="chatClose" aria-label="Đóng chat" data-i18n-aria="aClose">
+          <svg viewBox="0 0 24 24" width="18" height="18"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <div class="chat-body">
+        <div class="chat-topics">
+          <h3 data-i18n="chatTopics">Chủ đề</h3>
+          <ul id="chatTopicList"></ul>
+        </div>
+        <div class="chat-main">
+          <h3 id="chatTopicTitle">Chủ đề</h3>
+          <div class="chat-msgs" id="chatMsgs" aria-live="polite"></div>
+          <form class="chat-input" id="chatForm" autocomplete="off">
+            <input id="chatText" type="text" maxlength="1000" placeholder="Nhập câu hỏi về sức khỏe…" data-i18n-ph="chatPlaceholder" aria-label="Nhập câu hỏi" data-i18n-aria="aInput">
+            <div class="chat-tools">
+              <button type="button" title="Đính kèm tệp" aria-label="Đính kèm tệp" data-i18n-aria="aAttach" data-tool="attach">
+                <svg viewBox="0 0 24 24" width="18" height="18"><path d="m21 11-9.2 9.2a5 5 0 0 1-7-7L14 4a3.5 3.5 0 0 1 5 5l-9.2 9.2a2 2 0 0 1-3-3L15 7" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </button>
+              <button type="button" title="Gửi hình ảnh" aria-label="Gửi hình ảnh" data-i18n-aria="aImage" data-tool="image">
+                <svg viewBox="0 0 24 24" width="18" height="18"><rect x="3" y="4" width="18" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="9" cy="10" r="1.6" fill="currentColor"/><path d="m4 18 5-5 4 4 3-3 4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+              </button>
+              <button type="button" title="Trợ giúp" aria-label="Trợ giúp" data-i18n-aria="aHelp" data-tool="help">
+                <svg viewBox="0 0 24 24" width="18" height="18"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.6 2.2c-.7.4-1.1.9-1.1 1.8M12 17h.01" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+              </button>
+              <button class="send" type="submit" aria-label="Gửi" data-i18n-aria="aSend">
+                <svg viewBox="0 0 24 24" width="18" height="18"><path d="M3 11.5 21 3l-8.5 18-2.2-7.3z" fill="currentColor"/></svg>
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <button class="chat-fab" id="chatFab" aria-label="Mở chat hỏi đáp" data-i18n-aria="aOpenChat">
+    <svg viewBox="0 0 24 24" width="24" height="24"><path d="M4 5h16v11H9l-5 4z" fill="currentColor"/></svg>
+    <span data-i18n="chatFab">Hỏi MAI AI</span>
+  </button>
+
+  <footer class="footer">
+    <p data-i18n="footerNote">Thông tin trên website chỉ mang tính tham khảo, không thay thế chẩn đoán, tư vấn hoặc chỉ định điều trị của bác sĩ.</p>
+  </footer>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/data.en.js"></script>
+  <script src="assets/js/quiz.js"></script>
+  <script src="assets/js/learn.js"></script>
+  <script src="assets/js/verify.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
