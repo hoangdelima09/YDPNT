@@ -14,12 +14,8 @@ const SRC = {
 
 /* ---------- Nhóm chủ đề (menu Đào tạo) ---------- */
 SITE.groups = [
-  { id: "btn",     code: "Bệnh truyền nhiễm",    name: "Bệnh truyền nhiễm",    desc: "Các bệnh do vi rút, vi khuẩn lây từ người sang người: viêm gan B, HIV… cùng cách chẩn đoán, điều trị và phòng bệnh." },
-  { id: "bkln",    code: "Bệnh không lây nhiễm", name: "Bệnh không lây nhiễm", desc: "Các bệnh và biến chứng mạn tính không lây: xơ gan, ung thư gan và cách theo dõi, phát hiện sớm." },
-  { id: "mecon",   code: "Sức khỏe bà mẹ, trẻ em và dinh dưỡng", name: "Sức khỏe bà mẹ, trẻ em và dinh dưỡng", desc: "Phòng lây truyền từ mẹ sang con, tiêm chủng và điều trị cho trẻ em, dinh dưỡng và lối sống lành mạnh." },
-  { id: "tamthan", code: "Sức khỏe tâm thần và các vấn đề xã hội", name: "Sức khỏe tâm thần và các vấn đề xã hội", desc: "Hiểu đúng và chống kỳ thị, cách tiếp cận dịch vụ y tế và bảo hiểm y tế." },
-  { id: "tntt",    code: "Tai nạn thương tích và bệnh nghề nghiệp", name: "Tai nạn thương tích và bệnh nghề nghiệp", desc: "Xử trí khi bị kim tiêm, vật sắc nhọn dính máu đâm vào, chăm sóc vết thương và phòng lây qua các thủ thuật xâm lấn da." },
-  { id: "vsmt",    code: "Vệ sinh môi trường và an toàn thực phẩm", name: "Vệ sinh môi trường và an toàn thực phẩm", desc: "Vệ sinh môi trường sống, nguồn nước và an toàn thực phẩm để bảo vệ sức khỏe cộng đồng." }
+  { id: "btn",  code: "Bệnh lây nhiễm",       name: "Bệnh lây nhiễm",       desc: "Các bệnh do vi rút, vi khuẩn lây từ người sang người: viêm gan B, HIV… cùng cách chẩn đoán, điều trị, phòng bệnh, phòng lây từ mẹ sang con và sống chung an toàn." },
+  { id: "bkln", code: "Bệnh không lây nhiễm", name: "Bệnh không lây nhiễm", desc: "Các bệnh và biến chứng mạn tính không lây: xơ gan, ung thư gan, cùng dinh dưỡng, lối sống và cách bảo vệ gan, theo dõi, phát hiện sớm." }
 ];
 
 /* ---------- Bài viết kiến thức ---------- */
@@ -371,7 +367,7 @@ SITE.articles = [
 
 /* 7 ------------------------------------------------------------------ */
 {
-  id: "me-con-viem-gan-b", group: "mecon", icon: "baby", date: "02/2025",
+  id: "me-con-viem-gan-b", group: "btn", icon: "baby", date: "02/2025",
   title: "Phòng lây truyền viêm gan B từ mẹ sang con",
   summary: "Sàng lọc HBsAg thai phụ, khi nào dùng tenofovir (từ thai kỳ thứ 2), vắc xin và HBIG cho trẻ trong 24 giờ đầu, cho con bú và theo dõi trẻ.",
   sources: [SRC.qd678, SRC.byt, SRC.nhep],
@@ -454,7 +450,7 @@ SITE.articles = [
 
 /* 8 ------------------------------------------------------------------ */
 {
-  id: "viem-gan-b-tre-em", group: "mecon", icon: "baby", date: "06/2026",
+  id: "viem-gan-b-tre-em", group: "btn", icon: "baby", date: "06/2026",
   title: "Viêm gan B ở trẻ em",
   summary: "Khi nào trẻ 2–11 tuổi cần điều trị, thuốc và liều dùng theo cân nặng; vì sao không điều trị trẻ dưới 2 tuổi.",
   sources: [SRC.byt],
@@ -560,7 +556,7 @@ SITE.articles = [
 
 /* 10 ----------------------------------------------------------------- */
 {
-  id: "hiv-me-con", group: "mecon", icon: "hiv", date: "02/2025",
+  id: "hiv-me-con", group: "btn", icon: "hiv", date: "02/2025",
   title: "Phòng lây truyền HIV, viêm gan B và giang mai từ mẹ sang con",
   summary: "Nội dung chính của Quyết định 678/QĐ-BYT (2025): xét nghiệm và tư vấn cho thai phụ, dự phòng HIV, giang mai, theo dõi trẻ và vai trò của các cơ sở y tế.",
   sources: [SRC.qd678, SRC.byt],
@@ -764,7 +760,7 @@ SITE.articles = [
 
 /* 14 ----------------------------------------------------------------- */
 {
-  id: "song-chung-an-toan-gia-dinh", group: "tntt", icon: "shield", date: "11/2026",
+  id: "song-chung-an-toan-gia-dinh", group: "btn", icon: "shield", date: "11/2026",
   title: "Phòng lây nhiễm viêm gan B trong gia đình và đời sống",
   summary: "Xử trí khi bị kim tiêm đâm, an toàn khi làm móng, cắt tóc, xăm; chăm sóc vết thương, vệ sinh vết máu và những điều gia đình cần làm.",
   sources: [SRC.byt, SRC.bank],
@@ -808,7 +804,7 @@ SITE.articles = [
 
 /* 15 ----------------------------------------------------------------- */
 {
-  id: "dinh-duong-loi-song-gan", group: "mecon", icon: "liver", date: "11/2026",
+  id: "dinh-duong-loi-song-gan", group: "bkln", icon: "liver", date: "11/2026",
   title: "Dinh dưỡng, lối sống và bảo vệ gan khi nhiễm viêm gan B",
   summary: "Kiêng rượu bia, ăn uống cân đối, dùng thuốc giảm đau/hạ sốt và thực phẩm chức năng thận trọng, vận động, giấc ngủ và các việc nên tránh.",
   sources: [SRC.byt, SRC.bank],
@@ -850,7 +846,7 @@ SITE.articles = [
 
 /* 16 ----------------------------------------------------------------- */
 {
-  id: "hieu-lam-ky-thi-hbv", group: "tamthan", icon: "doc", date: "11/2026",
+  id: "hieu-lam-ky-thi-hbv", group: "btn", icon: "doc", date: "11/2026",
   title: "Hiểu lầm thường gặp về viêm gan B và vì sao cần chấm dứt kỳ thị",
   summary: "Kiểm chứng nhanh các thông tin sai lệch hay lan truyền: lây qua ăn uống, muỗi, án tử, tự bỏ thuốc, nước lá, cho con bú, kết hôn, đi làm…",
   sources: [SRC.byt, SRC.who, SRC.bank],
@@ -891,7 +887,7 @@ SITE.articles = [
 
 /* 17 ----------------------------------------------------------------- */
 {
-  id: "tiep-can-y-te-bhyt", group: "tamthan", icon: "chart", date: "11/2026",
+  id: "tiep-can-y-te-bhyt", group: "btn", icon: "chart", date: "11/2026",
   title: "Khám, xét nghiệm và điều trị viêm gan B: tuyến cơ sở và bảo hiểm y tế",
   summary: "Đi đâu để xét nghiệm, tiêm phòng, nhận thuốc; khi nào cần chuyển tuyến; cách tận dụng bảo hiểm y tế và các kênh thông tin chính thống tại TP. Hồ Chí Minh.",
   sources: [SRC.byt, SRC.nhep, SRC.bank],

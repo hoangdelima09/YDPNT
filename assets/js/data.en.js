@@ -12,12 +12,8 @@ SITE_EN.sources = {
 };
 
 SITE_EN.groups = {
-  btn:     { code: "Communicable diseases", name: "Communicable diseases", desc: "Diseases that spread from person to person through viruses or bacteria, such as hepatitis B and HIV, with their diagnosis, treatment and prevention." },
-  bkln:    { code: "Non-communicable diseases", name: "Non-communicable diseases", desc: "Chronic, non-infectious diseases and complications such as cirrhosis and liver cancer, and how to monitor and detect them early." },
-  mecon:   { code: "Maternal, child health and nutrition", name: "Maternal, child health and nutrition", desc: "Preventing mother-to-child transmission, vaccination and treatment for children, nutrition and a healthy lifestyle." },
-  tamthan: { code: "Mental health and social issues", name: "Mental health and social issues", desc: "Understanding the facts and ending stigma, and how to access health services and health insurance." },
-  tntt:    { code: "Injuries and occupational diseases", name: "Injuries and occupational diseases", desc: "What to do after a needlestick or sharps injury, wound care, and preventing spread through procedures that break the skin." },
-  vsmt:    { code: "Environmental hygiene and food safety", name: "Environmental hygiene and food safety", desc: "Environmental hygiene, safe water and food safety to protect community health." }
+  btn:  { code: "Communicable diseases", name: "Communicable diseases", desc: "Diseases that spread from person to person through viruses or bacteria, such as hepatitis B and HIV, with their diagnosis, treatment, prevention, mother-to-child transmission and safe living together." },
+  bkln: { code: "Non-communicable diseases", name: "Non-communicable diseases", desc: "Chronic, non-infectious diseases and complications such as cirrhosis and liver cancer, plus nutrition, lifestyle and liver protection, monitoring and early detection." }
 };
 
 SITE_EN.news = {
